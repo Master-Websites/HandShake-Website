@@ -2,6 +2,7 @@
 
 import { Icon } from '@iconify/react'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export function Footer() {
   return (
@@ -9,7 +10,7 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-6 sm:gap-8 mb-8 sm:mb-12">
           <div className="col-span-2 lg:col-span-2">
-            <a href="/" className="flex items-center cursor-pointer transition-transform hover:scale-105 relative">
+            <Link href="/" className="flex items-center cursor-pointer transition-transform hover:scale-105 relative">
               <Image 
                 src="/logos/handshake-logo.svg" 
                 alt="Handshake" 
@@ -17,7 +18,7 @@ export function Footer() {
                 height={32}
                 className="h-7 w-auto"
               />
-            </a>
+            </Link>
             <p className="max-w-xs font-geist text-gray-500 mt-2 sm:mt-4 text-xs sm:text-sm">
               The #1 LinkedIn Automation Platform for Agencies.
             </p>

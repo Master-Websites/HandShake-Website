@@ -33,6 +33,5 @@ export { AboutValues } from './AboutValues'
 export { AboutTeam } from './AboutTeam'
 export { LegalLayout } from './LegalLayout'
 export { CTASection } from './CTASection'
-export { PricingCTA } from './PricingCTA'
 export { Footer } from './Footer'
 

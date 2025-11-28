@@ -2,6 +2,7 @@
 
 import { Icon } from '@iconify/react'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export function Navbar() {
   return (
@@ -9,7 +10,7 @@ export function Navbar() {
       <div className="flex transition-all duration-500 shadow-black/50 [animation:fadeSlideIn_0.8s_ease-out_0.1s_both] bg-gray-900/10 w-full h-12 sm:h-14 border-gray-700/50 border rounded-full px-3 sm:px-4 md:px-6 py-2 sm:py-3 shadow-2xl backdrop-blur-xl items-center justify-between">
         <div className="absolute inset-0 rounded-full border-2 border-transparent bg-gradient-to-r from-blue-500/50 to-indigo-500/50 opacity-0 pointer-events-none" />
 
-        <a href="/" className="flex items-center cursor-pointer transition-transform hover:scale-105 relative shrink-0">
+        <Link href="/" className="flex items-center cursor-pointer transition-transform hover:scale-105 relative shrink-0">
           {/* Full logo with text for medium screens and up */}
           <Image 
             src="/logos/handshake-logo.svg" 
@@ -28,25 +29,25 @@ export function Navbar() {
             className="block md:hidden h-7 w-auto"
             priority
           />
-        </a>
+        </Link>
 
         <div className="relative hidden lg:flex items-center space-x-1 xl:space-x-2 text-sm font-medium">
-          <a href="/features" className="nav-link relative px-2 xl:px-3 py-2 transition-colors duration-300 font-geist text-gray-300 hover:text-white">
+          <Link href="/features" className="nav-link relative px-2 xl:px-3 py-2 transition-colors duration-300 font-geist text-gray-300 hover:text-white">
             Features
             <span className="absolute bottom-0 left-1/2 h-[2px] w-0 -translate-x-1/2 rounded-full bg-transparent transition-all duration-300 nav-indicator" />
-          </a>
-          <a href="/pricing" className="nav-link relative px-2 xl:px-3 py-2 transition-colors duration-300 font-geist text-gray-300 hover:text-white">
+          </Link>
+          <Link href="/pricing" className="nav-link relative px-2 xl:px-3 py-2 transition-colors duration-300 font-geist text-gray-300 hover:text-white">
             Pricing
             <span className="absolute bottom-0 left-1/2 h-[2px] w-0 -translate-x-1/2 rounded-full bg-transparent transition-all duration-300 nav-indicator" />
-          </a>
-          <a href="/about" className="nav-link relative px-2 xl:px-3 py-2 transition-colors duration-300 font-geist text-gray-300 hover:text-white">
+          </Link>
+          <Link href="/about" className="nav-link relative px-2 xl:px-3 py-2 transition-colors duration-300 font-geist text-gray-300 hover:text-white">
             About
             <span className="absolute bottom-0 left-1/2 h-[2px] w-0 -translate-x-1/2 rounded-full bg-transparent transition-all duration-300 nav-indicator" />
-          </a>
-          <a href="/contact" className="nav-link relative px-2 xl:px-3 py-2 transition-colors duration-300 font-geist text-gray-300 hover:text-white">
+          </Link>
+          <Link href="/contact" className="nav-link relative px-2 xl:px-3 py-2 transition-colors duration-300 font-geist text-gray-300 hover:text-white">
             Contact
             <span className="absolute bottom-0 left-1/2 h-[2px] w-0 -translate-x-1/2 rounded-full bg-transparent transition-all duration-300 nav-indicator" />
-          </a>
+          </Link>
         </div>
 
         <div className="relative flex items-center gap-2 shrink-0">
