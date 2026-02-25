@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Script from 'next/script'
 import { Plus_Jakarta_Sans, Geist } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 import { JsonLd } from '@/components/JsonLd'
 import './globals.css'
 
@@ -104,6 +105,7 @@ export default function RootLayout({
         <JsonLd data={organizationSchema} />
         {children}
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   )
