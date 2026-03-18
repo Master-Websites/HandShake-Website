@@ -64,6 +64,9 @@ export const metadata: Metadata = {
     icon: '/logos/handshake-icon.svg',
     apple: '/logos/handshake-icon.svg',
   },
+  alternates: {
+    canonical: 'https://byhandshake.com',
+  },
   robots: {
     index: true,
     follow: true,
