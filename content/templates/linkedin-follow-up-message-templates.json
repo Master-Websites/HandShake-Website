@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-follow-up-message-templates",
+  "title": "12+ LinkedIn Follow-Up Message Templates That Get Replies (2026)",
+  "description": "Copy-paste LinkedIn follow-up message templates for after connection acceptance. Tested sequences for booking meetings, sharing value, and staying top of mind.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Follow-Up Messages Are Where Deals Happen",
+      "content": "The connection request gets you in the door. The follow-up message closes the deal. Most LinkedIn outreach fails not because the connection request was bad, but because the follow-up was generic, pushy, or non-existent.\n\nHere's the reality: 80% of sales require 5+ follow-ups, but 44% of salespeople give up after just one attempt. On LinkedIn, the numbers are even starker — most people send a connection request, maybe one message, and then move on. That's leaving money on the table.\n\nThe templates below cover every stage of the follow-up sequence: the first message after connection, the value-add follow-up, the meeting request, and the gentle breakup. Each one is designed to feel personal, provide value, and move the conversation forward."
+    },
+    "templates": [
+      {
+        "name": "The Warm Thank You (First Message After Connection)",
+        "text": "Thanks for connecting, {{firstName}}! I've been following {{company}}'s growth in {{industry}} — impressive trajectory.\n\nQuick question: how are you currently handling {{painPoint}}? We've been helping teams like yours with {{solution}} and I'd love to share what's working.\n\nNo pressure at all — just happy to connect either way.",
+        "whenToUse": "Send within 24 hours of connection acceptance. This is your first real conversation — set the tone right.",
+        "expectedPerformance": "15-25% reply rate",
+        "personalizationTips": "Reference something specific about their company. The {{painPoint}} should be a real challenge you know their industry faces."
+      },
+      {
+        "name": "The Value-First Follow-Up",
+        "text": "Hey {{firstName}}, thought this might be useful for you — we just published a {{contentType}} on {{topic}} that's been getting great feedback from {{industry}} leaders.\n\nHere's the link: {{link}}\n\nLet me know if it resonates — happy to dive deeper on any of the points.",
+        "whenToUse": "2-3 days after your first message if no reply. Leads with value instead of a sales pitch.",
+        "expectedPerformance": "10-18% reply rate",
+        "personalizationTips": "The content must be genuinely relevant to their role and industry. Don't share your company blog post unless it actually addresses their pain point."
+      },
+      {
+        "name": "The Case Study Drop",
+        "text": "Hi {{firstName}}, wanted to share a quick win — we recently helped {{similarCompany}} in {{industry}} achieve {{specificResult}} using {{product/approach}}.\n\nTheir situation was similar to what I've seen at {{company}}. Would you be open to a 15-min call to see if we could replicate that for your team?",
+        "whenToUse": "When you have a relevant case study. Works best as a 2nd or 3rd follow-up.",
+        "expectedPerformance": "12-20% reply rate",
+        "personalizationTips": "The case study should be from their industry or a similar company size. Specific results (numbers, percentages) outperform vague claims."
+      },
+      {
+        "name": "The Soft Meeting Request",
+        "text": "Hey {{firstName}}, I know you're busy — so I'll keep this short.\n\nWould you be open to a quick 15-minute chat this week? I think there's a real opportunity to help {{company}} with {{specificChallenge}}, and I'd rather show you than tell you.\n\nIf this week doesn't work, happy to find a time that does. No rush.",
+        "whenToUse": "After you've sent 1-2 value-add messages. This is the ask.",
+        "expectedPerformance": "8-15% reply rate",
+        "personalizationTips": "Keep it under pressure-free. '15 minutes' is the magic number — it feels low-commitment. Never say '30 minutes' in a cold follow-up."
+      },
+      {
+        "name": "The Insight Trigger",
+        "text": "Hi {{firstName}}, came across something interesting — {{relevantInsight}}.\n\nMade me think of {{company}} and how this might impact your {{department/focus}}. Have you been thinking about this?\n\nWould love to hear your take.",
+        "whenToUse": "When you find a relevant industry trend, news item, or data point that connects to the prospect's work.",
+        "expectedPerformance": "12-20% reply rate",
+        "personalizationTips": "The insight should be genuinely interesting and not obviously a sales setup. Think: industry reports, regulatory changes, competitor moves."
+      },
+      {
+        "name": "The Mutual Connection Lever",
+        "text": "Hey {{firstName}}, I was chatting with {{mutualConnection}} the other day and your name came up — they mentioned you're doing great work with {{initiative}} at {{company}}.\n\nI work with similar teams on {{valueArea}} and would love to swap notes. Any interest in a quick chat?",
+        "whenToUse": "When you can naturally reference a mutual connection who's relevant to both of you.",
+        "expectedPerformance": "18-28% reply rate",
+        "personalizationTips": "Only use if the mutual connection reference is authentic. Prospects will verify with the person mentioned."
+      },
+      {
+        "name": "The Problem-Agitate Follow-Up",
+        "text": "Hi {{firstName}}, one thing I keep hearing from {{jobTitle}}s in {{industry}} is that {{commonProblem}}.\n\nIt usually gets worse when {{agitation}} — and by then, the team is stuck playing catch-up.\n\nWe built {{product}} specifically to solve this. Worth a conversation?",
+        "whenToUse": "When your prospect hasn't responded to softer approaches. This template creates urgency through problem awareness.",
+        "expectedPerformance": "10-16% reply rate",
+        "personalizationTips": "The problem must be real and specific to their role. Generic problems ('generating more leads') won't land — be specific ('managing outreach across 8 LinkedIn accounts without a unified inbox')."
+      },
+      {
+        "name": "The Social Proof Nudge",
+        "text": "Hey {{firstName}}, just in case it helps — here's what {{customerName}}, {{customerTitle}} at {{customerCompany}}, said about working with us:\n\n\"{{testimonialQuote}}\"\n\nHappy to share more details on how we helped them. Would a quick call make sense?",
+        "whenToUse": "When you have a strong testimonial from someone in a similar role or industry.",
+        "expectedPerformance": "10-18% reply rate",
+        "personalizationTips": "Use a testimonial from someone at a comparable company. If possible, choose someone the prospect might recognize or respect."
+      },
+      {
+        "name": "The Quick Video Message",
+        "text": "Hey {{firstName}}, I recorded a quick 60-second video for you showing how {{company}} could {{specificBenefit}}.\n\n{{videoLink}}\n\nWould love your thoughts — even if it's just a 'not interested right now.' Either way, hope it's useful.",
+        "whenToUse": "When you want to stand out from text-based messages. Video messages have 3x higher open rates on LinkedIn.",
+        "expectedPerformance": "15-25% reply rate",
+        "personalizationTips": "Record a genuinely personalized video — mention their name, company, and a specific observation. Generic 'personalized' videos with just a name overlay don't work as well."
+      },
+      {
+        "name": "The Gentle Breakup",
+        "text": "Hi {{firstName}}, I've reached out a few times and I know you're busy — so I don't want to keep cluttering your inbox.\n\nIf {{solution}} isn't a priority right now, totally understand. But if things change down the road, I'm here.\n\nWishing you and the team at {{company}} all the best.",
+        "whenToUse": "After 3-4 unanswered messages. This is your last message in the sequence — and surprisingly, it often gets the most replies.",
+        "expectedPerformance": "12-20% reply rate (often the highest in a sequence)",
+        "personalizationTips": "The breakup message works because it removes pressure. Keep it genuine and respectful. Some prospects reply weeks later."
+      },
+      {
+        "name": "The Re-Engagement (After Silence)",
+        "text": "Hey {{firstName}}, it's been a while since we connected. Hope things are going well at {{company}}!\n\nWe've recently launched {{newFeature/update}} that I thought might be relevant for your {{department}}. Worth revisiting?\n\nHappy to share what's new over a quick call.",
+        "whenToUse": "When re-engaging a connection who went cold 1-3 months ago. Gives a fresh reason to reconnect.",
+        "expectedPerformance": "8-15% reply rate",
+        "personalizationTips": "Reference something that's actually new — a product update, a new case study, or a company milestone. Don't just repeat your original pitch."
+      },
+      {
+        "name": "The Congratulations Opener",
+        "text": "{{firstName}}, congrats on {{achievement}} — that's a big milestone for {{company}}! 🎉\n\nWith that kind of growth, I imagine {{relatedChallenge}} is top of mind. We've been helping similar teams tackle that — happy to share what we're seeing.\n\nEither way, well deserved!",
+        "whenToUse": "When the prospect or their company has a recent achievement (funding, award, promotion, product launch).",
+        "expectedPerformance": "18-28% reply rate",
+        "personalizationTips": "The congratulations must be genuine and timely. Link the achievement to a natural conversation about how you can help."
+      }
+    ],
+    "customization": {
+      "title": "How to Customize These Templates",
+      "content": "Follow-up messages have more room than connection requests (no character limit), but shorter is still better. Here's how to customize effectively:\n\n1. **First message after connection**: Keep to 3-5 sentences. Your goal is to start a conversation, not pitch.\n2. **Value-add follow-ups**: Share content, insights, or case studies that are genuinely relevant. Self-serving content kills reply rates.\n3. **Meeting requests**: Make it easy to say yes. Suggest a specific time, keep it to 15 minutes, and remove all friction.\n4. **Timing between follow-ups**: Wait 2-4 days between messages in the same sequence. Don't send daily.\n5. **Sequence length**: 4-5 messages is optimal. Less than 3 and you give up too early. More than 6 and you're annoying.\n\nAlways include an easy out ('no pressure,' 'totally understand if not') — it paradoxically increases response rates."
+    },
+    "sendingAtScale": {
+      "title": "Sending Follow-Up Sequences with Handshake",
+      "content": "Handshake automates your entire follow-up sequence:\n\n- **Multi-step sequences**: Set up 4-5 follow-up messages with customizable delays between each step\n- **Conditional logic**: If they reply, the sequence stops automatically. No awkward double-messages.\n- **Dynamic personalization**: Use `{{firstName}}`, `{{company}}`, `{{jobTitle}}`, and custom fields across all messages\n- **A/B test follow-ups**: Test different message variants at each step to optimize reply rates\n- **Unified inbox**: All replies from all senders land in one inbox — respond instantly without switching accounts\n- **Multi-sender rotation**: Follow-up messages are sent from the same sender who made the original connection, maintaining conversational continuity"
+    }
+  },
+  "faqs": [
+    { "question": "How long should I wait between LinkedIn follow-up messages?", "answer": "2-4 days between messages in the same sequence is the sweet spot. Less than 2 days feels pushy. More than 7 days and you lose momentum. For re-engagement after a cold period, wait 2-4 weeks." },
+    { "question": "How many follow-up messages should I send before giving up?", "answer": "4-5 messages is the optimal sequence length. Include a mix of value-add content, a case study, a meeting request, and a breakup message. 80% of replies come after the 2nd message or later." },
+    { "question": "What's a good reply rate for LinkedIn follow-up messages?", "answer": "10-20% overall reply rate across your sequence is a solid benchmark for cold outreach. The first message typically gets 15-25%, declining with each follow-up. The breakup message often sees a bump to 12-20%." },
+    { "question": "Should follow-up messages come from the same sender as the connection request?", "answer": "Yes. Sending a connection request from one account and a follow-up from another is confusing and damages trust. Handshake's multi-sender rotation maintains sender continuity throughout the entire sequence." },
+    { "question": "What's the best time to send LinkedIn follow-up messages?", "answer": "Tuesday through Thursday, 8-11 AM in the prospect's timezone, typically gets the best engagement. Monday mornings are crowded; Friday afternoons are ignored. Avoid weekends unless your audience is active then." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-send-connection-requests-at-scale-on-linkedin", "how-to-avoid-getting-banned-on-linkedin", "how-to-set-up-multi-sender-rotation-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-recruitment-staffing"]
+  }
+}

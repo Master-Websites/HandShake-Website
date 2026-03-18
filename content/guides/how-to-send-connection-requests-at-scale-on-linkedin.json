@@ -1,0 +1,69 @@
+{
+  "slug": "how-to-send-connection-requests-at-scale-on-linkedin",
+  "title": "How to Send Connection Requests at Scale on LinkedIn — Step-by-Step Guide (2026)",
+  "description": "Learn how to send LinkedIn connection requests at scale without getting banned. Includes daily limits, personalization tips, automation setup, and safety best practices.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Sending Connection Requests at Scale Matters for B2B Outbound",
+      "content": "LinkedIn connection requests are the foundation of every B2B outreach strategy. Before you can message a prospect, you need to be connected — and building a network of hundreds or thousands of qualified leads doesn't happen by clicking 'Connect' one at a time.\n\nFor SDR teams, founders, and agencies, sending connection requests at scale is the first step in a predictable pipeline. The math is simple: if your acceptance rate is 30% and you need 100 new connections per month, you need to send at least 334 requests. At LinkedIn's current weekly limit of ~100 requests per account, that means either waiting months — or using multiple sender accounts with smart automation.\n\nThe challenge is doing this without triggering LinkedIn's spam detection. Send too many, too fast, without personalization, and you'll get restricted. This guide covers exactly how to scale connection requests safely and effectively."
+    },
+    "steps": [
+      {
+        "title": "Understand LinkedIn's Current Connection Request Limits",
+        "content": "As of 2026, LinkedIn enforces approximately 100–200 connection requests per week per account, depending on your account age, SSI score, and history. New accounts start at the lower end (~80-100/week). Established accounts with high SSI scores (70+) can sometimes push closer to 200/week.\n\nKey limits to know:\n- **Weekly limit**: ~100 connection requests for most accounts\n- **Daily safe zone**: 20-30 requests per day (spread across business hours)\n- **Withdrawal limit**: Don't let pending requests exceed 500-700 at any time\n- **Warm accounts get more**: Accounts with high engagement and acceptance rates get higher limits\n\nPro tip: LinkedIn counts both sent AND withdrawn requests toward your weekly total. Don't mass-withdraw and re-send."
+      },
+      {
+        "title": "Build a Targeted Lead List Before You Send Anything",
+        "content": "Sending connection requests at scale is only effective if you're targeting the right people. A 40% acceptance rate on a qualified list is worth more than a 10% rate on a random one.\n\nBuild your list using:\n- **LinkedIn Sales Navigator**: Filter by job title, company size, industry, geography, and seniority level. Sales Nav leads have 2-3x higher acceptance rates because they're more precisely targeted.\n- **Boolean search**: Use LinkedIn's native search with operators like `AND`, `OR`, `NOT`, and quotation marks for exact titles.\n- **CSV imports**: If you have a list from another tool (Apollo, ZoomInfo, etc.), you can upload it directly to your automation tool.\n\nAim for lists of 500-2,000 prospects per campaign. Too small and you won't generate enough volume; too large and personalization suffers."
+      },
+      {
+        "title": "Write Personalized Connection Request Notes",
+        "content": "LinkedIn gives you 300 characters for a connection request note. Use them wisely — personalized requests get 2-3x higher acceptance rates than blank ones.\n\nThe anatomy of a high-performing connection note:\n1. **Reference something specific**: Their company, a post they made, a mutual connection, or their role.\n2. **State a clear reason to connect**: Not 'I'd love to add you to my network' — but why it's relevant for them.\n3. **Keep it short**: 2-3 sentences max. Nobody reads paragraphs in connection requests.\n\nExample template:\n> Hi {{firstName}}, I saw you're leading {{topic}} at {{company}}. We help similar teams with {{value_prop}}. Would love to connect and share some insights.\n\nUse dynamic variables like `{{firstName}}`, `{{company}}`, and `{{jobTitle}}` to personalize at scale without writing each note manually."
+      },
+      {
+        "title": "Set Up Automation with Proper Safety Settings",
+        "content": "Manual sending caps out at 20-30 requests per day before it becomes tedious and error-prone. Automation tools let you send consistently while you focus on conversations.\n\nWhen setting up automation:\n- **Daily limits**: Set to 20-30 requests per day per account. Never max out LinkedIn's limits.\n- **Sending window**: Only send during business hours in your prospect's timezone (8 AM - 6 PM). LinkedIn's algorithm flags 24/7 activity.\n- **Random delays**: Add 45-120 second delays between each action. Consistent 30-second intervals look robotic.\n- **Warmup new accounts**: Start at 5-10 requests/day for the first 2 weeks, then gradually increase by 5/day each week.\n\nWith Handshake, these safety settings are built in. Premium residential proxies ensure each sender account has a unique, clean IP address, and the platform enforces human-like sending patterns automatically."
+      },
+      {
+        "title": "Use Multi-Sender Rotation for Maximum Volume",
+        "content": "This is where serious teams gain their edge. Instead of maxing out one account at 25 requests/day, distribute your outreach across 5 accounts at 20 requests/day each. That's 100 requests/day — 4x the volume of a single account — with less risk per account.\n\nHow multi-sender rotation works:\n1. Connect multiple LinkedIn accounts to your automation platform\n2. Upload your lead list once\n3. The platform automatically distributes leads across senders\n4. Each sender stays within safe daily limits\n5. All replies come into a unified inbox\n\nThis is Handshake's core feature. You set up 5, 10, or 50 sender accounts, and the platform handles rotation automatically. Each account stays well under LinkedIn's limits while your total outreach volume multiplies.\n\nThe math at scale:\n- **1 sender**: ~25 requests/day = ~125/week = ~500/month\n- **5 senders**: ~125 requests/day = ~625/week = ~2,500/month\n- **10 senders**: ~250 requests/day = ~1,250/week = ~5,000/month"
+      },
+      {
+        "title": "Monitor Acceptance Rates and Optimize",
+        "content": "Sending at scale means nothing if your acceptance rates are terrible. Track these metrics weekly:\n\n- **Acceptance rate**: Target 25-40%. Below 20% means your targeting or messaging needs work.\n- **Pending requests**: Keep below 500-700. Withdraw requests older than 3 weeks.\n- **Response rate**: After connection, aim for 10-20% reply rate on your first message.\n- **SSI score**: Monitor your LinkedIn Social Selling Index. Higher SSI = higher limits.\n\nIf your acceptance rate drops below 20%:\n1. Tighten your targeting — fewer prospects, better fit\n2. Improve your connection note — add more personalization\n3. Reduce daily volume — LinkedIn may be throttling you\n4. Check your profile — a weak profile kills acceptance rates"
+      },
+      {
+        "title": "Withdraw Stale Pending Requests",
+        "content": "This step is often overlooked but critical. LinkedIn counts pending (unanswered) connection requests toward your overall quota, and having hundreds of unaccepted requests signals spam behavior.\n\nBest practices:\n- Withdraw requests that have been pending for 2-3 weeks\n- Do this weekly as part of your campaign maintenance\n- Never let pending requests exceed 500-700 total\n- After withdrawing, wait at least 3 weeks before re-sending to the same person\n\nMany automation tools can handle this automatically, withdrawing stale requests on a schedule you define."
+      }
+    ],
+    "mistakes": {
+      "title": "Common Mistakes to Avoid",
+      "items": [
+        "**Sending blank connection requests**: No note = 15-20% acceptance rate. A personalized note doubles or triples this.",
+        "**Maxing out daily limits**: Sending 100 requests in a day from a new account is the fastest way to get restricted. Start slow and ramp up.",
+        "**Ignoring your LinkedIn profile**: Your profile is your landing page. If your headline is 'Sales Rep at Company X,' prospects will ignore you. Optimize it with a value-focused headline.",
+        "**Not warming up new accounts**: Brand new or dormant accounts need 2-3 weeks of gradual activity before running full campaigns.",
+        "**Using browser extensions for automation**: Chrome extensions run on your local browser and share your home IP. Cloud-based tools with residential proxies are significantly safer."
+      ]
+    },
+    "automation": {
+      "title": "How to Automate This with Handshake",
+      "content": "Handshake makes scaling connection requests straightforward:\n\n1. **Connect your LinkedIn accounts** — add 1 to 50+ sender accounts in minutes\n2. **Import your lead list** — CSV upload or direct from Sales Navigator\n3. **Create a campaign** — write your connection note with dynamic variables, set your daily limits\n4. **Enable multi-sender rotation** — Handshake distributes leads across your senders automatically\n5. **Monitor from the unified inbox** — every acceptance and reply from every sender, in one place\n\nThe warmup scheduler handles new accounts automatically, ramping from 5 to 25 requests/day over your first 2-3 weeks. Premium residential proxies are included on every plan — no third-party proxy setup needed."
+    }
+  },
+  "faqs": [
+    { "question": "How many connection requests can I send per day on LinkedIn?", "answer": "LinkedIn's safe zone is 20-30 requests per day per account. The weekly limit is approximately 100 requests for most accounts. Established accounts with high SSI scores can sometimes send up to 200/week." },
+    { "question": "Will I get banned for sending connection requests at scale?", "answer": "Not if you follow safety best practices: stay within daily limits, use personalization, warm up new accounts gradually, and use a cloud-based tool with residential proxies. Avoid browser extensions and 24/7 sending patterns." },
+    { "question": "What's a good acceptance rate for LinkedIn connection requests?", "answer": "25-40% is a good benchmark for targeted B2B outreach. Below 20% signals a targeting or messaging problem. Above 40% means your targeting is excellent." },
+    { "question": "Should I include a note with my connection request?", "answer": "Yes, always. Personalized connection notes get 2-3x higher acceptance rates. Use the 300-character limit to reference something specific about the prospect and state a clear reason to connect." },
+    { "question": "How does multi-sender rotation help with connection request volume?", "answer": "Instead of maxing out one account, you distribute requests across multiple accounts. Five senders at 25/day = 125 requests/day total, with each account staying within safe limits. Handshake handles this rotation automatically." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-avoid-getting-banned-on-linkedin", "how-to-set-up-multi-sender-rotation-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-follow-up-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-recruitment-staffing"]
+  }
+}

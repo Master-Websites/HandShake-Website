@@ -1,0 +1,140 @@
+{
+  "slug": "linkedin-connection-request-templates",
+  "title": "15+ LinkedIn Connection Request Templates That Actually Work (2026)",
+  "description": "Copy-paste LinkedIn connection request templates that get accepted. Tested across thousands of campaigns. Personalization tips and performance benchmarks included.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Good Connection Request Templates Matter",
+      "content": "Your LinkedIn connection request is the first impression you make on a prospect. With only 300 characters to work with, every word counts. A blank request gets a 15-20% acceptance rate. A generic 'I'd like to add you to my professional network' barely does better. But a well-crafted, personalized connection note? That's where you see 35-50% acceptance rates.\n\nThe templates below have been tested across thousands of B2B outreach campaigns. Each one is designed to be short, specific, and give the prospect a reason to accept. Use them as starting points — personalize with your own details, company name, and value proposition for maximum results."
+    },
+    "templates": [
+      {
+        "name": "The Mutual Interest Opener",
+        "text": "Hi {{firstName}}, noticed we're both in the {{industry}} space. I lead {{yourRole}} at {{yourCompany}} — would love to connect and exchange ideas on {{topic}}.",
+        "whenToUse": "When you share an industry or functional area with the prospect. Works well for peer-level connections.",
+        "expectedPerformance": "35-45% acceptance rate",
+        "personalizationTips": "Replace {{topic}} with something specific to their recent activity — a post they shared, a conference they attended, or a trend in their industry."
+      },
+      {
+        "name": "The Content Admirer",
+        "text": "Hi {{firstName}}, just read your post on {{topic}} — really solid take. I'm working on similar challenges at {{yourCompany}}. Would love to connect.",
+        "whenToUse": "When the prospect has recently posted or shared content on LinkedIn. Shows you've done your homework.",
+        "expectedPerformance": "40-50% acceptance rate (highest-performing template type)",
+        "personalizationTips": "Reference a specific post, article, or comment. Vague compliments ('great content!') don't work — be specific about what resonated."
+      },
+      {
+        "name": "The Mutual Connection",
+        "text": "Hi {{firstName}}, I see we're both connected with {{mutualConnection}}. I'm {{yourRole}} at {{yourCompany}} — thought it'd be great to connect directly.",
+        "whenToUse": "When you share a mutual connection. Leverages social proof and reduces friction.",
+        "expectedPerformance": "40-50% acceptance rate",
+        "personalizationTips": "Only reference mutual connections you actually know. If the prospect asks about them, you need to have a real answer."
+      },
+      {
+        "name": "The Value-First Approach",
+        "text": "Hi {{firstName}}, we've helped companies like {{similarCompany}} increase their {{metric}} by {{number}}. Thought this might be relevant for {{company}}. Happy to share how.",
+        "whenToUse": "When you have a strong case study or metric that's relevant to the prospect's industry or role.",
+        "expectedPerformance": "30-40% acceptance rate",
+        "personalizationTips": "Use a case study from their industry. Mention a competitor or similar company they'd recognize. Keep the metric specific and credible."
+      },
+      {
+        "name": "The Event Connection",
+        "text": "Hi {{firstName}}, saw you attended {{event}}. I was there too — great session on {{topic}}. Would love to connect and continue the conversation.",
+        "whenToUse": "After a conference, webinar, or LinkedIn Live event you both attended.",
+        "expectedPerformance": "45-55% acceptance rate",
+        "personalizationTips": "Time-sensitive — send within 1-2 days of the event. Reference a specific session or speaker for authenticity."
+      },
+      {
+        "name": "The Group Member",
+        "text": "Hi {{firstName}}, fellow member of {{groupName}} here. I noticed your insights on {{topic}} — would love to connect and keep the discussion going.",
+        "whenToUse": "When you and the prospect are in the same LinkedIn Group.",
+        "expectedPerformance": "35-45% acceptance rate",
+        "personalizationTips": "Reference something specific they said in the group. Join and engage in relevant groups before using this template."
+      },
+      {
+        "name": "The Straight Shooter",
+        "text": "Hi {{firstName}}, no pitch — just genuinely interested in connecting with {{industry}} leaders. I'm building {{yourCompany}} and always learning from people like you.",
+        "whenToUse": "When you want a low-pressure approach for senior executives or C-suite prospects who get pitched constantly.",
+        "expectedPerformance": "30-40% acceptance rate",
+        "personalizationTips": "The 'no pitch' framing works because it breaks the pattern. But follow through — don't pitch in your first message after they accept."
+      },
+      {
+        "name": "The Company News Hook",
+        "text": "Hi {{firstName}}, congrats on {{companyNews}} at {{company}}! Exciting stuff. I work with fast-growing teams in {{industry}} — would love to connect.",
+        "whenToUse": "When the prospect's company has recent news — funding round, product launch, expansion, award.",
+        "expectedPerformance": "40-50% acceptance rate",
+        "personalizationTips": "Be specific about the news. Check the company's LinkedIn page, press releases, or Crunchbase for recent events."
+      },
+      {
+        "name": "The Role Change",
+        "text": "Hi {{firstName}}, congrats on the new role at {{company}}! Transitions are a great time to explore new tools. We help {{industry}} teams with {{valueProp}}. Happy to connect.",
+        "whenToUse": "When the prospect recently changed roles or started at a new company.",
+        "expectedPerformance": "40-50% acceptance rate",
+        "personalizationTips": "People in new roles are more open to new tools and solutions. Send within the first 30-90 days of their new position."
+      },
+      {
+        "name": "The Question Opener",
+        "text": "Hi {{firstName}}, quick question — how is {{company}} handling {{challenge}} right now? We've seen interesting approaches from {{industry}} teams. Would love to compare notes.",
+        "whenToUse": "When you know a common challenge in the prospect's industry and want to open a conversation.",
+        "expectedPerformance": "30-40% acceptance rate",
+        "personalizationTips": "The question must be relevant and insightful — not generic. Research the specific challenge for their industry and company size."
+      },
+      {
+        "name": "The Alumni Connection",
+        "text": "Hi {{firstName}}, fellow {{university}} alum here! I'm {{yourRole}} at {{yourCompany}} now. Always great to connect with fellow grads in {{industry}}.",
+        "whenToUse": "When you share an alma mater with the prospect.",
+        "expectedPerformance": "45-55% acceptance rate",
+        "personalizationTips": "School connections create instant trust. Mention a specific program, professor, or experience if possible."
+      },
+      {
+        "name": "The Thought Leader",
+        "text": "Hi {{firstName}}, I've been following your work on {{topic}} — insightful perspective. I write about {{yourTopic}} and think there's great overlap. Let's connect.",
+        "whenToUse": "When targeting thought leaders or people who actively publish content in your space.",
+        "expectedPerformance": "35-45% acceptance rate",
+        "personalizationTips": "Only use if you genuinely follow their content. Reference specific pieces they've published."
+      },
+      {
+        "name": "The Referral Mention",
+        "text": "Hi {{firstName}}, {{referrerName}} suggested I reach out — mentioned you're the person to talk to about {{topic}} at {{company}}. Would love to connect.",
+        "whenToUse": "When you have a warm referral or introduction from someone the prospect knows.",
+        "expectedPerformance": "50-65% acceptance rate (highest overall)",
+        "personalizationTips": "Get permission from the referrer first. This template only works if the referral is genuine."
+      },
+      {
+        "name": "The Industry Insight",
+        "text": "Hi {{firstName}}, I just published a report on {{topic}} trends in {{industry}} — thought you might find it useful given your work at {{company}}. Happy to share.",
+        "whenToUse": "When you have a content asset (report, guide, benchmark data) relevant to the prospect.",
+        "expectedPerformance": "35-45% acceptance rate",
+        "personalizationTips": "Make sure you actually have the content ready to share. The follow-up message should deliver the promised value immediately."
+      },
+      {
+        "name": "The Local Connection",
+        "text": "Hi {{firstName}}, noticed we're both based in {{city}}. Always great to connect with fellow {{industry}} professionals locally. I'm at {{yourCompany}} — let's connect!",
+        "whenToUse": "When you and the prospect are in the same city or region.",
+        "expectedPerformance": "35-45% acceptance rate",
+        "personalizationTips": "Works especially well in smaller markets. Mention local events, meetups, or business communities you're both part of."
+      }
+    ],
+    "customization": {
+      "title": "How to Customize These Templates",
+      "content": "These templates are starting points, not finished products. Here's how to make them your own:\n\n1. **Replace all variables**: `{{firstName}}`, `{{company}}`, `{{industry}}`, `{{topic}}` — every dynamic field should be filled with real data.\n2. **Match your tone**: If you're reaching out to startup founders, be casual. If you're targeting enterprise executives, be more polished.\n3. **A/B test variations**: Run 3-4 variants simultaneously and double down on what works. Even small changes in opening lines can shift acceptance rates by 10-15%.\n4. **Keep it under 300 characters**: LinkedIn enforces this limit. Every template above fits within it, but check after customization.\n5. **Rotate templates**: Don't use the same template for your entire list. LinkedIn's spam detection flags identical messages sent to many people."
+    },
+    "sendingAtScale": {
+      "title": "Sending Templates at Scale with Handshake",
+      "content": "Handshake makes it easy to deploy these templates across your outreach campaigns:\n\n- **Dynamic variables**: Use `{{firstName}}`, `{{company}}`, `{{jobTitle}}`, and custom fields to personalize every request automatically.\n- **A/B testing**: Run multiple template variants in a single campaign. Handshake tracks acceptance rates per variant so you know which performs best.\n- **Multi-sender rotation**: Your templates are distributed across multiple LinkedIn accounts, so no single account sends the same message repeatedly.\n- **Campaign templates library**: Save your best-performing connection request templates and reuse them across campaigns.\n\nCombine these templates with Handshake's follow-up sequences to turn accepted connections into booked meetings."
+    }
+  },
+  "faqs": [
+    { "question": "What's the character limit for LinkedIn connection request notes?", "answer": "300 characters. This includes spaces and punctuation. All templates in this guide are designed to fit within this limit, but always double-check after customization." },
+    { "question": "Should I send a blank connection request or include a note?", "answer": "Always include a note. Personalized connection requests get 2-3x higher acceptance rates than blank requests. A blank request averages 15-20% acceptance; a good note pushes it to 35-50%." },
+    { "question": "How many connection request templates should I A/B test?", "answer": "Start with 3-4 variants per campaign. Run each variant to at least 50-100 prospects before drawing conclusions. Once you identify a winner, test new variations against it." },
+    { "question": "Can I use the same template for every prospect?", "answer": "No — LinkedIn's spam detection flags identical messages sent to many recipients. Use multiple templates and rotate them. Dynamic variables (name, company, industry) add variation, but the body text should also differ across variants." },
+    { "question": "What's a good acceptance rate for connection requests?", "answer": "25-40% is the benchmark for targeted B2B outreach. Below 20% means your targeting or messaging needs improvement. Above 40% means you're doing well — keep optimizing." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-send-connection-requests-at-scale-on-linkedin", "how-to-avoid-getting-banned-on-linkedin", "how-to-set-up-multi-sender-rotation-on-linkedin"],
+    "templates": ["linkedin-follow-up-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-recruitment-staffing"]
+  }
+}

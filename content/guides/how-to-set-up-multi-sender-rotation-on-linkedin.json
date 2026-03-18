@@ -1,0 +1,69 @@
+{
+  "slug": "how-to-set-up-multi-sender-rotation-on-linkedin",
+  "title": "How to Set Up Multi-Sender Rotation on LinkedIn — Step-by-Step Guide (2026)",
+  "description": "Learn how to set up multi-sender rotation for LinkedIn outreach. Multiply your outreach volume while keeping each account safe with this complete setup guide.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Multi-Sender Rotation Is Essential for LinkedIn Outreach at Scale",
+      "content": "LinkedIn limits each account to approximately 100 connection requests per week and 50-100 messages per day. For a single SDR, that might be enough. But for a sales team trying to build a predictable pipeline, or an agency managing client outreach, those limits create a ceiling.\n\nMulti-sender rotation breaks through that ceiling safely. Instead of pushing one account to its limits, you distribute your outreach across multiple LinkedIn accounts — each staying well within safe daily thresholds. Five senders at 20 requests per day give you 100 requests per day total. Ten senders give you 200.\n\nThis isn't a workaround or a hack. It's the same principle behind sending cold email from multiple domains — spreading volume to maintain deliverability. Multi-sender rotation is the most effective way to scale LinkedIn outreach without increasing risk to any individual account."
+    },
+    "steps": [
+      {
+        "title": "Determine How Many Sender Accounts You Need",
+        "content": "Start with your outreach goals and work backward:\n\n**Calculate your required volume:**\n- How many connection requests do you need per month?\n- What's your target acceptance rate? (assume 25-35%)\n- How many first messages and follow-ups will you send?\n\n**Example calculation:**\n- Goal: 500 new connections per month\n- Expected acceptance rate: 30%\n- Connection requests needed: ~1,667/month\n- Safe limit per account: ~400 requests/month (20/day × 20 business days)\n- **Senders needed: 5 accounts** (1,667 ÷ 400 = 4.2, round up)\n\n**Common setups by team size:**\n- Solo founder: 1-2 senders ($69-$199/mo on Handshake)\n- Small sales team (2-5 SDRs): 5-10 senders ($199-$299/mo)\n- Agency (multiple clients): 10-20 senders ($299-$499/mo)\n- Enterprise outbound team: 20-50+ senders ($499-$999/mo)"
+      },
+      {
+        "title": "Prepare Your LinkedIn Sender Accounts",
+        "content": "Not every LinkedIn account is ready for outreach. Each sender account needs to meet baseline requirements:\n\n**Account requirements:**\n- Profile photo (professional headshot)\n- Completed headline with value proposition\n- At least 200+ existing connections (preferably 500+)\n- Active for at least 2-4 weeks with organic engagement\n- Complete work history (current and past positions)\n- About section filled out\n\n**Types of sender accounts:**\n1. **Team member accounts**: Real profiles of SDRs, AEs, or founders on your team. Most authentic and highest acceptance rates.\n2. **Dedicated sender accounts**: Profiles created specifically for outreach. Need extra warmup and profile building.\n3. **Client accounts (agencies)**: Your client's team members' profiles. Requires clear permission and access protocols.\n\n**Important:** Each account needs its own unique email and phone number for LinkedIn. Reusing phone numbers across accounts is a detection signal."
+      },
+      {
+        "title": "Set Up Dedicated Proxies for Each Account",
+        "content": "Every sender account should have its own dedicated residential proxy IP. This is non-negotiable for safety.\n\n**Why proxies matter:**\n- LinkedIn tracks IP addresses across sessions\n- Multiple accounts from the same IP = red flag\n- The proxy should match the geographic region on the sender's LinkedIn profile\n\n**Proxy types (ranked by safety):**\n1. **Dedicated residential proxy** (best): A static IP from a real ISP, assigned to one account. Looks like a normal home internet user.\n2. **Rotating residential proxy** (good): IP rotates periodically but stays within the same region. Acceptable for most use cases.\n3. **Datacenter proxy** (avoid): Easy for LinkedIn to detect. High ban risk.\n\n**With Handshake:** Premium residential proxies are included on every plan and automatically assigned to each sender account based on their profile location. No manual proxy setup required."
+      },
+      {
+        "title": "Warm Up Each Sender Account",
+        "content": "Every sender account — new or existing — needs a warmup period before you start automated outreach. This is especially important when connecting accounts to a new automation platform.\n\n**Warmup schedule per account:**\n\n| Day | Connection Requests | Profile Views | Messages | Organic Actions |\n|-----|-------------------|---------------|----------|----------------|\n| 1-3 | 3-5 | 10-15 | 5 | Like 10 posts |\n| 4-7 | 5-10 | 15-25 | 8-10 | Like/comment 15 posts |\n| 8-14 | 10-15 | 25-40 | 15-20 | Post content, engage |\n| 15-21 | 15-20 | 40-60 | 25-35 | Regular engagement |\n| 22+ | 20-25 | 60-80 | 40-60 | Maintain organic activity |\n\n**Stagger your warmup:** Don't connect all 10 accounts and start warming them up on the same day. Add 2-3 accounts per week. This prevents patterns and gives you time to monitor each account.\n\n**Handshake's automated warmup:** When you connect a new sender account, Handshake automatically applies a warmup schedule — gradually increasing daily limits over 3 weeks. You don't need to manage this manually."
+      },
+      {
+        "title": "Configure Campaign Distribution Rules",
+        "content": "This is the core of multi-sender rotation — how leads are distributed across your sender accounts.\n\n**Distribution strategies:**\n1. **Round-robin (most common)**: Leads are evenly distributed across all active senders. Sender A gets lead 1, Sender B gets lead 2, Sender C gets lead 3, etc.\n2. **Weighted distribution**: Assign more leads to accounts with higher acceptance rates or more connection capacity. A warmed account with 70 SSI gets 30% of leads; a newer account gets 15%.\n3. **Geography-based**: Route leads to senders in the same region. A prospect in Germany gets a connection request from your Berlin-based sender.\n4. **Industry-based**: Match senders to prospects by industry relevance. Your sender who's a 'VP of Sales' connects with sales leaders; your 'Head of Marketing' connects with marketing leaders.\n\n**In Handshake:** You create a single campaign with your lead list, select your sender accounts, and choose your distribution strategy. The platform handles all the routing automatically."
+      },
+      {
+        "title": "Set Up the Unified Inbox",
+        "content": "With multiple senders, managing conversations is the biggest operational challenge. Without a unified inbox, you'd need to log into each LinkedIn account separately to check for replies.\n\n**Why a unified inbox is critical for multi-sender:**\n- 10 senders = 10 LinkedIn inboxes to monitor\n- Missed replies = lost deals\n- Inconsistent response times look unprofessional\n- You need to know which sender connected with which prospect\n\n**Unified inbox workflow:**\n1. Prospect accepts connection from Sender C\n2. Prospect replies to first automated message\n3. Reply appears in unified inbox, tagged with Sender C and campaign name\n4. Your SDR responds from the unified inbox\n5. Response is sent from Sender C's LinkedIn account\n6. Full conversation thread is visible in one place\n\n**Handshake's unified inbox** aggregates conversations from all your sender accounts into a single view. You can filter by sender, campaign, reply status, and prospect stage."
+      },
+      {
+        "title": "Monitor Performance Across All Senders",
+        "content": "Once your rotation is running, monitor these metrics per sender and per campaign:\n\n**Per-sender metrics:**\n- Acceptance rate (target: 25-40%)\n- Reply rate (target: 10-20%)\n- Daily limits used vs. available\n- Pending request count (keep under 500)\n- SSI score trend\n\n**Per-campaign metrics:**\n- Overall acceptance rate across all senders\n- Best/worst performing sender (to optimize distribution)\n- Message variant performance (A/B test results)\n- Lead-to-meeting conversion rate\n\n**Weekly optimization routine:**\n1. Review per-sender acceptance rates\n2. Pause or reduce volume on underperforming senders\n3. Reallocate volume to high-performing senders\n4. Update message copy based on A/B test results\n5. Withdraw stale pending requests from all accounts\n6. Check for any LinkedIn warnings or restrictions"
+      }
+    ],
+    "mistakes": {
+      "title": "Common Mistakes to Avoid",
+      "items": [
+        "**Starting all senders at full volume on day one**: Each account needs its own warmup period. Stagger onboarding over 2-4 weeks.",
+        "**Using the same message across all senders**: LinkedIn can detect identical messages from accounts sharing an IP or workspace. Vary your messaging per sender.",
+        "**Neglecting proxy setup**: Running multiple accounts from the same IP is the fastest way to get all of them restricted. Use dedicated residential proxies per account.",
+        "**Not monitoring per-sender performance**: One bad sender with a 5% acceptance rate drags down your entire campaign and risks restriction. Monitor and adjust weekly.",
+        "**Ignoring the human element**: Multi-sender rotation is infrastructure. You still need good targeting, compelling messaging, and fast follow-up to convert connections into meetings."
+      ]
+    },
+    "automation": {
+      "title": "How to Set This Up with Handshake",
+      "content": "Handshake is built from the ground up for multi-sender rotation:\n\n1. **Add your sender accounts**: Connect LinkedIn accounts in minutes. Each gets its own dedicated residential proxy automatically.\n2. **Warmup automatically**: New accounts enter a 3-week automated warmup schedule. No manual limit management.\n3. **Create campaigns**: Build your outreach sequence once. Handshake distributes leads across your senders based on your chosen rotation strategy.\n4. **Unified inbox**: Every reply from every sender lands in one inbox. Respond without switching between LinkedIn accounts.\n5. **Scale as you grow**: Start with 5 senders on the Growth plan ($199/mo), scale to 10, 20, or 50+ as your outreach grows.\n\nAll plans include unlimited team seats and unlimited workspaces — your entire team can access campaigns, analytics, and the inbox without per-seat costs."
+    }
+  },
+  "faqs": [
+    { "question": "How many LinkedIn sender accounts do I need for multi-sender rotation?", "answer": "It depends on your volume goals. A common starting point is 5 senders, which gives you ~2,500 connection requests per month while keeping each account under safe daily limits. Use the formula: target monthly requests ÷ 400 = number of senders needed." },
+    { "question": "Is multi-sender rotation against LinkedIn's terms of service?", "answer": "LinkedIn's TOS prohibit automated activity and the use of third-party tools for mass outreach. Multi-sender rotation is a strategy used by thousands of sales teams alongside automation tools. The risk is manageable when each account operates within safe limits with proper warmup and residential proxies." },
+    { "question": "Do I need separate LinkedIn Premium subscriptions for each sender?", "answer": "Not necessarily. Free LinkedIn accounts can send connection requests. However, Sales Navigator subscriptions give you better targeting, higher limits, and InMail credits. Many teams use Sales Navigator on their primary senders and free accounts for supplementary volume." },
+    { "question": "Can my team see all conversations from all senders in one place?", "answer": "Yes, with a platform like Handshake that offers a unified inbox. All replies from all sender accounts appear in a single inbox, and your team can respond without logging into individual LinkedIn accounts." },
+    { "question": "What happens if one sender account gets restricted?", "answer": "That's one of the key benefits of multi-sender rotation — redundancy. If one account gets restricted, the remaining senders continue operating. The platform redistributes that sender's leads to other active accounts. You can resolve the restriction and bring the sender back online without campaign downtime." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-send-connection-requests-at-scale-on-linkedin", "how-to-avoid-getting-banned-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-follow-up-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-recruitment-staffing"]
+  }
+}
