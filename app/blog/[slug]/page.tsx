@@ -208,7 +208,7 @@ export default async function BlogPostPage({ params }: PageProps) {
 
         {/* Article body */}
         <article className="py-10 sm:py-14 relative">
-          <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 [animation:fadeSlideIn_0.8s_ease-out_0.3s_both] animate-on-scroll">
+          <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
             <MDXRemote source={post.content} components={mdxComponents} />
           </div>
         </article>
