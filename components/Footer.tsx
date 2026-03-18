@@ -38,9 +38,9 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="/templates" className="hover:text-blue-400 transition-colors font-geist">
+                <Link href="/templates" className="hover:text-blue-400 transition-colors font-geist">
                   Templates
-                </a>
+                </Link>
               </li>
               <li>
                 <a href="/affiliate" className="hover:text-blue-400 transition-colors font-geist">
