@@ -11,8 +11,14 @@ export const metadata: Metadata = {
   title: 'Contact',
   description:
     "Get in touch with the Handshake team. We'd love to hear from you — whether you have questions, feedback, or need support.",
+  alternates: {
+    canonical: 'https://byhandshake.com/contact',
+  },
   openGraph: {
     url: 'https://byhandshake.com/contact',
+    title: 'Contact | Handshake',
+    description:
+      "Get in touch with the Handshake team. We'd love to hear from you — whether you have questions, feedback, or need support.",
   },
 }
 

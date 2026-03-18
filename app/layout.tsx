@@ -40,6 +40,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
+    url: 'https://byhandshake.com',
     siteName: 'Handshake',
     title: 'Handshake — Multi-Account LinkedIn Automation',
     description:

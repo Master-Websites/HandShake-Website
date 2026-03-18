@@ -12,8 +12,14 @@ export const metadata: Metadata = {
   title: 'Affiliate Program',
   description:
     'Earn 30% recurring commissions by referring customers to Handshake. Join our affiliate program — free to apply, no cap on earnings, monthly payouts.',
+  alternates: {
+    canonical: 'https://byhandshake.com/affiliate',
+  },
   openGraph: {
     url: 'https://byhandshake.com/affiliate',
+    title: 'Affiliate Program | Handshake',
+    description:
+      'Earn 30% recurring commissions by referring customers to Handshake. Join our affiliate program — free to apply, no cap on earnings, monthly payouts.',
   },
 }
 

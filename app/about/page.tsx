@@ -13,8 +13,14 @@ export const metadata: Metadata = {
   title: 'About',
   description:
     'Meet the team behind Handshake — building the operating system for LinkedIn outreach at scale.',
+  alternates: {
+    canonical: 'https://byhandshake.com/about',
+  },
   openGraph: {
     url: 'https://byhandshake.com/about',
+    title: 'About | Handshake',
+    description:
+      'Meet the team behind Handshake — building the operating system for LinkedIn outreach at scale.',
   },
 }
 

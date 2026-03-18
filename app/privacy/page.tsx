@@ -8,7 +8,14 @@ import { LegalLayout } from '@/components/LegalLayout'
 export const metadata: Metadata = {
   title: 'Privacy Policy',
   description: 'How Handshake collects, uses, and protects your personal information.',
-  openGraph: { url: 'https://byhandshake.com/privacy' },
+  alternates: {
+    canonical: 'https://byhandshake.com/privacy',
+  },
+  openGraph: {
+    url: 'https://byhandshake.com/privacy',
+    title: 'Privacy Policy | Handshake',
+    description: 'How Handshake collects, uses, and protects your personal information.',
+  },
 }
 
 export default function PrivacyPage() {

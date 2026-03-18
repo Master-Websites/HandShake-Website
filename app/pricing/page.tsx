@@ -13,8 +13,14 @@ export const metadata: Metadata = {
   title: 'Pricing',
   description:
     'Simple, transparent pricing for LinkedIn automation. Start with 1 sender at $69/mo, scale to unlimited. All plans include unlimited team seats and workspaces.',
+  alternates: {
+    canonical: 'https://byhandshake.com/pricing',
+  },
   openGraph: {
     url: 'https://byhandshake.com/pricing',
+    title: 'Pricing | Handshake',
+    description:
+      'Simple, transparent pricing for LinkedIn automation. Start with 1 sender at $69/mo, scale to unlimited. All plans include unlimited team seats and workspaces.',
   },
 }
 

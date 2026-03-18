@@ -10,8 +10,14 @@ export const metadata: Metadata = {
   title: 'Campaign Templates',
   description:
     'Browse proven LinkedIn outreach templates for lead generation, sales, networking, recruiting, and account-based marketing. Launch campaigns in minutes.',
+  alternates: {
+    canonical: 'https://byhandshake.com/templates',
+  },
   openGraph: {
     url: 'https://byhandshake.com/templates',
+    title: 'Campaign Templates | Handshake',
+    description:
+      'Browse proven LinkedIn outreach templates for lead generation, sales, networking, recruiting, and account-based marketing. Launch campaigns in minutes.',
   },
 }
 

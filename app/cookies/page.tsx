@@ -8,7 +8,14 @@ import { LegalLayout } from '@/components/LegalLayout'
 export const metadata: Metadata = {
   title: 'Cookie Policy',
   description: 'How Handshake uses cookies and similar tracking technologies.',
-  openGraph: { url: 'https://byhandshake.com/cookies' },
+  alternates: {
+    canonical: 'https://byhandshake.com/cookies',
+  },
+  openGraph: {
+    url: 'https://byhandshake.com/cookies',
+    title: 'Cookie Policy | Handshake',
+    description: 'How Handshake uses cookies and similar tracking technologies.',
+  },
 }
 
 export default function CookiesPage() {

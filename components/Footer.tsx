@@ -80,7 +80,7 @@ export function Footer() {
         
         <div className="flex flex-col md:flex-row justify-between items-center pt-6 sm:pt-8 border-t border-white/5 gap-4">
           <p className="font-geist text-gray-600 text-xs sm:text-sm">
-            © 2024 Handshake Inc. All rights reserved.
+            © 2026 Handshake Inc. All rights reserved.
           </p>
           <div className="flex gap-6">
             <a href="https://www.linkedin.com/company/byhandshake/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors text-gray-500">

@@ -8,7 +8,14 @@ import { LegalLayout } from '@/components/LegalLayout'
 export const metadata: Metadata = {
   title: 'Terms of Service',
   description: 'Terms and conditions for using the Handshake LinkedIn automation platform.',
-  openGraph: { url: 'https://byhandshake.com/terms' },
+  alternates: {
+    canonical: 'https://byhandshake.com/terms',
+  },
+  openGraph: {
+    url: 'https://byhandshake.com/terms',
+    title: 'Terms of Service | Handshake',
+    description: 'Terms and conditions for using the Handshake LinkedIn automation platform.',
+  },
 }
 
 export default function TermsPage() {

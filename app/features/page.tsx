@@ -14,8 +14,14 @@ export const metadata: Metadata = {
   title: 'Features',
   description:
     'Multi-sender rotation, unlimited workspaces, unified inbox, and campaign workflows. Everything you need to scale LinkedIn outreach safely.',
+  alternates: {
+    canonical: 'https://byhandshake.com/features',
+  },
   openGraph: {
     url: 'https://byhandshake.com/features',
+    title: 'Features | Handshake',
+    description:
+      'Multi-sender rotation, unlimited workspaces, unified inbox, and campaign workflows. Everything you need to scale LinkedIn outreach safely.',
   },
 }
 

@@ -8,7 +8,14 @@ import { LegalLayout } from '@/components/LegalLayout'
 export const metadata: Metadata = {
   title: 'GDPR Compliance',
   description: 'How Handshake complies with the General Data Protection Regulation.',
-  openGraph: { url: 'https://byhandshake.com/gdpr' },
+  alternates: {
+    canonical: 'https://byhandshake.com/gdpr',
+  },
+  openGraph: {
+    url: 'https://byhandshake.com/gdpr',
+    title: 'GDPR Compliance | Handshake',
+    description: 'How Handshake complies with the General Data Protection Regulation.',
+  },
 }
 
 export default function GDPRPage() {
