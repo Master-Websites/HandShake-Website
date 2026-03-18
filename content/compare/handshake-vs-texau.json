@@ -1,0 +1,46 @@
+{
+  "slug": "handshake-vs-texau",
+  "competitor": "TexAu",
+  "competitorUrl": "https://texau.com",
+  "title": "Handshake vs TexAu — Honest Comparison for LinkedIn Automation",
+  "description": "Comparing Handshake and TexAu for LinkedIn automation. See features, pricing, workflow capabilities, and ease of use side-by-side.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "overview": {
+      "handshake": "Handshake is a LinkedIn automation platform built from the ground up for multi-sender rotation. It lets teams manage unlimited LinkedIn sender accounts from a single dashboard, with built-in warmup scheduling, a unified inbox, and premium residential proxies included in every plan. Handshake's pricing model is based on the number of sender accounts — not per-seat — so your entire team can collaborate without multiplying costs. Plans start at $69/month for 1 sender and scale to enterprise volumes.",
+      "competitor": "TexAu is a growth automation platform that goes far beyond LinkedIn — it offers 180+ automations (called 'spices') across LinkedIn, Sales Navigator, Twitter, Facebook, Google Maps, Product Hunt, and more. TexAu positions itself as a no-code automation builder where you can chain together scraping, enrichment, and outreach actions into complex workflows. Pricing starts at $79/month for the Cloud Starter plan with 1.5 hours/day of execution time, scaling to $199/month for the Cloud Growth plan with 6 hours/day. TexAu provides its own cloud browser infrastructure for running automations."
+    },
+    "featureComparison": [
+      { "feature": "Multi-Sender Rotation", "handshake": "Built-in, core feature — rotate outreach across multiple LinkedIn accounts automatically", "competitor": "Not available as a native feature — automations run per account", "winner": "handshake" },
+      { "feature": "Automation Breadth", "handshake": "Purpose-built for LinkedIn outreach campaigns", "competitor": "180+ automations across LinkedIn, Twitter, Facebook, Google Maps, and more", "winner": "competitor" },
+      { "feature": "LinkedIn Scraping", "handshake": "Campaign-focused — targeting via search and lists", "competitor": "Deep scraping: profile data, company data, post commenters, group members, event attendees, and more", "winner": "competitor" },
+      { "feature": "Unified Inbox", "handshake": "Single inbox for all LinkedIn conversations across senders", "competitor": "No unified inbox — TexAu focuses on automation execution, not conversation management", "winner": "handshake" },
+      { "feature": "Workflow Builder", "handshake": "Sequence builder with conditions and A/B testing", "competitor": "Visual workflow builder that chains automations together — scrape → enrich → outreach in one flow", "winner": "competitor" },
+      { "feature": "Warmup Automation", "handshake": "Automated LinkedIn warmup scheduling for new accounts", "competitor": "No dedicated warmup feature", "winner": "handshake" },
+      { "feature": "Safety & Proxies", "handshake": "Premium residential proxies included per sender, human-like delays", "competitor": "Cloud browser with built-in proxy, execution time limits serve as natural rate limiting", "winner": "handshake" },
+      { "feature": "Ease of Use", "handshake": "Simple dashboard — set up campaigns in minutes", "competitor": "Steeper learning curve — powerful but requires understanding automation chaining and data flows", "winner": "handshake" },
+      { "feature": "Team Collaboration", "handshake": "Unlimited team seats on every plan, shared workspaces", "competitor": "Team features available on Cloud Growth plan ($199/mo)", "winner": "handshake" },
+      { "feature": "Data Enrichment", "handshake": "Not included — integrates with external enrichment tools", "competitor": "Built-in email finder, phone finder, and data enrichment across platforms", "winner": "competitor" },
+      { "feature": "Pricing (5 LinkedIn senders)", "handshake": "$199/mo for 5 senders + unlimited seats", "competitor": "Complex — depends on execution hours and number of connected accounts. Typically $199-$399/mo+", "winner": "handshake" },
+      { "feature": "Execution Model", "handshake": "Continuous cloud-based execution during business hours", "competitor": "Time-based execution (1.5-6 hours/day depending on plan)", "winner": "handshake" }
+    ],
+    "handshakeWins": "Handshake wins on LinkedIn outreach specifically — it's purpose-built for the use case. The multi-sender rotation, unified inbox, and automated warmup are features TexAu simply doesn't have because TexAu isn't designed as a campaign management platform. Handshake is dramatically easier to set up and use for LinkedIn outreach campaigns. You connect accounts, build sequences, and launch — no need to understand automation chaining or data pipeline logic. The premium residential proxies and human-like sending patterns provide better LinkedIn safety than TexAu's cloud browser approach. For teams focused on LinkedIn lead generation, Handshake requires less technical knowledge and delivers a more polished outreach experience.",
+    "competitorWins": "TexAu is for technical growth hackers who need more than just LinkedIn outreach. If you want to scrape LinkedIn event attendees, enrich them with emails, cross-reference with Twitter data, and then launch outreach — TexAu can chain all of that into one automated workflow. The 180+ automations across multiple platforms give TexAu a breadth that Handshake doesn't attempt to match. The LinkedIn scraping capabilities are among the most comprehensive available: profile data, company data, post commenters, group members, search results, and more. For data extraction and enrichment workflows, TexAu is in a different category entirely.",
+    "whoShouldChooseHandshake": "Choose Handshake if your goal is straightforward LinkedIn outreach at scale — connection requests, messages, follow-up sequences, multi-sender rotation. It's ideal for sales teams, agencies, and anyone who wants to get campaigns running quickly without technical setup. If you care about conversation management (unified inbox) and account safety (residential proxies, warmup), Handshake is the clear choice.",
+    "whoShouldChooseCompetitor": "Choose TexAu if you're a technically-minded growth marketer or data team that needs multi-platform automation beyond LinkedIn outreach. TexAu is right for teams that need advanced scraping and data extraction, cross-platform workflow automation, or custom automation chains that combine scraping, enrichment, and outreach across multiple platforms.",
+    "verdict": "These tools serve different use cases with some overlap. Handshake is the LinkedIn outreach platform — purpose-built for campaigns, multi-sender rotation, and conversation management. TexAu is the growth automation toolkit — built for data extraction, enrichment, and multi-platform workflows. If you need LinkedIn outreach campaigns that are safe, scalable, and easy to manage, Handshake wins. If you need to build custom automation pipelines across LinkedIn and other platforms, TexAu offers more flexibility."
+  },
+  "faqs": [
+    { "question": "Can TexAu do everything Handshake does?", "answer": "TexAu can send LinkedIn connection requests and messages, but it lacks multi-sender rotation, a unified inbox for managing replies, automated warmup scheduling, and the same level of LinkedIn-specific safety features. TexAu is a broader automation tool; Handshake is a deeper LinkedIn outreach tool." },
+    { "question": "Is TexAu harder to learn than Handshake?", "answer": "Yes, significantly. TexAu's power comes with complexity — you need to understand automation chaining, data inputs/outputs, and platform-specific configurations. Handshake is designed for sales and marketing teams to set up campaigns in minutes without technical expertise." },
+    { "question": "Does TexAu include residential proxies?", "answer": "TexAu provides cloud browser infrastructure with built-in proxies, but they're not specified as premium residential proxies. Handshake includes dedicated residential proxies matched to each sender's geography on every plan." },
+    { "question": "Can I use TexAu for scraping and Handshake for outreach?", "answer": "Yes — this is a smart combination. Use TexAu to scrape LinkedIn data (event attendees, group members, post commenters) and export it as a lead list. Import that list into Handshake for safe, multi-sender outreach campaigns." },
+    { "question": "What does 'execution hours' mean on TexAu?", "answer": "TexAu's plans include a daily execution time limit (1.5-6 hours depending on the plan). This is the amount of time TexAu's cloud browser can run automations each day. Handshake doesn't have this limitation — campaigns run continuously during configured sending windows." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-lead-list-on-linkedin", "how-to-send-connection-requests-at-scale-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates"],
+    "comparisons": ["handshake-vs-phantombuster", "handshake-vs-expandi", "handshake-vs-dux-soup"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-marketing-agencies"]
+  }
+}

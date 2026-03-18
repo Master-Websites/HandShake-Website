@@ -1,0 +1,46 @@
+{
+  "slug": "handshake-vs-lemlist",
+  "competitor": "lemlist",
+  "competitorUrl": "https://lemlist.com",
+  "title": "Handshake vs lemlist — Honest Comparison for LinkedIn Automation",
+  "description": "Comparing Handshake and lemlist for LinkedIn outreach. See features, pricing, multichannel capabilities, and LinkedIn automation depth side-by-side.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "overview": {
+      "handshake": "Handshake is a LinkedIn automation platform built from the ground up for multi-sender rotation. It lets teams manage unlimited LinkedIn sender accounts from a single dashboard, with built-in warmup scheduling, a unified inbox, and premium residential proxies included in every plan. Handshake's pricing model is based on the number of sender accounts — not per-seat — so your entire team can collaborate without multiplying costs. Plans start at $69/month for 1 sender and scale to enterprise volumes.",
+      "competitor": "lemlist is a multichannel outreach platform that combines cold email, LinkedIn automation, and phone steps in one sequence builder. Launched initially as an email-first tool, lemlist added LinkedIn steps (profile visits, connection requests, messages) through its browser extension. Pricing starts at $69/month for the Email Starter plan, but LinkedIn automation requires the Multichannel Expert plan at $99/month per seat. lemlist is known for its email deliverability features, liquid syntax personalization, and built-in B2B lead database."
+    },
+    "featureComparison": [
+      { "feature": "Multi-Sender Rotation", "handshake": "Built-in, core feature — rotate outreach across multiple LinkedIn accounts automatically", "competitor": "Not available — each LinkedIn account is tied to one seat", "winner": "handshake" },
+      { "feature": "LinkedIn Automation Depth", "handshake": "Full LinkedIn automation: connection requests, messages, profile visits, InMail, follow-up sequences", "competitor": "LinkedIn steps available as part of multichannel sequences — connection requests, profile visits, messages", "winner": "handshake" },
+      { "feature": "Cold Email", "handshake": "LinkedIn-focused — no built-in email sending", "competitor": "Full cold email engine with deliverability optimization, warm-up (lemwarm), and custom tracking domains", "winner": "competitor" },
+      { "feature": "Lead Database", "handshake": "Not included — integrates with external lead sources", "competitor": "Built-in B2B database with 450M+ contacts, email finder, and email verifier", "winner": "competitor" },
+      { "feature": "Unified Inbox", "handshake": "Single inbox for all LinkedIn sender accounts", "competitor": "Unified inbox for email replies, LinkedIn inbox managed within LinkedIn", "winner": "handshake" },
+      { "feature": "Warmup Automation", "handshake": "Automated LinkedIn account warmup with gradual ramp-up", "competitor": "lemwarm for email warmup — no dedicated LinkedIn warmup", "winner": "handshake" },
+      { "feature": "Team Collaboration", "handshake": "Unlimited team seats on every plan", "competitor": "Per-seat pricing — $99/mo per user for multichannel plans", "winner": "handshake" },
+      { "feature": "Safety & Proxies", "handshake": "Cloud-based with premium residential proxies included per sender", "competitor": "LinkedIn steps run via browser extension — uses your local IP", "winner": "handshake" },
+      { "feature": "Personalization", "handshake": "Dynamic variables, A/B testing, conditional sequences", "competitor": "Liquid syntax, custom images, dynamic landing pages, AI-generated copy", "winner": "competitor" },
+      { "feature": "API & Integrations", "handshake": "API available on all plans, CRM integrations", "competitor": "API, native CRM integrations, Zapier, webhooks", "winner": "tie" },
+      { "feature": "Pricing (5 users, LinkedIn)", "handshake": "$199/mo for 5 senders + unlimited team seats", "competitor": "$495/mo ($99/mo × 5 seats for Multichannel Expert)", "winner": "handshake" },
+      { "feature": "Pricing (10 users, LinkedIn)", "handshake": "$299/mo for 10 senders + unlimited team seats", "competitor": "$990/mo ($99/mo × 10 seats)", "winner": "handshake" }
+    ],
+    "handshakeWins": "Handshake wins on LinkedIn depth and team economics. If LinkedIn is your primary outreach channel, Handshake delivers purpose-built automation that lemlist treats as a secondary feature. The multi-sender rotation means you're distributing outreach across accounts for better safety and volume — something lemlist doesn't support. The cloud-based architecture with dedicated residential proxies is inherently safer than lemlist's browser extension approach for LinkedIn steps. For teams, the economics are clear: 5 LinkedIn senders on Handshake cost $199/mo vs $495/mo on lemlist. The unified inbox for LinkedIn conversations is also a major advantage — lemlist's inbox focuses on email, and LinkedIn replies are managed in LinkedIn's native interface.",
+    "competitorWins": "lemlist wins when you need multichannel sequences combining LinkedIn, cold email, and phone in one workflow. The built-in email infrastructure (deliverability tools, lemwarm, custom tracking) is excellent — far more mature than bolting on a separate email tool. The B2B lead database with 450M+ contacts eliminates the need for external data providers. For personalization, lemlist's liquid syntax, dynamic images, and AI copy generation are ahead of most competitors. If your outreach strategy is email-first with LinkedIn as a supplementary touch, lemlist gives you everything in one platform.",
+    "whoShouldChooseHandshake": "Choose Handshake if LinkedIn is your primary outreach channel and you need to scale across multiple sender accounts. It's the right choice for teams running dedicated LinkedIn campaigns, agencies managing client LinkedIn accounts, and anyone who needs multi-sender rotation with a unified inbox. If you already have a cold email tool you like, Handshake fills the LinkedIn gap perfectly.",
+    "whoShouldChooseCompetitor": "Choose lemlist if you want one tool for email + LinkedIn + phone outreach and email is your primary channel. It's ideal for SDRs and founders who need a single platform for all outbound, teams that want a built-in lead database to skip data sourcing, and anyone who values advanced email personalization features.",
+    "verdict": "This comparison comes down to channel priority. If LinkedIn is your main channel and you need multi-sender rotation, Handshake delivers more LinkedIn automation for less money. If you want a single multichannel platform where email is the backbone and LinkedIn is a supplementary touch, lemlist is the more complete solution. Many power users end up running both — Handshake for dedicated LinkedIn campaigns and lemlist for email sequences."
+  },
+  "faqs": [
+    { "question": "Can lemlist replace Handshake for LinkedIn automation?", "answer": "Partially. lemlist supports LinkedIn steps in sequences, but it lacks multi-sender rotation, dedicated residential proxies, LinkedIn-specific warmup, and a unified LinkedIn inbox. If LinkedIn is your primary channel, Handshake offers significantly deeper functionality." },
+    { "question": "Does lemlist use a browser extension for LinkedIn?", "answer": "Yes. lemlist's LinkedIn automation runs through a Chrome extension that requires your browser to be open. This means LinkedIn actions use your local IP address and are more detectable than cloud-based approaches like Handshake's." },
+    { "question": "Can I use Handshake and lemlist together?", "answer": "Yes — this is actually a popular setup. Use Handshake for dedicated LinkedIn outreach with multi-sender rotation, and lemlist for cold email sequences. Sync data between them via CRM integrations or API connections." },
+    { "question": "Which is cheaper for a team of 5?", "answer": "Handshake is significantly cheaper for LinkedIn: $199/mo for 5 senders with unlimited team seats vs $495/mo on lemlist (5 × $99 Multichannel Expert seats). However, if you'd also need a separate email tool with Handshake, factor that cost into the comparison." },
+    { "question": "Does lemlist include LinkedIn proxies?", "answer": "No. lemlist's LinkedIn steps run through your browser using your local IP. Handshake includes premium residential proxies for every sender account, which is significantly safer for LinkedIn automation at scale." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-run-linkedin-and-cold-email-together-on-linkedin", "how-to-avoid-getting-banned-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-cold-outreach-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-reply-io", "handshake-vs-apollo-io"],
+    "useCases": ["linkedin-automation-for-saas"]
+  }
+}

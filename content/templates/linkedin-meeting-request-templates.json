@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-meeting-request-templates",
+  "title": "12+ LinkedIn Meeting Request Templates That Book Calls (2026)",
+  "description": "Proven LinkedIn meeting request message templates that convert connections into booked calls. Includes templates for discovery calls, coffee chats, strategy sessions, and follow-up meeting asks.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "How to Ask for a Meeting on LinkedIn Without Being Pushy",
+      "content": "The meeting request is the highest-stakes message in your LinkedIn outreach sequence. Everything before it — the connection request, the welcome message, the value-adds — builds to this moment. Get it right and you have a booked call. Get it wrong and you've wasted every touchpoint that came before.\n\nThe biggest mistake in LinkedIn meeting requests? Being vague. 'Would love to chat sometime' is easy to ignore. 'I have 15 minutes open Tuesday at 2 PM — worth a quick call about reducing your team's CAC?' is specific, time-bound, and value-driven.\n\nThese templates have been tested across thousands of B2B campaigns. Each one is designed to make saying 'yes' easier than saying 'no.'"
+    },
+    "templates": [
+      {
+        "name": "The Specific Time Slot",
+        "text": "Hi {{firstName}}, based on our conversation about {{topic}}, I think a 15-minute call could be really valuable. I have availability Tuesday at 2 PM or Thursday at 10 AM — either work for you?",
+        "whenToUse": "After at least one prior message exchange. Works best when you've already established relevance.",
+        "expectedPerformance": "20-30% booking rate from warm connections",
+        "personalizationTips": "Offer exactly 2 time slots — more creates decision fatigue. Keep it to 15 minutes to lower commitment."
+      },
+      {
+        "name": "The Value-First Meeting Ask",
+        "text": "Hi {{firstName}}, I put together a quick analysis of how {{company}} could {{specific benefit}} based on what we've seen with similar {{industry}} companies. Would you be open to a 15-min call so I can walk you through it?",
+        "whenToUse": "When you have a specific insight or analysis relevant to their business. High-effort but highest conversion.",
+        "expectedPerformance": "25-35% booking rate",
+        "personalizationTips": "The analysis doesn't need to be elaborate — even a bullet-point comparison or benchmark gives them a reason to get on the call."
+      },
+      {
+        "name": "The Social Proof Ask",
+        "text": "Hi {{firstName}}, we recently helped {{similarCompany}} achieve {{specific result}} — and I noticed {{company}} is in a similar position. Worth a 15-minute call to see if we could do the same for you?",
+        "whenToUse": "When you have a strong case study from a company similar to the prospect's.",
+        "expectedPerformance": "20-25% booking rate",
+        "personalizationTips": "Name-drop a company they'd recognize. The more similar to their situation (same industry, size, challenge), the better."
+      },
+      {
+        "name": "The Warm Referral Meeting",
+        "text": "Hi {{firstName}}, {{referrerName}} mentioned you'd be the right person to talk to about {{topic}}. Would you have 15 minutes this week for a quick call? I'd love to share what we discussed.",
+        "whenToUse": "When a mutual connection has referred you or given permission to use their name.",
+        "expectedPerformance": "35-50% booking rate (highest performing)",
+        "personalizationTips": "Confirm with the referrer before using their name. Authenticity is everything with referral-based asks."
+      },
+      {
+        "name": "The Timing Trigger",
+        "text": "Hi {{firstName}}, saw {{company}} just {{trigger event}}. Companies at this stage typically face {{challenge}}. We've helped teams navigate this — would a quick 15-minute call be useful?",
+        "whenToUse": "When the prospect's company has a recent trigger: funding round, acquisition, leadership change, product launch, expansion.",
+        "expectedPerformance": "20-30% booking rate",
+        "personalizationTips": "Be specific about the trigger and the challenge it creates. Generic timing hooks don't work."
+      },
+      {
+        "name": "The Calendar Link Drop",
+        "text": "Hi {{firstName}}, rather than going back and forth on times — here's my calendar for a quick 15-minute chat: {{calendarLink}}. Would love to explore how we can help {{company}} with {{challenge}}.",
+        "whenToUse": "After at least one value-add message. Works well with busy executives who prefer efficiency.",
+        "expectedPerformance": "15-20% booking rate",
+        "personalizationTips": "Only use after establishing rapport. Cold calendar links feel presumptuous. Warm calendar links feel convenient."
+      },
+      {
+        "name": "The Problem-Agitate Ask",
+        "text": "Hi {{firstName}}, quick question — is {{company}} still doing {{inefficient process}} manually? Most {{industry}} teams we talk to are spending 10+ hours/week on this. We've cut that to under 2 hours for teams like {{similarCompany}}. Worth 15 minutes to show you how?",
+        "whenToUse": "When you know a specific pain point your product solves and can quantify the impact.",
+        "expectedPerformance": "20-25% booking rate",
+        "personalizationTips": "The more specific the problem and the more credible the numbers, the better this performs."
+      },
+      {
+        "name": "The Mutual Interest Chat",
+        "text": "Hi {{firstName}}, I've been thinking about our earlier conversation on {{topic}} — there's actually a lot more I'd love to discuss. Any chance you'd be open to a quick video call this week? No pitch, just genuinely interested in your take.",
+        "whenToUse": "For relationship-building with senior executives or potential partners. Lower pressure, longer-term play.",
+        "expectedPerformance": "25-35% booking rate",
+        "personalizationTips": "The 'no pitch' framing only works if you follow through. Use this for relationship-first selling like consulting, advisory, or enterprise."
+      },
+      {
+        "name": "The Event Follow-Up Meeting",
+        "text": "Hi {{firstName}}, great connecting at {{event}}! The session on {{topic}} was spot-on. I'd love to continue our discussion — would you have 20 minutes this week for a call?",
+        "whenToUse": "Within 2-3 days of meeting someone at a conference, webinar, or LinkedIn Live event.",
+        "expectedPerformance": "30-40% booking rate",
+        "personalizationTips": "Time-sensitive — the longer you wait after the event, the lower the conversion. Send within 48 hours."
+      },
+      {
+        "name": "The Content-Driven Ask",
+        "text": "Hi {{firstName}}, I just published a {{content type}} on {{topic}} that's really relevant to what {{company}} is doing. Happy to walk you through the key takeaways on a 15-minute call — or I can just send you the link. What works better?",
+        "whenToUse": "When you have a published resource (report, case study, benchmarks) relevant to the prospect.",
+        "expectedPerformance": "15-25% booking rate",
+        "personalizationTips": "Giving them the option between a call and a link reduces friction. Many who choose the link will convert to a call later."
+      },
+      {
+        "name": "The Competitor Insight",
+        "text": "Hi {{firstName}}, we've been working with several companies in {{industry}} and noticed an interesting trend in how top performers are handling {{challenge}} differently from the rest. I'd love to share what we're seeing — worth a 15-minute call?",
+        "whenToUse": "When you have market intelligence or competitive insights the prospect would find valuable.",
+        "expectedPerformance": "20-30% booking rate",
+        "personalizationTips": "Executives are always interested in what their competitors are doing. Make the insight genuine and specific to their industry."
+      },
+      {
+        "name": "The Re-Engagement Meeting Ask",
+        "text": "Hi {{firstName}}, we chatted a few months ago about {{topic}} — I know the timing wasn't right then. We've since {{new development}} and I think it's worth revisiting. Would 15 minutes work this week?",
+        "whenToUse": "When re-engaging a prospect you previously spoke with but who didn't convert.",
+        "expectedPerformance": "20-30% booking rate",
+        "personalizationTips": "Reference the specific previous conversation. Having a new development (feature, case study, pricing change) gives them a reason to reconsider."
+      }
+    ],
+    "customization": {
+      "title": "How to Customize These Meeting Request Templates",
+      "content": "The templates above are frameworks — here's how to make them convert at the highest rates:\n\n1. **Always specify the time commitment**: '15 minutes' is the magic number. It's short enough to not feel like a big commitment, long enough to have a real conversation.\n\n2. **Give a concrete reason for the meeting**: 'I'd love to chat' is vague. 'I want to walk you through how {{similarCompany}} reduced their CAC by 40%' is specific and compelling.\n\n3. **Match the ask to the relationship temperature**: Cold connections get softer asks. Warm connections (multiple message exchanges, content engagement) get more direct asks.\n\n4. **Include a clear next step**: Either offer specific times, share a calendar link, or ask them to suggest availability. Remove friction from the booking process.\n\n5. **Don't stack asks**: One CTA per message. Don't ask for a meeting AND a referral AND feedback in the same message."
+    },
+    "sendingAtScale": {
+      "title": "Booking Meetings at Scale with Handshake",
+      "content": "Handshake helps you turn LinkedIn connections into booked meetings systematically:\n\n- **Sequence-integrated meeting asks**: Place your meeting request templates at the right step in your outreach sequence with proper timing and conditions\n- **Multi-sender delivery**: Meeting requests are distributed across your sender accounts so no single account looks like it's mass-requesting meetings\n- **Unified inbox for responses**: When a prospect says 'yes,' your team sees it instantly and can book the meeting while interest is hot\n- **A/B test meeting asks**: Run 3-4 meeting request variants simultaneously and measure which booking angle converts best\n- **Conditional triggers**: Automatically send meeting requests only to prospects who've engaged (profile views, message reads, content likes) for higher conversion"
+    }
+  },
+  "faqs": [
+    { "question": "When in a sequence should I ask for a meeting?", "answer": "Typically step 3 or 4 — after a connection request, welcome message, and at least one value-add message. Asking for a meeting before providing value yields low booking rates. The exception is warm referrals, where you can ask in the first message." },
+    { "question": "What's a good booking rate for LinkedIn meeting requests?", "answer": "15-25% of warm connections (those who've engaged with previous messages) is a solid benchmark. Cold meeting requests to new connections typically see 5-10%. Referral-based asks can hit 35-50%." },
+    { "question": "Should I include a calendar link in my LinkedIn message?", "answer": "After establishing rapport, yes — it removes friction. But don't include a calendar link in your first or second message. It feels presumptuous before you've built any relationship. Wait until your direct ask step." },
+    { "question": "How many times should I ask for a meeting if they don't respond?", "answer": "Twice at most — once in your direct ask message and once in your breakup message. If they don't respond to either, move them to a long-term nurture list. Asking more than twice crosses into pestering territory." },
+    { "question": "What's better: suggesting specific times or sending a calendar link?", "answer": "Test both. Specific times ('Tuesday at 2 PM or Thursday at 10 AM') often outperform calendar links because they feel more personal. Calendar links work better for busy executives who prefer to self-serve. Many top performers use specific times first and calendar links in the follow-up." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-outreach-sequence-on-linkedin", "how-to-personalize-linkedin-outreach-messages-on-linkedin"],
+    "templates": ["linkedin-follow-up-message-templates", "linkedin-cold-outreach-message-templates", "linkedin-demo-request-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-consulting"]
+  }
+}

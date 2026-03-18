@@ -1,0 +1,112 @@
+{
+  "slug": "linkedin-demo-request-templates",
+  "title": "10+ LinkedIn Demo Request Templates That Convert (2026)",
+  "description": "LinkedIn message templates specifically designed to book product demos. Includes templates for cold outreach, warm follow-ups, trigger-based asks, and multi-stakeholder demo requests.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Demo Requests Need a Different Approach Than General Meeting Asks",
+      "content": "A demo request isn't the same as asking for a 'quick chat.' You're asking someone to invest 30-45 minutes watching your product in action — that's a bigger commitment than a 15-minute exploratory call.\n\nThe good news? Prospects who agree to demos are significantly further down the buying journey. They've moved past 'I might have this problem' to 'show me how you solve it.' Your demo request message needs to bridge that gap — make it clear what they'll see, why it's relevant to their specific situation, and why now is the right time.\n\nThese templates have been refined across thousands of B2B SaaS and tech sales campaigns. Each one is designed to lower the perceived time commitment while raising the perceived value of attending."
+    },
+    "templates": [
+      {
+        "name": "The Quick Personalized Demo",
+        "text": "Hi {{firstName}}, I set up a quick walkthrough of how {{yourProduct}} handles {{specific challenge}} — customized for {{industry}} teams like {{company}}. Takes 20 minutes. Worth a look?",
+        "whenToUse": "When you know the prospect's core challenge and can show a relevant use case. Works best after a prior value-add message.",
+        "expectedPerformance": "15-25% booking rate from warm connections",
+        "personalizationTips": "Mention the specific challenge, not your product features. '...handles scaling outbound across 10 sender accounts' beats '...has multi-sender automation.'"
+      },
+      {
+        "name": "The Results-Driven Demo Ask",
+        "text": "Hi {{firstName}}, {{similarCompany}} used to have the same {{challenge}} as {{company}} — after seeing our demo, they went from {{before metric}} to {{after metric}} in {{timeframe}}. Want me to show you exactly what they did? 20 minutes, no commitment.",
+        "whenToUse": "When you have a strong case study with quantifiable results from a comparable company.",
+        "expectedPerformance": "20-30% booking rate",
+        "personalizationTips": "Use a case study from the same industry or company size. Concrete numbers (3x pipeline, 40% cost reduction) outperform vague claims."
+      },
+      {
+        "name": "The Trigger-Based Demo",
+        "text": "Hi {{firstName}}, noticed {{company}} just {{trigger event}} — congrats! Teams in this stage usually need {{solution category}} to handle {{consequence of trigger}}. I built a quick demo showing exactly how we help. Open to a 20-minute walkthrough?",
+        "whenToUse": "When the company has a recent trigger: funding, hiring spree, new product launch, expansion into new markets.",
+        "expectedPerformance": "20-25% booking rate",
+        "personalizationTips": "The trigger must be real and verifiable. Link the trigger to a specific operational challenge your product solves."
+      },
+      {
+        "name": "The Problem-Agitate Demo",
+        "text": "Hi {{firstName}}, quick question — is your team still {{painful manual process}}? I ask because we just built something that eliminates that entirely. Happy to show you in 20 minutes — no strings attached. If it's not relevant, I'll tell you straight up.",
+        "whenToUse": "When targeting a well-known pain point in your prospect's workflow.",
+        "expectedPerformance": "15-20% booking rate",
+        "personalizationTips": "Name the exact manual process. 'Still logging into each LinkedIn account to check replies?' hits harder than 'Still managing outreach manually?'"
+      },
+      {
+        "name": "The Interactive Demo Offer",
+        "text": "Hi {{firstName}}, instead of the typical slideshow demo, I set up a sandbox with {{company}}'s actual use case — you can click around and see how it'd work for your team. Would 20-25 minutes work to walk through it together?",
+        "whenToUse": "When your product supports interactive demos or sandboxes. Perfect for technical buyers who want to see, not hear.",
+        "expectedPerformance": "25-35% booking rate",
+        "personalizationTips": "Even if the sandbox isn't truly customized, framing it as 'built for their use case' increases commitment."
+      },
+      {
+        "name": "The Team Demo Invitation",
+        "text": "Hi {{firstName}}, I'm running a demo for a few {{industry}} leaders on how to {{achieve outcome}} using {{yourProduct}}. It's small-group (5-6 people), interactive, and takes 30 minutes. Interested in joining? Next session is {{date}}.",
+        "whenToUse": "When running group demos or webinar-style product sessions. Lowers the commitment since they're joining others, not getting a 1:1 pitch.",
+        "expectedPerformance": "10-15% booking rate (lower but more scalable)",
+        "personalizationTips": "Frame it as exclusive (small-group, invite-only). Specify the date to create urgency."
+      },
+      {
+        "name": "The Competitor Switch Demo",
+        "text": "Hi {{firstName}}, I see {{company}} is using {{competitorProduct}}. We've been helping teams switch — and the demo shows exactly what's different and why {{X}}% saw better results within {{timeframe}}. Worth 20 minutes to compare?",
+        "whenToUse": "When you know the prospect uses a competitor and have a compelling switch narrative.",
+        "expectedPerformance": "15-25% booking rate",
+        "personalizationTips": "Don't trash the competitor — show what's different. 'Here's what you gain' works better than 'Here's what they lack.'"
+      },
+      {
+        "name": "The Executive-Friendly Demo",
+        "text": "Hi {{firstName}}, I know your time is tight — so I recorded a 5-minute overview of how {{yourProduct}} helps {{industry}} teams {{achieve outcome}}. Want me to send it over? If it resonates, we can do a live walkthrough tailored to {{company}}.",
+        "whenToUse": "For C-suite and senior executives who won't commit to 30 minutes cold. The recorded overview lowers the barrier.",
+        "expectedPerformance": "20-30% response rate (to receive the video); 40-50% of video viewers book a live demo",
+        "personalizationTips": "Actually have the video ready. A Loom recording personalized to their industry works best. Keep it under 5 minutes."
+      },
+      {
+        "name": "The ROI-Focused Demo",
+        "text": "Hi {{firstName}}, I ran a quick estimate — based on {{company}}'s team size and outreach volume, you could be saving roughly {{estimate}} per month with {{yourProduct}}. Want me to show you the math in a 20-minute demo? No obligation.",
+        "whenToUse": "When you can estimate the prospect's potential savings or ROI based on publicly available data (team size, current tools, etc.).",
+        "expectedPerformance": "20-25% booking rate",
+        "personalizationTips": "Be conservative with estimates — credible numbers convert better than inflated ones. Show your work during the demo."
+      },
+      {
+        "name": "The Multi-Stakeholder Demo",
+        "text": "Hi {{firstName}}, before I set up a demo for your team, I want to make sure I cover what matters most to everyone. Would it help to do a quick 15-minute scoping call first? That way the demo is focused on {{company}}'s specific needs, not a generic walkthrough.",
+        "whenToUse": "For enterprise deals where multiple stakeholders will evaluate the product. A scoping call ensures the demo hits the right points.",
+        "expectedPerformance": "25-30% booking rate for scoping call",
+        "personalizationTips": "Position the scoping call as saving their team time. Executives appreciate efficiency — they don't want to sit through irrelevant features."
+      },
+      {
+        "name": "The Follow-Up Demo Nudge",
+        "text": "Hi {{firstName}}, circling back on the demo I mentioned — I saved a slot for you this week. I'll be showing how {{yourProduct}} handles {{specific use case}} in under 20 minutes. If this week doesn't work, happy to reschedule. What's better?",
+        "whenToUse": "As a follow-up when a prior demo request went unanswered. Creates gentle urgency without pressure.",
+        "expectedPerformance": "10-15% booking rate (follow-up asks convert lower but capture prospects who were busy, not uninterested)",
+        "personalizationTips": "Reference the original ask so it doesn't feel like a cold outreach. 'Circling back' signals continuity."
+      }
+    ],
+    "customization": {
+      "title": "Tips for Customizing Demo Request Templates",
+      "content": "Demo requests convert best when they feel like a natural next step, not a cold pitch. Here's how:\n\n1. **Frame the demo length realistically**: Say '20 minutes' if it's 20 minutes. Saying 'quick 5-minute demo' when it's actually 30 minutes destroys trust before the relationship starts.\n\n2. **Specify what they'll see**: 'I'll show you how teams like yours handle X' is better than 'I'll show you our product.' Prospects want to see themselves in the demo.\n\n3. **Lower the commitment**: Add phrases like 'no obligation,' 'no strings attached,' or 'if it's not relevant, I'll tell you.' This removes the fear of a hard sell.\n\n4. **Match the ask to their seniority**: C-suite gets 15-minute overviews. Directors get 20-minute focused demos. Managers and ICs get 30-minute deep dives.\n\n5. **Use social proof from their peer group**: A VP of Sales cares about what other VPs of Sales achieved, not what a marketing team did."
+    },
+    "sendingAtScale": {
+      "title": "Booking Demos at Scale with Handshake",
+      "content": "Handshake helps you systematically move prospects from connection to demo:\n\n- **Sequence positioning**: Place demo requests at the optimal step in your outreach sequence — after value delivery, when interest peaks\n- **Multi-sender rotation**: Demo requests come from different sender profiles, maintaining authenticity and keeping accounts safe\n- **Trigger-based automation**: Automatically send demo requests when prospects engage (profile views, message reads, content interactions)\n- **A/B test demo angles**: Test results-driven vs problem-agitate vs ROI-focused demo asks to find what resonates with your audience\n- **Unified response management**: When someone says 'yes' to a demo, your team sees it immediately in the unified inbox for fast booking"
+    }
+  },
+  "faqs": [
+    { "question": "What's the best sequence step for a demo request?", "answer": "Step 3 or 4, after a connection request, welcome message, and at least one value-add message. Jumping to a demo request before providing value leads to low booking rates (under 5%) and can feel pushy." },
+    { "question": "How long should a demo be?", "answer": "20-30 minutes for most B2B products. Senior executives prefer 15-20 minutes. Technical buyers may want 30-45 minutes. Always state the time commitment in your request — prospects are more likely to agree when they know the commitment upfront." },
+    { "question": "Should I offer a recorded demo or live demo?", "answer": "Both. Offer a recorded overview (5 minutes) as a low-commitment first step, then convert video viewers into live demo attendees. This two-step approach captures both high-intent prospects (who book directly) and cautious ones (who want to preview first)." },
+    { "question": "How do I handle 'not now' responses?", "answer": "Add them to a nurture sequence. Send a value-add message monthly (industry insights, new features, case studies) and re-ask for a demo quarterly. Many 'not now' prospects convert within 3-6 months when the timing is right." },
+    { "question": "What's a good demo booking rate from LinkedIn outreach?", "answer": "10-20% of engaged prospects (those who've replied or interacted with your messages) is a strong benchmark. From cold outreach with no prior engagement, expect 3-5%. Referral-based demo asks can hit 30-40%." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-outreach-sequence-on-linkedin", "how-to-personalize-linkedin-outreach-messages-on-linkedin"],
+    "templates": ["linkedin-meeting-request-templates", "linkedin-follow-up-message-templates", "linkedin-cold-outreach-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-skylead"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-hr-tech"]
+  }
+}

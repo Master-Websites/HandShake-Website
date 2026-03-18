@@ -1,0 +1,46 @@
+{
+  "slug": "handshake-vs-la-growth-machine",
+  "competitor": "La Growth Machine",
+  "competitorUrl": "https://lagrowthmachine.com",
+  "title": "Handshake vs La Growth Machine — Honest Comparison for LinkedIn Automation",
+  "description": "Comparing Handshake and La Growth Machine for LinkedIn outreach. See features, pricing, multichannel workflows, and LinkedIn safety side-by-side.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "overview": {
+      "handshake": "Handshake is a LinkedIn automation platform built from the ground up for multi-sender rotation. It lets teams manage unlimited LinkedIn sender accounts from a single dashboard, with built-in warmup scheduling, a unified inbox, and premium residential proxies included in every plan. Handshake's pricing model is based on the number of sender accounts — not per-seat — so your entire team can collaborate without multiplying costs. Plans start at $69/month for 1 sender and scale to enterprise volumes.",
+      "competitor": "La Growth Machine (LGM) is a French-built multichannel outreach platform that combines LinkedIn, email, and Twitter into automated sequences. Known for its visual workflow builder, LGM lets you create complex branching sequences with conditional logic across channels. Pricing starts at €60/month per identity for the Basic plan (email only) and goes to €120/month per identity for the Ultimate plan with full multichannel support including LinkedIn. LGM positions itself as a revenue automation platform rather than just a LinkedIn tool."
+    },
+    "featureComparison": [
+      { "feature": "Multi-Sender Rotation", "handshake": "Built-in, core feature — rotate outreach across multiple LinkedIn accounts automatically", "competitor": "Not available — each LinkedIn identity operates independently", "winner": "handshake" },
+      { "feature": "Visual Sequence Builder", "handshake": "Sequence builder with conditions and A/B testing", "competitor": "Highly visual drag-and-drop workflow builder with complex branching, conditions, and multi-path sequences", "winner": "competitor" },
+      { "feature": "Multichannel Outreach", "handshake": "LinkedIn-focused — no built-in email or Twitter", "competitor": "LinkedIn + email + Twitter in a single sequence with channel fallback logic", "winner": "competitor" },
+      { "feature": "Unified Inbox", "handshake": "Single inbox for all LinkedIn sender accounts", "competitor": "Unified inbox across LinkedIn and email conversations", "winner": "tie" },
+      { "feature": "Lead Enrichment", "handshake": "Not included — integrates with external data sources", "competitor": "Built-in email enrichment from LinkedIn profiles — find and verify professional emails", "winner": "competitor" },
+      { "feature": "Warmup Automation", "handshake": "Automated LinkedIn warmup with gradual volume ramp-up", "competitor": "No dedicated LinkedIn warmup feature", "winner": "handshake" },
+      { "feature": "Safety & Proxies", "handshake": "Cloud-based with premium residential proxies included per sender", "competitor": "Cloud-based execution with dedicated IP per identity", "winner": "handshake" },
+      { "feature": "Team Collaboration", "handshake": "Unlimited team seats on every plan", "competitor": "Per-identity pricing — each LinkedIn account is a separate billing unit", "winner": "handshake" },
+      { "feature": "CRM Integration", "handshake": "API and CRM integrations available", "competitor": "Deep native CRM sync with HubSpot and Pipedrive (bi-directional)", "winner": "competitor" },
+      { "feature": "Analytics", "handshake": "Campaign analytics with per-sender and per-variant performance tracking", "competitor": "Detailed workflow analytics with per-step conversion tracking across channels", "winner": "tie" },
+      { "feature": "Pricing (5 LinkedIn senders)", "handshake": "$199/mo for 5 senders + unlimited team seats", "competitor": "€600/mo (5 × €120/mo Ultimate plan identities) — approximately $660/mo", "winner": "handshake" },
+      { "feature": "Pricing (10 LinkedIn senders)", "handshake": "$299/mo for 10 senders + unlimited team seats", "competitor": "€1,200/mo (10 × €120/mo) — approximately $1,320/mo", "winner": "handshake" }
+    ],
+    "handshakeWins": "Handshake dominates on LinkedIn-specific capabilities and team pricing. The multi-sender rotation is a fundamental architectural advantage — LGM treats each LinkedIn identity as a separate silo with no cross-account distribution. For a team running 5 LinkedIn senders, Handshake costs $199/mo vs approximately $660/mo on LGM's Ultimate plan. That's a 70% savings. The premium residential proxies (included in Handshake) provide stronger LinkedIn safety than LGM's dedicated IPs, and the automated warmup feature means new accounts ramp safely without manual intervention. For agencies managing client campaigns, Handshake's unlimited team seats and multi-workspace support make collaboration straightforward and cost-effective.",
+    "competitorWins": "La Growth Machine's visual workflow builder is genuinely impressive. If you need complex branching sequences — 'if they accept on LinkedIn, message there; if not, try email; if email bounces, try Twitter' — LGM handles this natively with an intuitive drag-and-drop interface. The built-in email enrichment (finding professional emails from LinkedIn profiles) eliminates the need for tools like Hunter or Apollo for data. The deep CRM integrations with HubSpot and Pipedrive mean leads flow directly into your sales pipeline with full activity context. For teams running true multichannel outreach where LinkedIn is one of several channels, LGM provides a more unified experience.",
+    "whoShouldChooseHandshake": "Choose Handshake if LinkedIn is your primary outreach channel and you need to scale across multiple sender accounts cost-effectively. It's ideal for teams that want dedicated LinkedIn automation with built-in safety features, agencies managing LinkedIn campaigns across multiple clients, and organizations where multi-sender rotation and unified inbox are priorities.",
+    "whoShouldChooseCompetitor": "Choose La Growth Machine if you need complex multichannel sequences spanning LinkedIn, email, and Twitter with sophisticated branching logic. It's also the right choice if you need built-in email enrichment from LinkedIn profiles, or if deep HubSpot/Pipedrive integration is critical to your workflow.",
+    "verdict": "For dedicated LinkedIn automation at scale, Handshake delivers more for less — 70% cost savings for a 5-sender team with stronger safety features and multi-sender rotation. La Growth Machine is the better choice for multichannel orchestration across LinkedIn, email, and Twitter, especially for teams that need visual workflow builders and CRM-first workflows. If LinkedIn is your main channel, Handshake is the clear winner. If you need all channels in one tool, LGM provides a more unified platform."
+  },
+  "faqs": [
+    { "question": "Is La Growth Machine cloud-based like Handshake?", "answer": "Yes — LGM runs LinkedIn automation from the cloud, not through a browser extension. However, LGM uses dedicated IPs rather than residential proxies, which provides less fingerprint diversity than Handshake's residential proxy approach." },
+    { "question": "Does La Growth Machine support multi-sender rotation?", "answer": "No. Each LinkedIn identity on LGM operates independently. There's no built-in logic to distribute prospects across multiple senders automatically. You'd need to manually segment lists across identities." },
+    { "question": "Can I use Handshake with La Growth Machine?", "answer": "It's possible but uncommon. If you want LinkedIn multi-sender rotation from Handshake and multichannel email/Twitter from LGM, you could run them in parallel for different prospect segments." },
+    { "question": "How does LGM's email enrichment work?", "answer": "LGM can extract and verify professional email addresses from LinkedIn profiles you're targeting. This means you can start with just a LinkedIn Sales Navigator search and LGM will find the corresponding email addresses for multichannel sequences." },
+    { "question": "Which tool is better for agencies?", "answer": "Handshake, primarily due to pricing. An agency managing 10 client LinkedIn accounts pays $299/mo on Handshake vs approximately $1,320/mo on LGM. Handshake's unlimited team seats also mean you don't pay extra for account managers who need access." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-outreach-sequence-on-linkedin", "how-to-set-up-multi-sender-rotation-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-follow-up-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-lemlist", "handshake-vs-waalaxy"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-marketing-agencies"]
+  }
+}
