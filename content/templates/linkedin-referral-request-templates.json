@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-referral-request-templates",
+  "title": "12+ LinkedIn Referral Request Templates That Get Warm Introductions (2026)",
+  "description": "Copy-paste LinkedIn referral request templates to get warm introductions from your network. Proven templates for asking connections to refer you to decision-makers.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Referral Requests Are the Highest-Converting Outreach Strategy",
+      "content": "Warm referrals convert 3-5x better than cold outreach. When someone you know introduces you to a prospect, trust is instantly transferred. But most people ask for referrals the wrong way — either too vague ('know anyone who might be interested?') or too pushy ('can you intro me to your CEO?').\n\nThe templates below show you how to ask for referrals in a way that's specific, easy to act on, and respects your connection's relationship with the person you want to reach. Each template is designed to minimize friction and maximize the chance your connection will actually make the intro."
+    },
+    "templates": [
+      {
+        "name": "The Specific Ask",
+        "text": "Hey {{firstName}}, hope you're doing well! I noticed you're connected with {{targetName}} at {{targetCompany}}. We've been helping {{industry}} teams with {{valueProp}} and I think it could be relevant for them. Would you be comfortable making a quick intro? Happy to send you a blurb you can forward.",
+        "whenToUse": "When you've identified a specific person in your connection's network. The most direct and effective approach.",
+        "expectedPerformance": "30-40% intro rate when connection knows both parties",
+        "personalizationTips": "Always offer to write the intro blurb yourself. This removes the effort from your connection and lets you control the messaging."
+      },
+      {
+        "name": "The Permission-First Ask",
+        "text": "Hi {{firstName}}, I've been meaning to reach out to {{targetName}} at {{targetCompany}} about {{topic}}. Before I cold message them, I wanted to check — would you be open to making an intro? Totally understand if not, and I'll just reach out directly.",
+        "whenToUse": "When you want to be extra respectful of the relationship. Gives them an easy out.",
+        "expectedPerformance": "25-35% intro rate",
+        "personalizationTips": "The 'totally understand if not' framing reduces social pressure and paradoxically increases compliance."
+      },
+      {
+        "name": "The Context Provider",
+        "text": "Hey {{firstName}}, quick one — we just helped {{similarCompany}} achieve {{result}}, and I think {{targetCompany}} could benefit from a similar approach. I see you know {{targetName}} there. Would you be up for a quick email intro? Here's a two-liner you could use: [draft intro].",
+        "whenToUse": "When you have a strong case study that creates urgency and relevance for the referral.",
+        "expectedPerformance": "30-40% intro rate",
+        "personalizationTips": "Include the draft intro text in your message. Make it so easy your connection can literally copy-paste-send."
+      },
+      {
+        "name": "The Reciprocal Offer",
+        "text": "Hi {{firstName}}, I've got a favor to ask — would you be open to introducing me to {{targetName}} at {{targetCompany}}? I think we could help them with {{valueProp}}. Happy to return the favor — is there anyone in my network you'd like an intro to?",
+        "whenToUse": "When you want to frame the referral as a two-way exchange. Works well with peers and partners.",
+        "expectedPerformance": "35-45% intro rate",
+        "personalizationTips": "Only offer reciprocity if you can actually deliver. Check their profile to understand who they'd want to reach."
+      },
+      {
+        "name": "The Soft Referral",
+        "text": "Hey {{firstName}}, I'm looking to connect with more {{targetRole}} leaders in {{industry}}. You seem really well-connected in that space. Is there anyone in your network you think would be open to a conversation about {{topic}}?",
+        "whenToUse": "When you don't have a specific target but want your connection to suggest someone from their network.",
+        "expectedPerformance": "20-30% intro rate",
+        "personalizationTips": "Be specific about the type of person — role, industry, company size. 'Anyone who might be interested' is too vague to act on."
+      },
+      {
+        "name": "The Customer Success Referral",
+        "text": "Hi {{firstName}}, really glad {{valueProp}} has been working well for your team! I'm wondering — do you know anyone else in {{industry}} who's dealing with similar challenges? An intro would mean a lot, and I'd make sure they get the same white-glove treatment.",
+        "whenToUse": "When asking existing happy customers for referrals. The strongest type of referral.",
+        "expectedPerformance": "40-55% intro rate from satisfied customers",
+        "personalizationTips": "Time this after a win — successful onboarding, strong metrics, positive feedback. Don't ask during a support ticket."
+      },
+      {
+        "name": "The Alumni Network Ask",
+        "text": "Hey {{firstName}}, fellow {{university}} alum here! I'm reaching out to {{industry}} leaders and noticed you're connected with {{targetName}} at {{targetCompany}}. Would you be open to a quick intro? Our shared background might make it a warmer connection.",
+        "whenToUse": "When leveraging shared alumni networks for referral requests. Adds a layer of trust.",
+        "expectedPerformance": "30-40% intro rate",
+        "personalizationTips": "Alumni bonds are real — lean into them. Mention specific programs or experiences you shared."
+      },
+      {
+        "name": "The Event-Based Referral",
+        "text": "Hi {{firstName}}, I'm preparing for {{event}} and trying to set up a few meetings with {{targetRole}} leaders. I see you know {{targetName}} at {{targetCompany}} — any chance you could introduce us? I'd love to meet them at the event.",
+        "whenToUse": "When an upcoming event creates a natural reason for the introduction.",
+        "expectedPerformance": "30-40% intro rate",
+        "personalizationTips": "Events create urgency and a natural meeting context. Send 2-3 weeks before the event."
+      },
+      {
+        "name": "The Content Collaboration Referral",
+        "text": "Hey {{firstName}}, I'm putting together a {{contentType}} on {{topic}} and looking for expert voices. I noticed {{targetName}} would be a great fit. Would you be willing to make an intro? It'd be great exposure for them too.",
+        "whenToUse": "When you can offer the referral target something valuable (podcast spot, blog feature, co-authored content).",
+        "expectedPerformance": "35-45% intro rate",
+        "personalizationTips": "This works because you're offering value to the target, not just asking for something. Make sure the content opportunity is real."
+      },
+      {
+        "name": "The Warm Follow-Up Referral",
+        "text": "Hi {{firstName}}, I actually reached out to {{targetName}} at {{targetCompany}} last week but haven't heard back. I know you two are connected — would you mind putting in a good word or forwarding my message? I think {{valueProp}} could really help their team.",
+        "whenToUse": "When your cold outreach went unanswered and you want a warm boost from a mutual connection.",
+        "expectedPerformance": "25-35% intro rate",
+        "personalizationTips": "Be transparent that you already reached out. Dishonesty here can backfire if the target mentions it."
+      },
+      {
+        "name": "The Team Expansion Referral",
+        "text": "Hey {{firstName}}, I noticed {{targetCompany}} is growing their {{department}} team. I think we could help them with {{valueProp}} during the transition. You're connected with {{targetName}} there — would a quick intro make sense?",
+        "whenToUse": "When the target company is hiring or expanding, signaling budget and need for new solutions.",
+        "expectedPerformance": "25-35% intro rate",
+        "personalizationTips": "Check the company's LinkedIn job postings or recent news for growth signals. Reference specific roles they're hiring for."
+      },
+      {
+        "name": "The Investor Referral",
+        "text": "Hi {{firstName}}, we're currently raising our {{round}} and I'm looking to connect with investors focused on {{space}}. I see you know {{investorName}} at {{fund}}. Would you be open to making an intro? Happy to send you a quick blurb with our traction numbers.",
+        "whenToUse": "When fundraising and seeking warm intros to investors through your network.",
+        "expectedPerformance": "20-30% intro rate",
+        "personalizationTips": "Investors get bombarded with referral requests. Make your traction numbers compelling and the blurb concise."
+      }
+    ],
+    "customization": {
+      "title": "How to Maximize Your Referral Success Rate",
+      "content": "Getting referrals is an art. Here's how to do it right:\n\n1. **Make it easy**: Always offer to write the intro email or message yourself. Your connection should only need to hit forward.\n2. **Be specific**: 'Do you know anyone...' gets ignored. 'Would you intro me to Sarah at Acme?' gets action.\n3. **Timing matters**: Ask after positive interactions — not when you've been quiet for months.\n4. **Respect the no**: If someone declines, accept it gracefully. They may have reasons you can't see.\n5. **Follow up with results**: When a referral leads to a meeting or deal, tell the referrer. It reinforces the behavior and builds goodwill."
+    },
+    "sendingAtScale": {
+      "title": "Managing Referral Campaigns with Handshake",
+      "content": "Handshake helps you systematically work your network for warm introductions:\n\n- **Network mapping**: Identify which of your existing connections are connected to your target accounts.\n- **Referral sequences**: Set up automated follow-up sequences for referral requests that don't get a response.\n- **Tracking**: Monitor which referrals convert to meetings and deals, so you know which connections are your best referral sources.\n- **Multi-channel**: Combine LinkedIn referral requests with email follow-ups for higher response rates.\n\nWarm referrals close faster and at higher rates. Use Handshake to turn referral outreach from ad-hoc to systematic."
+    }
+  },
+  "faqs": [
+    { "question": "How do I ask for a referral without being awkward?", "answer": "Be direct, specific, and make it easy. Name the person you want to reach, explain why briefly, and offer to write the intro message yourself. The key is reducing the effort required from your connection." },
+    { "question": "What's the best way to follow up on a referral request?", "answer": "Wait 3-5 days, then send a brief follow-up: 'Just bumping this up — totally understand if the timing isn't right.' One follow-up is fine; more than that becomes pushy." },
+    { "question": "Should I offer incentives for referrals?", "answer": "For customers, a referral program with mutual benefits works well. For professional connections, reciprocity (offering to make intros in return) is more appropriate than monetary incentives." },
+    { "question": "How many referral requests can I send per week?", "answer": "Quality over quantity. 3-5 well-targeted referral requests per week is better than 20 generic ones. Focus on connections who actually know your target well enough to make a warm intro." },
+    { "question": "What should I do after the introduction is made?", "answer": "Respond within 24 hours. Thank the referrer (move them to BCC in the next reply). Close the loop with the referrer on how the conversation went — they'll be more likely to refer again." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-outreach-sequence", "how-to-send-connection-requests-at-scale-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-introduction-message-templates", "linkedin-follow-up-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-linkedhelper"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-agencies"]
+  }
+}

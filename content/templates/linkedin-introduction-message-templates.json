@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-introduction-message-templates",
+  "title": "12+ LinkedIn Introduction Message Templates That Start Real Conversations (2026)",
+  "description": "Copy-paste LinkedIn introduction message templates for after your connection request is accepted. Turn new connections into conversations with these tested openers.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Your Introduction Message Matters More Than Your Connection Request",
+      "content": "You got the connection accepted — now what? The introduction message is where most people fumble. They either send nothing (wasting the momentum) or immediately pitch their product (killing the relationship before it starts).\n\nThe best introduction messages do three things: acknowledge the connection, provide context or value, and open a natural conversation. These templates have been tested across B2B outreach campaigns and refined for reply rates, not just open rates. Send your intro within 24 hours of acceptance for the best results."
+    },
+    "templates": [
+      {
+        "name": "The Warm Thank You",
+        "text": "Hey {{firstName}}, thanks for connecting! I noticed you're leading {{role}} at {{company}} — really interesting work in {{industry}}. I'd love to hear how you're approaching {{challenge}}. We've been seeing some interesting trends on our end.",
+        "whenToUse": "Default opener for any new connection. Works across industries and seniority levels.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Replace {{challenge}} with something specific to their role. Check their recent posts or company news for ideas."
+      },
+      {
+        "name": "The Value-First Intro",
+        "text": "Hi {{firstName}}, glad we connected! I just came across this {{resource}} on {{topic}} and immediately thought of your work at {{company}}. Thought you might find it useful: {{link}}. Would love to hear your take.",
+        "whenToUse": "When you have a relevant article, report, or resource to share. Sets a giving tone from the start.",
+        "expectedPerformance": "30-40% reply rate",
+        "personalizationTips": "The resource must be genuinely relevant — not your own sales deck. Think industry reports, relevant articles, or benchmark data."
+      },
+      {
+        "name": "The Common Ground Opener",
+        "text": "Hey {{firstName}}, great to connect! I see we're both deep in the {{industry}} world. I'm curious — what's the biggest shift you've seen in {{area}} over the past year? On my end, {{observation}} has been a game-changer.",
+        "whenToUse": "When you share an industry or function with the prospect. Opens a peer-level dialogue.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Share a genuine observation or insight. The more specific and opinionated, the more likely they are to engage."
+      },
+      {
+        "name": "The Compliment-to-Conversation",
+        "text": "Hi {{firstName}}, thanks for accepting! I've been following your content on {{topic}} — your take on {{specificPoint}} really resonated. I'm working on something similar at {{yourCompany}}. Would love to pick your brain sometime.",
+        "whenToUse": "When the prospect actively posts on LinkedIn. Shows you've done your homework.",
+        "expectedPerformance": "30-40% reply rate",
+        "personalizationTips": "Reference a specific post or insight, not just 'your content is great.' Quote or paraphrase something they actually said."
+      },
+      {
+        "name": "The Soft Ask",
+        "text": "Hey {{firstName}}, glad we're connected. I help {{targetAudience}} with {{valueProp}} — would it be worth a quick 10-minute chat to see if there's any overlap? No pressure either way.",
+        "whenToUse": "When you want to move toward a meeting but keep it low-pressure. Good for warm leads.",
+        "expectedPerformance": "15-25% reply rate",
+        "personalizationTips": "Keep the ask small — '10 minutes' or 'quick chat' reduces commitment. Don't say '30-minute demo' in an intro message."
+      },
+      {
+        "name": "The Question Hook",
+        "text": "Hi {{firstName}}, thanks for connecting! Quick question — how is {{company}} currently handling {{process}}? I ask because we've been helping similar teams in {{industry}} streamline this, and I'm curious how others approach it.",
+        "whenToUse": "When you know a common pain point for their role or industry. Opens a consultative conversation.",
+        "expectedPerformance": "20-30% reply rate",
+        "personalizationTips": "The question must be relevant to their actual role. Research their title and responsibilities before asking."
+      },
+      {
+        "name": "The Mutual Connection Follow-Up",
+        "text": "Hey {{firstName}}, great to connect! Since we're both in {{mutualConnection}}'s network, I figured we might have some overlapping interests. I'm focused on {{yourFocus}} — what's keeping you busy at {{company}} these days?",
+        "whenToUse": "When you connected via mutual connection. Reinforces the social proof.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Only mention mutual connections you actually know. The prospect might ask about them."
+      },
+      {
+        "name": "The Industry Insight Share",
+        "text": "Hi {{firstName}}, thanks for connecting. I just read that {{industryTrend}} — curious how this is impacting things at {{company}}? On our end, we've been seeing {{yourInsight}}. Would love to compare notes.",
+        "whenToUse": "When there's a recent industry trend or news item relevant to both of you.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Use recent data or news — nothing older than a month. Shows you're plugged in and current."
+      },
+      {
+        "name": "The No-Agenda Opener",
+        "text": "Hey {{firstName}}, appreciate the connection! No agenda here — just like building relationships with sharp people in {{industry}}. If there's ever anything I can help with on the {{yourExpertise}} side, don't hesitate to reach out.",
+        "whenToUse": "For long-term relationship building with high-value prospects. No immediate ask.",
+        "expectedPerformance": "20-30% reply rate",
+        "personalizationTips": "This works best when you genuinely have no agenda. Plant the seed and follow up with value over time."
+      },
+      {
+        "name": "The Case Study Teaser",
+        "text": "Hi {{firstName}}, glad we connected! We recently helped {{similarCompany}} achieve {{result}} in {{timeframe}}. Given you're in a similar space at {{company}}, thought you might find the approach interesting. Happy to share the details if you're curious.",
+        "whenToUse": "When you have a strong case study relevant to the prospect's company or industry.",
+        "expectedPerformance": "20-30% reply rate",
+        "personalizationTips": "Use a case study from their industry or a company they'd recognize. Keep the result specific and credible."
+      },
+      {
+        "name": "The Event Follow-Up",
+        "text": "Hey {{firstName}}, good to connect! Were you at {{event}} last week? The session on {{topic}} was eye-opening. I'm curious what your key takeaway was — mine was {{yourTakeaway}}.",
+        "whenToUse": "After connecting with someone from a recent conference, webinar, or industry event.",
+        "expectedPerformance": "30-40% reply rate",
+        "personalizationTips": "Send within 48 hours of the event. Reference a specific session or speaker for authenticity."
+      },
+      {
+        "name": "The Collaborative Opener",
+        "text": "Hi {{firstName}}, thanks for connecting! I noticed you're doing interesting work in {{area}} at {{company}}. We're focused on {{yourArea}} at {{yourCompany}} — I think there could be some cool synergies. Open to exploring?",
+        "whenToUse": "When there's genuine potential for collaboration or partnership, not just a sales conversation.",
+        "expectedPerformance": "20-30% reply rate",
+        "personalizationTips": "Be specific about what the synergy could look like. Vague 'synergy' claims feel like buzzword soup."
+      }
+    ],
+    "customization": {
+      "title": "How to Customize These Introduction Messages",
+      "content": "Introduction messages have more room than connection requests (no 300-character limit), but brevity still wins. Here's how to make these templates work:\n\n1. **Send within 24 hours**: Momentum matters. The longer you wait after acceptance, the lower your reply rate drops.\n2. **Lead with context, not pitch**: Your first message should feel like a conversation starter, not a sales call.\n3. **Keep it under 100 words**: LinkedIn messages get scanned, not read. Short messages get more replies.\n4. **One question max**: Ask one thing. Multiple questions overwhelm and reduce reply rates.\n5. **Match their tone**: Check their profile and posts. Mirror their communication style — formal for executives, casual for startup founders."
+    },
+    "sendingAtScale": {
+      "title": "Automating Introduction Messages with Handshake",
+      "content": "Handshake lets you set up automatic introduction messages as the first step in your follow-up sequence after a connection is accepted:\n\n- **Auto-trigger on acceptance**: Your introduction message sends automatically within hours of the prospect accepting your connection request.\n- **Dynamic personalization**: Use `{{firstName}}`, `{{company}}`, `{{jobTitle}}`, and custom fields to make every intro feel personal.\n- **Sequence integration**: Your introduction message is step one of a multi-touch sequence — if they don't reply, Handshake automatically follows up on your schedule.\n- **Reply detection**: When a prospect replies, Handshake pauses the sequence so you can have a real conversation.\n\nCombine these intro templates with follow-up sequences to build a fully automated pipeline from connection to conversation."
+    }
+  },
+  "faqs": [
+    { "question": "How soon should I send an introduction message after a connection accepts?", "answer": "Within 24 hours. Studies show reply rates drop significantly after 48 hours. The connection is still fresh in their mind — strike while it's warm." },
+    { "question": "Should I pitch my product in the introduction message?", "answer": "No. The introduction message should start a conversation, not close a deal. Lead with value, context, or a genuine question. Save the pitch for message 2 or 3 in your sequence." },
+    { "question": "How long should a LinkedIn introduction message be?", "answer": "Under 100 words. Shorter messages consistently outperform longer ones. Get to the point quickly and ask one clear question to prompt a reply." },
+    { "question": "What's a good reply rate for introduction messages?", "answer": "15-30% is solid for cold outreach. Above 30% means your messaging and targeting are dialed in. Below 10% means you need to rework your approach." },
+    { "question": "Should I send the same introduction message to every new connection?", "answer": "No. Segment your audience and use different templates for different personas. A CTO needs a different message than a VP of Sales. Handshake lets you assign templates by campaign and audience segment." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-send-connection-requests-at-scale-on-linkedin", "how-to-build-a-linkedin-outreach-sequence"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-follow-up-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-recruitment-staffing"]
+  }
+}

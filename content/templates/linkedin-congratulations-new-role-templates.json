@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-congratulations-new-role-templates",
+  "title": "12+ LinkedIn Congratulations Messages for New Roles That Start Conversations (2026)",
+  "description": "Copy-paste LinkedIn congratulations message templates for when prospects start new roles. Turn career moves into sales conversations with these tested openers.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why New Role Congratulations Messages Are a Sales Goldmine",
+      "content": "When someone starts a new role, they're in buying mode. New leaders want to make an impact fast, they have fresh budgets to allocate, and they're actively evaluating tools and vendors. LinkedIn even notifies you when connections change roles — it's practically handing you a warm lead on a silver platter.\n\nBut most people waste this opportunity with a lazy 'Congrats on the new role!' that gets lost in a sea of identical messages. The templates below go further — they congratulate genuinely while opening a door to a relevant business conversation. Timing is everything: send within the first 1-2 weeks of their role change for maximum impact."
+    },
+    "templates": [
+      {
+        "name": "The Genuine Congrats + Soft Open",
+        "text": "Congrats on the new role at {{company}}, {{firstName}}! Exciting move. I'm curious — what's top of your priority list for the first 90 days? We've been helping {{targetRole}} leaders in {{industry}} hit the ground running.",
+        "whenToUse": "Universal opener for any new role. Genuine congratulations with a natural segue to business.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Research what challenges are common for someone in their role during the first 90 days. Make your question specific to their function."
+      },
+      {
+        "name": "The Challenge Acknowledger",
+        "text": "Hey {{firstName}}, congrats on the move to {{company}}! Starting a new {{role}} is exciting and intense. One thing we hear from leaders in similar transitions — {{commonChallenge}} is always a Day 1 headache. Is that on your radar?",
+        "whenToUse": "When you know a specific pain point that comes with their role transition. Shows empathy and expertise.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "Name the actual challenge for their role — don't be vague. 'Inheriting a tech stack you didn't choose' is better than 'challenges.'"
+      },
+      {
+        "name": "The Quick Win Offer",
+        "text": "Hi {{firstName}}, big congrats on joining {{company}}! New leaders always want to show quick wins. We helped {{similarCompany}}'s new {{role}} deliver {{result}} in their first {{timeframe}}. Happy to share what worked if it's useful.",
+        "whenToUse": "When you have a case study of helping someone in a similar role transition achieve fast results.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "Quick wins are irresistible to new hires. Make the result specific and achievable within their first quarter."
+      },
+      {
+        "name": "The Industry Insider",
+        "text": "Congrats on the {{company}} move, {{firstName}}! Having worked with several {{industry}} teams, I know the {{area}} landscape can be tricky to navigate. We put together a {{resource}} that new {{role}} leaders have found helpful. Want me to send it over?",
+        "whenToUse": "When you have a relevant resource (guide, report, checklist) specifically useful for someone new to the role.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "The resource should be genuinely useful for someone in their first 90 days — not a product brochure."
+      },
+      {
+        "name": "The Previous Company Reference",
+        "text": "Hey {{firstName}}, saw you made the jump from {{previousCompany}} to {{company}} — congrats! I actually work with a few teams that made similar transitions in {{industry}}. Curious how things compare so far. Would love to connect.",
+        "whenToUse": "When you have context about their previous company or industry experience.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "If you have connections at their old company, mention it. If you know the differences between the two companies, reference them."
+      },
+      {
+        "name": "The Vendor Audit Alert",
+        "text": "Hi {{firstName}}, congrats on the new gig at {{company}}! Quick thought — new leaders often audit their existing vendor stack in the first few months. If {{area}} comes up in your review, we'd love to be in the conversation. No rush, just planting the seed.",
+        "whenToUse": "When your product is something that gets reviewed during leadership transitions. Direct but patient.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "This works because it's honest about intent while being patient about timing. 'Planting the seed' signals you're in no hurry."
+      },
+      {
+        "name": "The Peer Network Offer",
+        "text": "Congrats on the role, {{firstName}}! I work with a lot of {{targetRole}} leaders in {{industry}} and know the first few months can be a whirlwind. Happy to connect you with a few peers who've been in your shoes — sometimes the best advice comes from people who've done it before.",
+        "whenToUse": "When you can genuinely offer introductions to peers. Positions you as a connector, not a seller.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "Only offer intros you can actually make. This builds massive goodwill and positions you as a trusted advisor."
+      },
+      {
+        "name": "The Budget Cycle Aware",
+        "text": "Hey {{firstName}}, awesome to see you at {{company}}! New role, new budget conversations. If {{area}} is part of your planning this quarter, we've got some interesting data on what's working for {{industry}} teams right now. Happy to share — no strings attached.",
+        "whenToUse": "When the role change likely coincides with budget allocation. Direct about the business opportunity.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "Time this around their company's fiscal calendar. A new VP in Q1 is likely doing annual planning; a Q3 hire might have a partial-year budget."
+      },
+      {
+        "name": "The Warm Reconnect",
+        "text": "{{firstName}}, congrats on {{company}}! We actually connected a while back when you were at {{previousCompany}}. Thought this would be a great time to reconnect. How's the transition going? Anything I can help with on the {{area}} side?",
+        "whenToUse": "When the person is an existing connection you haven't spoken to in a while. The role change is a natural re-engagement trigger.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Reference your previous interaction specifically. 'We connected at {{event}}' or 'We chatted about {{topic}}' adds warmth."
+      },
+      {
+        "name": "The Team Builder",
+        "text": "Hi {{firstName}}, congrats on the new role! I know new leaders often bring in new processes and tools. If you're building out your {{area}} capabilities at {{company}}, I'd love to show you what we've been doing with similar teams. No pitch — just a relevant conversation.",
+        "whenToUse": "When the prospect is likely building or restructuring a team in their new role.",
+        "expectedPerformance": "18-25% reply rate",
+        "personalizationTips": "Check if they're hiring — LinkedIn job posts from their company will tell you if they're expanding the team they now lead."
+      },
+      {
+        "name": "The Celebration + Value",
+        "text": "Congrats, {{firstName}}! {{company}} is lucky to have you. I put together a short list of the top {{number}} things {{targetRole}} leaders wish they knew in their first month. Interested? It's based on conversations with {{number}} leaders in {{industry}}.",
+        "whenToUse": "When you can package your expertise into a helpful first-month guide. Positions you as an expert.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "Actually create the list before offering it. A numbered list of practical tips is highly shareable and builds credibility."
+      },
+      {
+        "name": "The Promotion Congrats",
+        "text": "Hey {{firstName}}, huge congrats on the promotion to {{newRole}} at {{company}}! Well deserved. With the expanded scope, I imagine {{area}} is becoming more of a priority. If you ever want to bounce ideas around, I work with a lot of {{targetRole}} leaders on exactly that.",
+        "whenToUse": "When the change is a promotion within the same company, not an external move.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "Promotions are deeply personal — 'well deserved' lands well. Reference the expanded scope to show you understand what the new role means."
+      }
+    ],
+    "customization": {
+      "title": "New Role Outreach Best Practices",
+      "content": "Timing and relevance are everything with new role outreach. Here's how to maximize results:\n\n1. **Reach out within 1-2 weeks**: The congratulations window is narrow. After a month, it feels stale.\n2. **Don't pitch immediately**: Your first message should be a congratulations, not a demo request. Save the pitch for message 2 or 3.\n3. **Research their new role**: Understand what challenges come with their specific title at their specific company.\n4. **Know the company context**: Is the company growing? Restructuring? Just raised funding? Context shapes your message.\n5. **Monitor LinkedIn notifications**: Set up alerts for role changes among your connections and target accounts."
+    },
+    "sendingAtScale": {
+      "title": "Automating New Role Outreach with Handshake",
+      "content": "Handshake helps you capitalize on role changes automatically:\n\n- **Role change detection**: Handshake monitors your target accounts and alerts you when key contacts change roles.\n- **Automated sequences**: Trigger a congratulations sequence automatically when a role change is detected.\n- **Smart timing**: Messages are sent at optimal intervals — congratulations first, then value-add, then soft ask.\n- **Account tracking**: Track role changes across entire target accounts, not just individual contacts. When a new VP joins a target company, Handshake catches it.\n\nRole changes are one of the strongest buying signals in B2B sales. Don't let them slip through the cracks."
+    }
+  },
+  "faqs": [
+    { "question": "How quickly should I send a congratulations message after a role change?", "answer": "Within 1-2 weeks. The congratulations window is short — after a month, your message feels forced. LinkedIn notifies you of role changes; act on them the same day if possible." },
+    { "question": "Should I pitch in my congratulations message?", "answer": "No. The first message should be genuinely congratulatory with, at most, a soft open to conversation. Pitching in a congratulations message feels transactional and kills trust. Save the pitch for your follow-up." },
+    { "question": "Why are role changes such a strong buying signal?", "answer": "New leaders want to make an impact quickly, they have fresh budgets, they're evaluating existing tools and vendors, and they're more open to new ideas. Studies show new executives make most of their vendor decisions in the first 90 days." },
+    { "question": "Should I reach out for internal promotions or just external moves?", "answer": "Both. External moves are stronger signals (new company, new budget, clean slate), but internal promotions also trigger vendor reviews, especially when the scope of responsibility expands." },
+    { "question": "How many follow-ups should I send after a congratulations message?", "answer": "2-3 follow-ups over 2-3 weeks. Keep the tone helpful, not salesy. If they don't respond, move them to a re-engagement list for 60-90 days and try again with a fresh angle." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-outreach-sequence", "how-to-send-connection-requests-at-scale-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-introduction-message-templates", "linkedin-re-engagement-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-recruitment-staffing"]
+  }
+}

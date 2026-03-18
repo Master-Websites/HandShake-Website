@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-partnership-proposal-templates",
+  "title": "12+ LinkedIn Partnership Proposal Templates That Get 'Yes' (2026)",
+  "description": "Copy-paste LinkedIn partnership proposal templates for co-marketing, integrations, and strategic alliances. Turn LinkedIn connections into business partners with these proven messages.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why LinkedIn Is the Best Place to Propose B2B Partnerships",
+      "content": "The best partnerships start with a message, and LinkedIn is where B2B decision-makers live. Whether you're proposing a co-marketing campaign, a product integration, a referral arrangement, or a strategic alliance, LinkedIn gives you direct access to the people who can say yes.\n\nBut partnership proposals are different from sales outreach. You're not selling a product — you're proposing a mutually beneficial relationship. The framing matters: lead with what you bring to the table, show how both sides benefit, and make the next step easy.\n\nThese templates are designed for different partnership types — from lightweight content collaborations to deep product integrations. Each one is structured to demonstrate mutual value from the first message."
+    },
+    "templates": [
+      {
+        "name": "The Co-Marketing Proposal",
+        "text": "Hey {{firstName}}, I've been following {{company}} and I think there's a natural co-marketing opportunity. Our audiences overlap — we serve {{yourAudience}} and you serve {{theirAudience}}. I'm thinking a joint {{contentType}} on {{topic}} could drive value for both our communities. Worth exploring?",
+        "whenToUse": "When you share an audience with a non-competing company and want to create content together.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "Be specific about the content format — 'joint webinar' or 'co-authored guide' is better than 'co-marketing opportunity.' Show you've thought it through."
+      },
+      {
+        "name": "The Integration Proposal",
+        "text": "Hi {{firstName}}, our customers keep asking if {{yourProduct}} integrates with {{theirProduct}}. Seems like there's real demand for this. Would {{company}} be interested in exploring a native integration? We've got the dev resources on our side and think it could be a win for both product ecosystems.",
+        "whenToUse": "When your products are complementary and customers would benefit from an integration.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "Mention real customer requests if possible. 'Our customers keep asking' is the strongest signal that an integration has demand."
+      },
+      {
+        "name": "The Referral Partnership",
+        "text": "Hey {{firstName}}, I've been thinking about this — {{yourCompany}} and {{theirCompany}} serve the same buyer but solve different problems. What if we set up a referral exchange? When our customers need {{theirArea}}, we send them your way, and vice versa. Low effort, high value for both sides. Interested?",
+        "whenToUse": "When you serve the same buyer persona but don't compete. Referral partnerships are low-commitment and high-ROI.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Frame it as a mutual exchange from the start. 'What can we send you?' is more appealing than 'can you send us referrals?'"
+      },
+      {
+        "name": "The Content Collaboration",
+        "text": "Hi {{firstName}}, I'm putting together a {{contentType}} on {{topic}} featuring insights from {{industry}} leaders. I'd love to include {{company}}'s perspective — your work on {{area}} is really strong. Would you or someone on your team be up for contributing? Great exposure for both of us.",
+        "whenToUse": "When you're creating content and want to feature their expertise. Low-barrier entry to a partnership.",
+        "expectedPerformance": "28-38% reply rate",
+        "personalizationTips": "Content collaborations are the easiest partnership to get a 'yes' on. They require minimal commitment and offer clear value (exposure)."
+      },
+      {
+        "name": "The Channel Partnership",
+        "text": "Hey {{firstName}}, I think {{company}} could be a great channel partner for us. Your {{service/audience}} is a natural fit for {{yourProduct}} — and we could offer your clients {{benefit}} as a value-add. We're building out our partner program and I'd love to discuss what a partnership could look like. Open to a chat?",
+        "whenToUse": "When you want to recruit them as a reseller, agency partner, or channel partner.",
+        "expectedPerformance": "18-25% reply rate",
+        "personalizationTips": "Lead with what's in it for them — revenue share, client value-add, exclusive access. Don't just ask them to sell for you."
+      },
+      {
+        "name": "The Event Co-Sponsorship",
+        "text": "Hi {{firstName}}, we're organizing a {{eventType}} for {{targetAudience}} on {{date}} and looking for a co-sponsor to split costs and amplify reach. Given {{company}}'s presence in {{industry}}, you'd be a perfect fit. We'd each promote to our networks and share the leads. Interested in the details?",
+        "whenToUse": "When you're hosting an event and want to share costs and expand reach through a partner.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "Be upfront about what you're sharing — costs, leads, promotion responsibilities. Clarity prevents awkward negotiations later."
+      },
+      {
+        "name": "The Ecosystem Play",
+        "text": "Hey {{firstName}}, I've been mapping out the {{industry}} ecosystem and {{company}} keeps coming up as a key player alongside us. Our products are complementary — {{yourProduct}} handles {{yourArea}} and {{theirProduct}} handles {{theirArea}}. I think there's an opportunity to create a better end-to-end experience for our shared customers. Worth a conversation?",
+        "whenToUse": "When your products are part of the same ecosystem and together create more value than separately.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "Map out the ecosystem visually if possible. Showing where both products fit creates a compelling narrative."
+      },
+      {
+        "name": "The Affiliate Proposal",
+        "text": "Hi {{firstName}}, I love what {{company}} is building for {{audience}}. We have an affiliate program that might be a good fit — {{commissionStructure}} for referrals that convert. Given your reach in {{industry}}, I think it could be a nice revenue stream without a lot of extra work. Want the details?",
+        "whenToUse": "When proposing an affiliate arrangement with a content creator, agency, or influencer in your space.",
+        "expectedPerformance": "18-25% reply rate",
+        "personalizationTips": "Be transparent about commission structure. Vague 'generous commissions' don't get replies — specific numbers do."
+      },
+      {
+        "name": "The Joint Customer Success",
+        "text": "Hey {{firstName}}, we share a customer — {{sharedCustomer}} — and they've been getting great results using both {{yourProduct}} and {{theirProduct}} together. What if we turned their story into a joint case study? It'd be great marketing for both of us. Would {{company}} be up for that?",
+        "whenToUse": "When you share a mutual customer and want to create a joint success story. One of the easiest partnerships to propose.",
+        "expectedPerformance": "30-40% reply rate",
+        "personalizationTips": "Name the shared customer only if they'd be comfortable being featured. Get their buy-in before reaching out to the partner."
+      },
+      {
+        "name": "The Thought Leadership Alliance",
+        "text": "Hi {{firstName}}, I've been following your content on {{topic}} — really insightful stuff. I write about {{yourTopic}} and I think a collaborative series where we combine perspectives could be valuable for both our audiences. Thinking {{format}} — maybe 3-4 pieces covering {{scope}}. Interested?",
+        "whenToUse": "When you want to co-create a thought leadership series with someone who has a complementary perspective.",
+        "expectedPerformance": "25-32% reply rate",
+        "personalizationTips": "Have a clear content plan before proposing. '3-4 posts on X' is more actionable than 'let's create content together.'"
+      },
+      {
+        "name": "The Data Exchange",
+        "text": "Hey {{firstName}}, we've got some interesting data on {{yourDataArea}} and I bet {{company}} has great data on {{theirDataArea}}. What if we combined our data sets for a joint {{industry}} report? Co-branded research gets a lot of attention and we'd both benefit from the reach. Open to discussing?",
+        "whenToUse": "When you have complementary data and can create a stronger report together than either could alone.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "Data partnerships create assets with long shelf life. Frame the value in terms of the combined insight, not just shared workload."
+      },
+      {
+        "name": "The Bundle Proposal",
+        "text": "Hi {{firstName}}, our sales team keeps running into deals where prospects also need {{theirArea}} alongside {{yourArea}}. What if we created a joint offering or bundle? {{yourProduct}} + {{theirProduct}} as a package could be a differentiator for both of us. I've got some ideas on how it could work — open to a chat?",
+        "whenToUse": "When your products are often bought together and a formal bundle could increase both companies' win rates.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "Come with data on how often your products are used together. Real customer patterns are more persuasive than hypothetical value."
+      }
+    ],
+    "customization": {
+      "title": "Partnership Proposal Best Practices",
+      "content": "Partnership proposals need to demonstrate mutual value from message one. Here's how:\n\n1. **Lead with what you bring**: Don't just ask — offer. What audience, data, product, or expertise do you bring to the table?\n2. **Show you've done homework**: Reference their product, audience, or recent work. Generic 'let's partner' messages get ignored.\n3. **Be specific about the format**: 'Co-authored blog post' is actionable. 'Some kind of collaboration' is not.\n4. **Start small**: Propose a low-commitment first step — a content collaboration, not a full integration. Let it grow from there.\n5. **Target the right person**: Partnerships are often handled by Business Development, Marketing, or Partnerships teams. Don't pitch the CEO of a 500-person company."
+    },
+    "sendingAtScale": {
+      "title": "Building a Partner Pipeline with Handshake",
+      "content": "Handshake helps you build and manage a systematic partnership pipeline:\n\n- **Partner prospecting**: Identify potential partners based on shared audience, complementary products, and mutual connections.\n- **Outreach sequences**: Run dedicated partnership outreach campaigns with appropriate messaging and pacing.\n- **Relationship tracking**: Track partnership conversations from first message to signed agreement.\n- **Multi-touch approach**: Reach multiple stakeholders at potential partner companies — BD, Marketing, Product — to find the right champion.\n\nPartnerships are a long game. Handshake helps you manage the pipeline so opportunities don't slip through the cracks."
+    }
+  },
+  "faqs": [
+    { "question": "How do I find the right person to pitch a partnership to?", "answer": "Look for titles like VP of Partnerships, Business Development, or Head of Strategic Alliances. At smaller companies, the CEO or VP of Marketing often handles partnerships. Check LinkedIn for the most relevant title and reach out directly." },
+    { "question": "Should I propose a big partnership right away or start small?", "answer": "Start small. A joint blog post or webinar is low-risk and lets both sides evaluate the relationship. If it goes well, escalate to bigger initiatives like integrations or revenue-share partnerships." },
+    { "question": "What's the difference between a partnership and a sales pitch?", "answer": "A partnership proposal shows mutual benefit — what you bring AND what they get. A sales pitch is one-directional. Always frame your message around shared value, not 'here's what we need from you.'" },
+    { "question": "How long does it take to close a partnership?", "answer": "Simple content collaborations can happen in 1-2 weeks. Referral partnerships take 2-4 weeks. Product integrations and channel partnerships often take 1-3 months. Be patient — partnerships are built on trust and trust takes time." },
+    { "question": "Can I use LinkedIn automation for partnership outreach?", "answer": "Yes, but with care. Partnership messages should feel personal and thoughtful — not mass-produced. Use Handshake to manage timing and follow-ups, but make sure each initial message is customized for the specific partner opportunity." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-outreach-sequence", "how-to-send-connection-requests-at-scale-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-introduction-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-agencies"]
+  }
+}

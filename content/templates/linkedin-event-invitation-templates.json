@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-event-invitation-templates",
+  "title": "12+ LinkedIn Event Invitation Templates That Fill Seats (2026)",
+  "description": "Copy-paste LinkedIn event invitation templates for webinars, conferences, and meetups. Get higher RSVPs and attendance with these proven invitation messages.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why LinkedIn Is the Best Channel for B2B Event Invitations",
+      "content": "Email open rates for event invitations hover around 20-25%. LinkedIn message open rates? 50-60%. When you're promoting a webinar, conference, or meetup to a B2B audience, LinkedIn is the highest-performing channel available.\n\nBut there's a catch: LinkedIn users are protective of their inbox. A generic 'Join our webinar!' message gets ignored or reported. The invitation needs to feel personal, explain the specific value for them, and make registration effortless.\n\nThese templates are designed to drive registrations by leading with value — what the attendee will learn, who they'll hear from, and why it matters for their specific role. Each one has been tested across hundreds of event campaigns."
+    },
+    "templates": [
+      {
+        "name": "The Value-Led Invitation",
+        "text": "Hey {{firstName}}, we're hosting a live session on {{topic}} on {{date}} — specifically for {{targetRole}} leaders in {{industry}}. We'll be covering {{keyTakeaway1}} and {{keyTakeaway2}}. Given your role at {{company}}, thought this might be right up your alley. Here's the link to save your spot: {{link}}",
+        "whenToUse": "The all-purpose event invitation. Works for webinars, workshops, and virtual events.",
+        "expectedPerformance": "15-22% registration rate",
+        "personalizationTips": "Mention their specific role and industry. A webinar 'for VP of Sales in SaaS' converts better than a webinar 'for business leaders.'"
+      },
+      {
+        "name": "The Speaker Hook",
+        "text": "Hi {{firstName}}, {{speakerName}} from {{speakerCompany}} is presenting on {{topic}} at our upcoming event on {{date}}. They'll be sharing how they {{achievement}}. I know you're focused on similar challenges at {{company}} — thought you'd want in. Register here: {{link}}",
+        "whenToUse": "When you have a notable speaker the prospect would recognize or admire.",
+        "expectedPerformance": "18-25% registration rate",
+        "personalizationTips": "The speaker's credibility does the heavy lifting. Choose speakers your audience would actually want to hear."
+      },
+      {
+        "name": "The Exclusive Invite",
+        "text": "Hey {{firstName}}, we're running a small, invite-only session for {{targetRole}} leaders on {{topic}} — limited to {{number}} attendees. Given your work at {{company}}, you'd be a great fit. {{date}}, {{duration}}. Interested? I can hold a spot for you: {{link}}",
+        "whenToUse": "When the event is genuinely exclusive or limited in size. Scarcity drives action.",
+        "expectedPerformance": "20-28% registration rate",
+        "personalizationTips": "Only use the exclusivity angle if it's real. Saying 'invite-only' for a public webinar damages trust."
+      },
+      {
+        "name": "The Peer Learning Angle",
+        "text": "Hi {{firstName}}, we're bringing together {{number}} {{targetRole}} leaders from companies like {{company1}} and {{company2}} for a roundtable on {{topic}}. It's on {{date}} and the format is interactive — think peer discussion, not presentation. Would love to have {{company}} represented. Here's the RSVP: {{link}}",
+        "whenToUse": "For roundtables, peer groups, and discussion-format events. The interactive format appeals to senior leaders.",
+        "expectedPerformance": "18-25% registration rate",
+        "personalizationTips": "Name companies they'd want to be in the room with. Peer pressure (the positive kind) drives registration."
+      },
+      {
+        "name": "The Problem-Focused Invitation",
+        "text": "Hey {{firstName}}, struggling with {{challenge}}? You're not alone — it's the #1 issue {{targetRole}} leaders raised in our latest survey. We're hosting a session on {{date}} specifically to tackle it. We'll cover {{approach}} with real examples from {{industry}}. Grab a spot here: {{link}}",
+        "whenToUse": "When the event addresses a known pain point for the prospect's role. Pain-focused messaging outperforms benefit-focused.",
+        "expectedPerformance": "18-25% registration rate",
+        "personalizationTips": "The pain point must be real and specific to their role. 'Struggling with revenue growth' is too broad; 'struggling with SDR ramp time' is specific."
+      },
+      {
+        "name": "The Time-Sensitive Nudge",
+        "text": "Hi {{firstName}}, quick heads-up — our {{eventType}} on {{topic}} is {{timeframe}} away and we're almost at capacity. {{number}} {{targetRole}} leaders have already registered including people from {{company1}} and {{company2}}. Didn't want you to miss it: {{link}}",
+        "whenToUse": "When the event is nearly full or the deadline is approaching. Creates urgency.",
+        "expectedPerformance": "15-22% registration rate",
+        "personalizationTips": "Use real numbers and real company names. Fabricated urgency ('almost full!' when it's half empty) erodes trust."
+      },
+      {
+        "name": "The Content Preview",
+        "text": "Hey {{firstName}}, next {{dayOfWeek}} we're revealing the results of our {{study}} — surveyed {{number}} {{industry}} companies and found some surprising data on {{topic}}. Preview: {{teaserInsight}}. The full breakdown drops live on {{date}}. Register to get the data first: {{link}}",
+        "whenToUse": "When the event includes a reveal of new data, research, or insights. Curiosity drives registration.",
+        "expectedPerformance": "20-28% registration rate",
+        "personalizationTips": "Give them a teaser finding that's surprising enough to create curiosity but incomplete enough to drive registration."
+      },
+      {
+        "name": "The In-Person Meetup",
+        "text": "Hi {{firstName}}, we're organizing a {{eventType}} for {{targetAudience}} in {{city}} on {{date}}. Casual format — {{description}}. I noticed you're based in {{area}} and thought you might enjoy it. RSVP here: {{link}}. Would be great to meet in person!",
+        "whenToUse": "For local, in-person events. Location-specific messaging converts better than generic invitations.",
+        "expectedPerformance": "15-22% registration rate",
+        "personalizationTips": "Mention their city or area specifically. Local events feel more accessible and less like a sales trap."
+      },
+      {
+        "name": "The Replay Offer",
+        "text": "Hey {{firstName}}, we're hosting a live session on {{topic}} this {{dayOfWeek}} at {{time}}. I know {{targetRole}} leaders at {{company}} are busy — so if you can't make it live, register anyway and we'll send you the recording. The content on {{specificArea}} is really relevant for {{industry}} teams: {{link}}",
+        "whenToUse": "When you want to capture registrations from people who might not attend live. The replay offer removes the scheduling barrier.",
+        "expectedPerformance": "20-28% registration rate",
+        "personalizationTips": "The replay offer removes the biggest objection ('I'm busy that day'). Always follow through on sending the replay."
+      },
+      {
+        "name": "The Follow-Up to Non-Registrants",
+        "text": "Hi {{firstName}}, did my last message about the {{eventType}} on {{topic}} get buried? Just wanted to make sure you saw it — {{number}} people have registered and the feedback from our previous sessions has been really strong. Spots are filling up for {{date}}: {{link}}. No worries if it's not your thing!",
+        "whenToUse": "Follow-up for prospects who didn't respond to the first invitation. One follow-up is appropriate.",
+        "expectedPerformance": "8-15% registration rate",
+        "personalizationTips": "Keep the follow-up shorter than the original. Add new social proof (registrant count, testimonials from past events)."
+      },
+      {
+        "name": "The Post-Event Share",
+        "text": "Hey {{firstName}}, we hosted a session on {{topic}} last week and the insights were too good not to share. {{speakerName}} from {{speakerCompany}} shared how they {{achievement}}. Here's the recording: {{link}}. Would love to hear your take, especially given what {{company}} is doing in {{area}}.",
+        "whenToUse": "For sharing event recordings with people who didn't attend. Extends the event's reach and value.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "Lead with the most compelling insight or speaker. Don't just share the recording — tell them why it's worth their time."
+      },
+      {
+        "name": "The Co-Host Invitation",
+        "text": "Hi {{firstName}}, we're putting together a {{eventType}} on {{topic}} and looking for co-hosts from leading {{industry}} companies. Given {{company}}'s work in {{area}}, you'd be a fantastic panelist/co-host. It's on {{date}}, about {{duration}}. Interested? Happy to share more details.",
+        "whenToUse": "When inviting someone to speak or co-host, not just attend. Flattering and valuable for their personal brand.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Being asked to speak is flattering — lean into why they specifically would be valuable. Reference their expertise or content."
+      }
+    ],
+    "customization": {
+      "title": "Event Invitation Best Practices on LinkedIn",
+      "content": "Event invitations on LinkedIn require a different approach than email. Here's how to maximize registrations:\n\n1. **Lead with value, not logistics**: What will they learn? Who will they meet? Why does it matter for their role? Save the date/time for the end.\n2. **One event, one message**: Don't invite them to your event AND pitch your product. The invitation is the entire message.\n3. **Follow up once**: One follow-up is appropriate. More than that, and you're spamming.\n4. **Segment your audience**: Send different invitation messages to different personas. A CTO gets a different angle than a VP of Marketing.\n5. **Include the link**: Make registration one click away. Don't make them ask for the link."
+    },
+    "sendingAtScale": {
+      "title": "Promoting Events at Scale with Handshake",
+      "content": "Handshake turns event promotion into a scalable, trackable campaign:\n\n- **Targeted invitations**: Send event invitations to specific audience segments based on role, industry, and company size.\n- **Multi-sender distribution**: Distribute invitations across multiple LinkedIn accounts so no single account sends too many.\n- **Follow-up automation**: Automatically follow up with non-responders and send reminders to registrants.\n- **Attendance tracking**: Track who registered, who attended, and who engaged — then follow up with personalized messages post-event.\n\nEvents are a pipeline goldmine when promoted effectively. Handshake makes it possible to fill seats without spending all day in LinkedIn."
+    }
+  },
+  "faqs": [
+    { "question": "How far in advance should I send LinkedIn event invitations?", "answer": "1-2 weeks before the event for webinars, 3-4 weeks for in-person events. Send a follow-up reminder 2-3 days before. Invitations sent too early get forgotten; too late and calendars are full." },
+    { "question": "How many event invitations can I send per day on LinkedIn?", "answer": "Stay under 50-75 messages per day per account to avoid LinkedIn restrictions. With Handshake's multi-sender feature, you can distribute invitations across accounts and stay within safe limits while reaching more people." },
+    { "question": "Should I invite people I'm not connected with?", "answer": "Connection requests with an event invitation rarely work — it's too much for a first interaction. Focus event invitations on existing connections. Use InMail for high-value non-connections if you have Premium." },
+    { "question": "What's a good registration rate for LinkedIn event invitations?", "answer": "15-25% is strong for targeted outreach. Above 25% means your targeting and messaging are excellent. Below 10% means you need to improve relevance, timing, or the event value proposition." },
+    { "question": "Should I share the event as a post or send individual messages?", "answer": "Both. Posts reach your broader network and create social proof. Individual messages convert at 3-5x higher rates than posts. Use messages for your priority prospects and posts for general awareness." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-send-connection-requests-at-scale-on-linkedin", "how-to-build-a-linkedin-outreach-sequence"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-content-share-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-agencies"]
+  }
+}

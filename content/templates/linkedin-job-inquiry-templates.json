@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-job-inquiry-templates",
+  "title": "12+ LinkedIn Job Inquiry Templates That Get Responses from Hiring Managers (2026)",
+  "description": "Copy-paste LinkedIn job inquiry templates for reaching out to hiring managers, recruiters, and decision-makers. Land more interviews with these proven outreach messages.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Direct LinkedIn Outreach Beats Applying Through Job Boards",
+      "content": "The average job posting gets 250+ applicants. Your resume goes into an ATS black hole and maybe — maybe — gets seen by a human. But a direct LinkedIn message to the hiring manager? That bypasses the pile entirely and puts you at the front of the line.\n\nThe data backs it up: 85% of jobs are filled through networking, and a direct message to the right person can increase your interview chances by 5-10x compared to a cold application. The key is reaching the right person with the right message — one that's specific, concise, and shows you've done your homework.\n\nThese templates help you stand out from the hundreds of 'I'm interested in the role' messages hiring managers receive every day."
+    },
+    "templates": [
+      {
+        "name": "The Direct Application Follow-Up",
+        "text": "Hi {{firstName}}, I just applied for the {{role}} position at {{company}} and wanted to reach out directly. I have {{years}} years of experience in {{area}}, most recently at {{currentCompany}} where I {{achievement}}. I'd love to learn more about what you're looking for in this role. Would a quick chat be possible?",
+        "whenToUse": "After submitting a formal application. Adds a personal touch to the process and ensures visibility.",
+        "expectedPerformance": "20-30% reply rate",
+        "personalizationTips": "Reference the specific job posting and your most relevant achievement. Don't repeat your resume — highlight the one thing that makes you stand out."
+      },
+      {
+        "name": "The Warm Inquiry (No Job Posted)",
+        "text": "Hey {{firstName}}, I've been following {{company}}'s growth in {{area}} — really impressive trajectory. I'm a {{yourRole}} with {{years}} years in {{industry}} and I'm exploring opportunities where I can make a real impact. Is {{company}} hiring or planning to grow the {{department}} team? I'd love to be on your radar.",
+        "whenToUse": "When the company isn't actively posting for your role but you suspect they're growing.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "Check their recent news, funding, and headcount growth for signals. A company that just raised Series B is probably hiring."
+      },
+      {
+        "name": "The Mutual Connection Intro",
+        "text": "Hi {{firstName}}, {{mutualConnection}} suggested I reach out — they mentioned {{company}} is building out the {{department}} team. I've spent the last {{years}} years in {{area}}, including {{achievement}} at {{currentCompany}}. Would love to learn about what you're looking for and whether there might be a fit.",
+        "whenToUse": "When you have a referral or introduction from someone the hiring manager knows.",
+        "expectedPerformance": "30-45% reply rate",
+        "personalizationTips": "The referral name is the hook — put it first. Get permission from the referrer before using their name."
+      },
+      {
+        "name": "The Specific Value Add",
+        "text": "Hey {{firstName}}, I saw the {{role}} posting at {{company}} and it caught my eye — specifically the part about {{specificRequirement}}. That's exactly what I did at {{currentCompany}}: I {{specificAchievement}} which resulted in {{outcome}}. I think I could bring the same approach to {{company}}. Open to a conversation?",
+        "whenToUse": "When the job posting has a specific requirement that perfectly matches your experience.",
+        "expectedPerformance": "22-32% reply rate",
+        "personalizationTips": "Quote the job posting directly, then match it with a specific achievement. The closer the match, the higher the reply rate."
+      },
+      {
+        "name": "The Company Fan",
+        "text": "Hi {{firstName}}, I've been a fan of {{company}} since {{milestone}} — your approach to {{area}} is genuinely different from what I've seen in the market. I'm currently a {{yourRole}} at {{currentCompany}} and would love to explore opportunities to contribute to {{company}}'s mission. Are you open to a brief chat about what your team needs?",
+        "whenToUse": "When you genuinely admire the company and can articulate why. Authentic enthusiasm stands out.",
+        "expectedPerformance": "18-25% reply rate",
+        "personalizationTips": "Be specific about what you admire — a product feature, company culture, mission, or recent achievement. Generic 'I love your company' doesn't land."
+      },
+      {
+        "name": "The Recruiter Outreach",
+        "text": "Hey {{firstName}}, I see you're recruiting for {{industry}} roles at {{company}}. I'm a {{yourRole}} with {{years}} years of experience specializing in {{area}}. My recent work includes {{achievement}}. I'm actively exploring new opportunities and would love to be considered for relevant roles on your desk. Can I send over my resume?",
+        "whenToUse": "When reaching out to a recruiter specifically. Recruiters appreciate direct, qualified candidates.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Match yourself to the types of roles they recruit for. Check their recent LinkedIn activity to see which positions they're filling."
+      },
+      {
+        "name": "The Portfolio/Work Sample Lead",
+        "text": "Hi {{firstName}}, I'm reaching out about the {{role}} at {{company}}. Rather than describe my work, I'd love to show you — here's a {{workSample}} that's directly relevant to what you're building: {{link}}. If this resonates, I'd love to discuss how I can bring this kind of work to {{company}}.",
+        "whenToUse": "For creative, technical, or portfolio-based roles where showing beats telling.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "The work sample must be directly relevant — not your generic portfolio. If possible, create something specific to their company or challenge."
+      },
+      {
+        "name": "The Problem-Solver Intro",
+        "text": "Hey {{firstName}}, I noticed {{company}} is {{challenge/initiative}} — that caught my attention because I spent the last {{years}} years solving exactly that problem at {{currentCompany}}. We went from {{before}} to {{after}} in {{timeframe}}. I'd love to bring that experience to {{company}}'s {{department}} team. Is there a role where this background would be a fit?",
+        "whenToUse": "When you can identify a specific challenge or initiative the company is pursuing.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "Research their challenges through company news, earnings calls, product roadmaps, or LinkedIn posts from leadership."
+      },
+      {
+        "name": "The Industry Transition",
+        "text": "Hi {{firstName}}, I'm transitioning from {{currentIndustry}} to {{targetIndustry}} and {{company}} is at the top of my list. My background in {{skill}} translates directly — at {{currentCompany}}, I {{achievement}} which is exactly the kind of impact I want to make in {{targetIndustry}}. Would you be open to a conversation about how my experience might add value?",
+        "whenToUse": "When you're changing industries and need to frame your transferable skills effectively.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "Address the industry switch head-on. Frame it as a strength ('fresh perspective') not a weakness ('I'm new to this')."
+      },
+      {
+        "name": "The Event-Triggered Inquiry",
+        "text": "Hey {{firstName}}, I just watched your talk at {{event}} on {{topic}} — fantastic insights. It aligned perfectly with the work I've been doing on {{yourArea}} at {{currentCompany}}. I'd love to join a team that thinks about {{area}} the way {{company}} does. Are there any openings where my {{skill}} background would be a fit?",
+        "whenToUse": "When a hiring manager or company leader has spoken at a recent event or published content.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "Reference specific points from their talk or content. This shows genuine interest and intellectual alignment."
+      },
+      {
+        "name": "The Growth Signal Inquiry",
+        "text": "Hi {{firstName}}, congrats on the recent {{growthSignal}} at {{company}}! With that kind of momentum, I imagine the {{department}} team is growing. I'm a {{yourRole}} with deep experience in {{area}} — exactly the kind of work that matters most during this stage of growth. Would love to explore if there's a fit.",
+        "whenToUse": "When the company has a recent growth signal — funding, acquisition, product launch, expansion.",
+        "expectedPerformance": "18-25% reply rate",
+        "personalizationTips": "Connect the growth signal to why they'd need someone like you specifically. 'You raised funding, so you probably need X' shows strategic thinking."
+      },
+      {
+        "name": "The Culture-First Inquiry",
+        "text": "Hey {{firstName}}, I've been researching {{company}}'s culture and values — particularly your approach to {{cultureElement}}. That resonates deeply with how I work. I'm a {{yourRole}} with {{years}} years in {{area}} and I'm specifically looking for a team that values {{value}}. Are there any roles where I might be a good fit?",
+        "whenToUse": "When the company is known for its culture and you can authentically connect with their values.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "Reference specific cultural elements from their About page, Glassdoor, or employee posts. Generic 'I love your culture' doesn't land."
+      }
+    ],
+    "customization": {
+      "title": "Job Inquiry Message Best Practices",
+      "content": "Your LinkedIn job inquiry is a sales pitch — for yourself. Here's how to make it count:\n\n1. **Target the right person**: Hiring managers > Recruiters > HR. The hiring manager makes the decision; reach them directly when possible.\n2. **Lead with your strongest credential**: Don't build up to it. Put your most impressive, relevant achievement in the first 2 sentences.\n3. **Show, don't tell**: 'I increased revenue by 40%' beats 'I'm a results-driven professional.' Specifics win.\n4. **Make it about them**: 'Here's what I can do for {{company}}' beats 'Here's why I'm great.' Frame your experience in terms of their needs.\n5. **Keep it under 100 words**: Long messages don't get read. Be concise and save the details for the interview."
+    },
+    "sendingAtScale": {
+      "title": "Job Search Outreach with Handshake",
+      "content": "While Handshake is built for sales outreach, the same principles apply to job search campaigns:\n\n- **Targeted prospecting**: Build lists of hiring managers and recruiters at your target companies.\n- **Multi-touch sequences**: Don't rely on a single message. Set up follow-up sequences that share your portfolio, relevant content, or new achievements.\n- **Personalization at scale**: Use dynamic variables to personalize each outreach while maintaining efficiency.\n- **Tracking**: Know which messages get replies and which companies are engaging with your profile.\n\nYour job search is a sales campaign — and Handshake gives you the tools to run it like one."
+    }
+  },
+  "faqs": [
+    { "question": "Should I message the hiring manager or the recruiter?", "answer": "Both, but with different messages. The hiring manager cares about what you can do for their team. The recruiter cares about whether you match the job spec. Ideally, reach the hiring manager first — they can fast-track you through the process." },
+    { "question": "How soon should I follow up if I don't get a response?", "answer": "Wait 5-7 days, then send one follow-up. If that goes unanswered too, move on. Two messages is the max for job inquiries — you don't want to seem desperate." },
+    { "question": "Is it okay to reach out to hiring managers before applying?", "answer": "Yes — many hiring managers prefer this. It shows initiative and gives you an inside track. Just be upfront: 'I'm planning to apply for the {{role}} position and wanted to reach out directly.'" },
+    { "question": "What if the company isn't posting any open roles?", "answer": "Reach out anyway if you're a strong fit. Many roles are filled before they're posted, and companies with growth signals (funding, expansion, new products) are almost always hiring. Express interest and ask to be on their radar." },
+    { "question": "Should I attach my resume to the LinkedIn message?", "answer": "Not in the first message. Lead with your value proposition and strongest achievement. If they're interested, they'll ask for your resume — or you can offer to send it in your follow-up." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-send-connection-requests-at-scale-on-linkedin", "how-to-build-a-linkedin-outreach-sequence"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-introduction-message-templates", "linkedin-referral-request-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-linkedhelper"],
+    "useCases": ["linkedin-automation-for-recruitment-staffing"]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-breakup-message-templates",
+  "title": "12+ LinkedIn Breakup Message Templates That Revive Dead Conversations (2026)",
+  "description": "Copy-paste LinkedIn breakup message templates for prospects who've gone silent. These last-touch messages create urgency and often get replies when nothing else works.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Breakup Messages Are the Secret Weapon of LinkedIn Outreach",
+      "content": "The breakup message is the final message in your sequence — the one you send when a prospect has ignored every previous touchpoint. Counterintuitively, it's often the highest-performing message in the entire sequence.\n\nWhy? Psychology. Loss aversion kicks in when someone realizes they're about to lose access to something. A well-written breakup message signals you're moving on, which triggers a response from prospects who were interested but busy, distracted, or simply procrastinating. Across thousands of campaigns, breakup messages consistently pull 10-20% reply rates — often from prospects who ignored 3-4 previous messages."
+    },
+    "templates": [
+      {
+        "name": "The Clean Break",
+        "text": "Hey {{firstName}}, I've reached out a few times and haven't heard back — totally get it, you're busy. I'll close the loop on my end. If {{valueProp}} ever becomes a priority for {{company}}, feel free to reach out anytime.",
+        "whenToUse": "The classic breakup. Professional, no guilt, leaves the door open. Works in any industry.",
+        "expectedPerformance": "12-18% reply rate",
+        "personalizationTips": "Keep it genuinely respectful. No passive-aggressive undertones. The tone should be 'I respect your time' not 'you're missing out.'"
+      },
+      {
+        "name": "The Helpful Exit",
+        "text": "Hi {{firstName}}, since I haven't heard back, I'm guessing the timing isn't right for {{valueProp}}. No worries at all. Before I go — is there someone else on your team who handles {{area}}? Happy to redirect the conversation.",
+        "whenToUse": "When you suspect you might be talking to the wrong person. Gives them an easy way to redirect you.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "This often surfaces the actual decision-maker. People are more willing to pass you along than engage themselves."
+      },
+      {
+        "name": "The One-Line Breakup",
+        "text": "{{firstName}}, should I close your file?",
+        "whenToUse": "The ultra-short pattern interrupt. Works because it's so different from typical LinkedIn messages.",
+        "expectedPerformance": "15-25% reply rate (highest-performing breakup format)",
+        "personalizationTips": "Don't add anything else. The power is in the brevity. 'Close your file' implies organized, professional process."
+      },
+      {
+        "name": "The Permission to Close",
+        "text": "Hey {{firstName}}, I don't want to be that person who keeps messaging when you're not interested. Am I reading the silence right, or is this just bad timing? Either way, no hard feelings.",
+        "whenToUse": "When you want to acknowledge the awkwardness of persistent outreach. Feels human and self-aware.",
+        "expectedPerformance": "12-18% reply rate",
+        "personalizationTips": "This works because it shows emotional intelligence. Most sales messages lack self-awareness — this one has it."
+      },
+      {
+        "name": "The Checkbox Breakup",
+        "text": "Hi {{firstName}}, going to assume one of these is true:\n\n1. You're swamped and this fell through the cracks\n2. You're not the right person for this\n3. You're not interested\n\nAny of the above? Happy to adjust accordingly.",
+        "whenToUse": "When you want to make it easy for the prospect to respond with minimal effort. Multiple choice reduces friction.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "The numbered format makes it easy to reply with just '1', '2', or '3'. Low-effort responses get more replies."
+      },
+      {
+        "name": "The Future-Focused Exit",
+        "text": "Hey {{firstName}}, I'll step back for now. For reference, we'll be launching {{newFeature}} in {{timeframe}} that could be a fit for {{company}}. Cool if I circle back then?",
+        "whenToUse": "When you have a legitimate future reason to reconnect — product launch, feature release, event.",
+        "expectedPerformance": "10-18% reply rate",
+        "personalizationTips": "Only use this if you actually have something coming. False promises destroy credibility for future outreach."
+      },
+      {
+        "name": "The Honest Breakup",
+        "text": "{{firstName}}, I'll be straightforward — I've sent a few messages and I know your inbox is probably overflowing. I genuinely think {{valueProp}} could help {{company}}, but I also respect your bandwidth. Last message from me unless you say otherwise.",
+        "whenToUse": "When you want to be transparent about the sales process. Authenticity stands out in a sea of automated messages.",
+        "expectedPerformance": "12-18% reply rate",
+        "personalizationTips": "The word 'genuinely' only works if the value prop is actually relevant. Do your homework."
+      },
+      {
+        "name": "The Competitor Nudge",
+        "text": "Hi {{firstName}}, last note from me. I noticed {{competitor}} recently started using a solution similar to what we offer. Thought you'd want to know in case {{company}} is evaluating options too. Either way, best of luck!",
+        "whenToUse": "When you know a competitor is using your product or a similar solution. Creates FOMO without being aggressive.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "Only use real competitor intelligence. Getting caught in a bluff kills your credibility permanently."
+      },
+      {
+        "name": "The Resource Goodbye",
+        "text": "Hey {{firstName}}, wrapping up on my end. Before I go, here's a {{resource}} on {{topic}} that might be useful regardless of whether we work together: {{link}}. Good luck with everything at {{company}}.",
+        "whenToUse": "When you want to leave on a value-giving note. Even if they don't reply, you've built goodwill.",
+        "expectedPerformance": "10-15% reply rate",
+        "personalizationTips": "The resource should be genuinely helpful — not a product brochure. Industry reports, benchmarks, or how-to guides work best."
+      },
+      {
+        "name": "The Humor Breakup",
+        "text": "{{firstName}}, I promise this is my last message (my outreach quota for you has officially expired 😄). If you ever want to chat about {{valueProp}}, you know where to find me. Cheers!",
+        "whenToUse": "When the prospect's profile or content suggests they appreciate humor. Works best with startup founders and younger professionals.",
+        "expectedPerformance": "12-20% reply rate",
+        "personalizationTips": "Humor is risky — read the room. Check their posts and tone before going casual. Avoid humor with C-suite at enterprise companies."
+      },
+      {
+        "name": "The Data-Driven Breakup",
+        "text": "Hi {{firstName}}, final note — we just published our {{year}} {{industry}} benchmark report. Companies similar to {{company}} are seeing {{metric}}. Thought you'd find it interesting. Link here if you want it: {{link}}. All the best!",
+        "whenToUse": "When you have fresh benchmark data or research relevant to the prospect's industry.",
+        "expectedPerformance": "12-18% reply rate",
+        "personalizationTips": "Use real data. Reference their specific industry segment and company size for maximum relevance."
+      },
+      {
+        "name": "The Calendar Drop",
+        "text": "Hey {{firstName}}, I'll take the hint 😊. If things change down the road, here's my calendar link: {{calendarLink}}. No expiration, no pressure — book anytime it makes sense for {{company}}.",
+        "whenToUse": "When you want to leave a permanent easy path back. The calendar link removes all friction from future engagement.",
+        "expectedPerformance": "8-15% reply rate (but generates long-tail bookings)",
+        "personalizationTips": "Use a calendar tool that lets them book without back-and-forth. Calendly, Cal.com, or SavvyCal all work."
+      }
+    ],
+    "customization": {
+      "title": "Breakup Message Best Practices",
+      "content": "The breakup message is an art form. Here's how to nail it:\n\n1. **Actually stop messaging**: If you say it's your last message, mean it. Following up after a breakup message destroys all credibility.\n2. **Don't guilt trip**: 'I've tried so many times...' sounds whiny. Keep it professional and confident.\n3. **Timing matters**: Send the breakup 5-7 days after your last unanswered message. Too soon feels impatient; too late loses momentum.\n4. **One breakup per sequence**: Don't send multiple 'final' messages. Pick one template and commit.\n5. **Track the long tail**: Some prospects respond to breakup messages weeks or months later. Keep your CRM updated."
+    },
+    "sendingAtScale": {
+      "title": "Automating Breakup Messages with Handshake",
+      "content": "Handshake makes breakup messages a natural part of your outreach sequence:\n\n- **Sequence builder**: Set your breakup message as the final step, with customizable delays between touchpoints.\n- **Reply detection**: If a prospect replies to any earlier message, Handshake automatically skips the breakup.\n- **A/B testing**: Test different breakup styles across campaigns to find what resonates with your audience.\n- **Re-engagement campaigns**: After a breakup period (30-90 days), Handshake can automatically move prospects into a re-engagement sequence with fresh messaging.\n\nThe breakup isn't the end — it's often the beginning of a new conversation cycle."
+    }
+  },
+  "faqs": [
+    { "question": "When should I send a breakup message in my sequence?", "answer": "Typically as the 4th or 5th touchpoint, 5-7 days after your last unanswered message. Most sequences run 3-5 messages over 2-3 weeks before the breakup." },
+    { "question": "Do breakup messages really work?", "answer": "Yes. Breakup messages consistently generate 10-20% reply rates — often from prospects who ignored all previous messages. Loss aversion is a powerful psychological trigger." },
+    { "question": "Should I actually stop messaging after a breakup?", "answer": "Yes, for now. Wait 30-90 days, then you can start a fresh re-engagement sequence with new messaging. But if you said 'last message,' honor it for at least a month." },
+    { "question": "Can I use humor in a breakup message?", "answer": "It depends on your audience. Startup founders and younger professionals often respond well to humor. Enterprise executives and conservative industries prefer straightforward, professional messaging." },
+    { "question": "What if they reply to the breakup but aren't interested?", "answer": "Thank them for the response, ask if you can check back in 6 months, and move them to a nurture list. A 'not now' is better than a 'never' — and you got a data point on timing." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-outreach-sequence", "how-to-avoid-getting-banned-on-linkedin"],
+    "templates": ["linkedin-follow-up-message-templates", "linkedin-re-engagement-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-agencies"]
+  }
+}

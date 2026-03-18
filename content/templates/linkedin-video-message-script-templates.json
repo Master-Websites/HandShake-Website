@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-video-message-script-templates",
+  "title": "12+ LinkedIn Video Message Script Templates That Book Meetings (2026)",
+  "description": "Copy-paste LinkedIn video message scripts that stand out and convert. Video messages get 5x higher engagement than text — use these scripts to book more meetings.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Video Messages Are the Future of LinkedIn Outreach",
+      "content": "Video messages on LinkedIn are the ultimate pattern interrupt. While everyone else sends text and voice, a personalized video puts a face to a name and creates instant human connection. The numbers are striking: video messages generate 5x higher engagement and 3x more meetings booked compared to text-only outreach.\n\nThe key is personalization. A generic 'Hey, I'm [name] from [company]' video doesn't work any better than a generic text. But a 30-second video where you reference their company, their recent post, or their specific challenge? That's impossible to ignore.\n\nUse these scripts as frameworks. Record each video specifically for the prospect — mention their name, their company, their situation. Batch recording destroys the authenticity that makes video work."
+    },
+    "templates": [
+      {
+        "name": "The Personalized Introduction",
+        "text": "[Show their LinkedIn profile or company website on screen] Hey {{firstName}}, I'm {{yourName}} from {{yourCompany}}. I was just looking at {{company}}'s website and I'm really impressed with what you're doing in {{area}}. I work with {{targetAudience}} to help them {{valueProp}}, and I think there could be some great overlap. Would love to chat for 15 minutes — I've got some ideas specific to {{company}} that I think you'd find valuable. My calendar link is in the message below. Looking forward to connecting!",
+        "whenToUse": "First touchpoint with a high-value prospect. The screen share of their profile/site proves personalization.",
+        "expectedPerformance": "35-50% reply rate",
+        "personalizationTips": "Show their website or LinkedIn on your screen as you record. This proves the video was made specifically for them."
+      },
+      {
+        "name": "The Whiteboard Problem-Solver",
+        "text": "[Draw a simple diagram on a whiteboard] Hey {{firstName}}, {{yourName}} here. Let me show you something quick. [Draw their current state] So right now, most {{targetRole}} teams are stuck here — dealing with {{challenge}}. [Draw the desired state] But what if you could get to here — {{desiredOutcome}}? We've helped {{number}} teams make this shift, including {{similarCompany}}. It takes about {{timeframe}}. Want me to walk you through how? Link to book a call is below.",
+        "whenToUse": "When you can visualize their problem and solution simply. The whiteboard format is engaging and educational.",
+        "expectedPerformance": "30-45% reply rate",
+        "personalizationTips": "Keep the diagram simple — 3-4 elements max. Complex diagrams confuse; simple ones clarify."
+      },
+      {
+        "name": "The Screen Share Audit",
+        "text": "[Share your screen showing their website/tool/profile] Hey {{firstName}}, {{yourName}} from {{yourCompany}}. I took a quick look at {{company}}'s {{area}} and noticed a few things. [Point out 2-3 specific observations] First, {{observation1}}. Second, {{observation2}}. These aren't criticisms — more like opportunities. We see these patterns a lot in {{industry}} and there's usually a quick fix. Want me to walk you through the details? 15 minutes is all it takes.",
+        "whenToUse": "When you can do a quick audit of their public-facing assets — website, ads, LinkedIn presence, job posts.",
+        "expectedPerformance": "35-50% reply rate (highest-performing video format)",
+        "personalizationTips": "Keep observations constructive, not critical. Frame everything as an opportunity, never a mistake."
+      },
+      {
+        "name": "The Case Study Walkthrough",
+        "text": "[Show case study results on screen] Hey {{firstName}}, {{yourName}} here. I wanted to share something quick. [Show the data] We recently helped {{similarCompany}} — they're in {{industry}} like you — go from {{beforeMetric}} to {{afterMetric}} in {{timeframe}}. Their situation was pretty similar to what I've seen at {{company}}. I recorded this specifically for you because I think the playbook could work for your team too. Want the full breakdown? Let's grab 15 minutes.",
+        "whenToUse": "When you have a strong case study from their industry with visual data to show.",
+        "expectedPerformance": "30-42% reply rate",
+        "personalizationTips": "Show real numbers on screen. Visual data is more compelling than verbal claims. Use their competitor or peer for maximum impact."
+      },
+      {
+        "name": "The Congrats Video",
+        "text": "Hey {{firstName}}, {{yourName}} here. I just saw that {{company}} {{achievement}} — that's amazing, congrats! I wanted to send a quick video instead of just a text because I'm genuinely excited for you. With this kind of momentum, I imagine {{area}} is becoming a bigger priority. We've been helping similar teams at this stage — would love to chat about what's working. Either way, really impressive stuff!",
+        "whenToUse": "For congratulating on funding, product launch, or milestone. Video congrats feel more genuine than text.",
+        "expectedPerformance": "28-38% reply rate",
+        "personalizationTips": "Smile. Be genuinely enthusiastic. If you can't be authentic about the congrats, use text instead."
+      },
+      {
+        "name": "The Follow-Up Video",
+        "text": "Hey {{firstName}}, {{yourName}} again. I sent you a message last week about {{topic}} and figured I'd follow up with a quick video — sometimes these are easier than reading another text. [Brief recap] The short version: we help {{targetAudience}} with {{valueProp}}, and based on what I see at {{company}}, I think we could help you {{specificOutcome}}. Got 15 minutes this week? My calendar is in the message. No worries if the timing isn't right.",
+        "whenToUse": "When following up on an unanswered text message. Switching to video as a pattern interrupt.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Keep the video shorter than the first touchpoint — under 30 seconds. They already have context; you just need to re-engage."
+      },
+      {
+        "name": "The Mutual Connection Video",
+        "text": "Hey {{firstName}}, {{yourName}} from {{yourCompany}}. {{mutualConnection}} actually suggested I reach out to you — said you're the person to talk to about {{topic}} at {{company}}. I wanted to send a video so you could put a face to the name. We've been working with {{mutualConnection}}'s team on {{area}} and the results have been great. Love to chat about whether something similar could work for you. Let me know!",
+        "whenToUse": "When you have a warm referral. Video makes the referral feel even more personal.",
+        "expectedPerformance": "40-55% reply rate",
+        "personalizationTips": "Mention the mutual connection naturally — like a conversation, not a sales pitch. The video format amplifies warmth."
+      },
+      {
+        "name": "The Product Demo Teaser",
+        "text": "[Screen share your product] Hey {{firstName}}, {{yourName}} here. Instead of telling you about what we do, let me show you. [Quick 20-second product demo] This is how {{similarCompany}} uses {{product}} to {{outcome}}. See this part here? [Highlight key feature] This is what {{targetRole}} leaders tell us saves them {{metric}}. I set up a version with {{company}}'s use case in mind. Want to see the full thing? 15 minutes, no pressure.",
+        "whenToUse": "When your product has a visual component worth showing. A mini-demo is more compelling than a description.",
+        "expectedPerformance": "28-38% reply rate",
+        "personalizationTips": "Show the product configured for their use case. Even mock data with their company name makes it feel customized."
+      },
+      {
+        "name": "The Industry Insight Video",
+        "text": "Hey {{firstName}}, {{yourName}} from {{yourCompany}}. I just got back from {{event}} and one thing kept coming up — {{industryTrend}}. [Share a slide or stat on screen] Check this out: {{stat}}. I immediately thought of {{company}} because of your work in {{area}}. I'd love to share what I'm hearing from other {{targetRole}} leaders and get your take. Open to a quick chat?",
+        "whenToUse": "When you have fresh industry insights or data from a recent event, report, or conversation.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Fresh data is key. Show a real stat or slide. Industry insights feel more credible when there's visual evidence."
+      },
+      {
+        "name": "The Hiring Signal Video",
+        "text": "[Show their job posting on screen] Hey {{firstName}}, {{yourName}} here. I was looking at {{company}}'s careers page and noticed you're hiring for {{role}}. [Point at the posting] That tells me {{area}} is becoming a priority. Before you build the whole team, I wanted to show you how {{product}} could help your existing team do more with less. We helped {{similarCompany}} achieve {{result}} without adding headcount. Worth 15 minutes?",
+        "whenToUse": "When the company is hiring in a department related to your product. Hiring signals budget and priority.",
+        "expectedPerformance": "28-38% reply rate",
+        "personalizationTips": "Reference specific job postings. Showing their actual careers page on screen proves you did real research."
+      },
+      {
+        "name": "The Re-Engagement Video",
+        "text": "{{firstName}}, hey — {{yourName}}. It's been a few months since we chatted and I thought I'd pop back in with a quick video. Things have changed a lot on our end — [show new feature or result] we launched {{newFeature}} and teams like {{similarCompany}} are seeing {{result}}. Thought it might be worth a fresh look. How are things going at {{company}}? Would love to reconnect.",
+        "whenToUse": "When re-engaging a cold prospect with something new to share. Video re-engagement feels warmer than text.",
+        "expectedPerformance": "22-32% reply rate",
+        "personalizationTips": "Show something visually new — a product update, a new dashboard, fresh results. Give them a reason to watch."
+      },
+      {
+        "name": "The Breakup Video",
+        "text": "Hey {{firstName}}, {{yourName}} one last time. This is my final message — I promise your inbox is safe after this. [Smile] I genuinely think {{product}} could help {{company}} with {{valueProp}}, but I also respect your time. If things change down the road, here's my calendar link. No expiration. Wishing you all the best — keep crushing it at {{company}}!",
+        "whenToUse": "Final touchpoint in a sequence. A video breakup is nearly impossible to ignore.",
+        "expectedPerformance": "18-28% reply rate",
+        "personalizationTips": "End on a high note. Smile, be warm, be genuine. The breakup video often generates the highest reply rate in the sequence."
+      }
+    ],
+    "customization": {
+      "title": "LinkedIn Video Message Best Practices",
+      "content": "Video messages are high-effort, high-reward. Here's how to maximize the ROI:\n\n1. **Keep it under 60 seconds**: 30-45 seconds is ideal. Longer videos don't get watched fully.\n2. **Show, don't just tell**: Use screen shares, whiteboards, or props. Visual elements are what make video superior to voice.\n3. **Record individually**: Batch-recorded generic videos perform no better than text. Each video should be for one specific person.\n4. **Good lighting, eye contact**: Face the camera, use natural light, and look at the lens (not the screen).\n5. **Include a thumbnail hook**: LinkedIn shows a preview frame. Make your thumbnail compelling — hold up a sign with their name, or show their website.\n6. **Add a text message below**: Summarize the video in 2-3 lines with your CTA and calendar link. Not everyone can listen with sound on."
+    },
+    "sendingAtScale": {
+      "title": "Video Messages in Handshake Outreach Sequences",
+      "content": "Handshake integrates video messages into your multi-touch sequences:\n\n- **Video step reminders**: Handshake prompts you to record personalized videos at the optimal point in your sequence.\n- **Tool integrations**: Works with Loom, Vidyard, and other video platforms — record once and Handshake handles delivery.\n- **Engagement tracking**: See who watched your video, how much they watched, and whether they clicked your CTA.\n- **Optimal placement**: Data shows video messages perform best as touchpoint 2 or 3 in a sequence. Handshake automates the timing.\n\nVideo is the highest-engagement format on LinkedIn. Handshake makes it scalable without sacrificing personalization."
+    }
+  },
+  "faqs": [
+    { "question": "How long should a LinkedIn video message be?", "answer": "30-60 seconds. Under 30 feels rushed; over 60 loses attention. The sweet spot is around 40 seconds — enough to make your point with visual aids without rambling." },
+    { "question": "Do I need professional video equipment?", "answer": "No. Your phone or laptop camera is fine. Good lighting (face a window) and a quiet environment matter more than camera quality. Authenticity beats production value in sales videos." },
+    { "question": "Should I use video for every prospect?", "answer": "No. Reserve video for high-value prospects where the effort is justified. Use text and voice for volume outreach, and video for your top 20% of targets." },
+    { "question": "Can I send videos through LinkedIn natively?", "answer": "LinkedIn supports video messages in its messaging feature. You can also use tools like Loom or Vidyard to record and send a link. Native video stays within the LinkedIn experience; external links require an extra click." },
+    { "question": "What's the best position for a video in my outreach sequence?", "answer": "Touchpoint 2 or 3. Start with a text connection request and text intro, then switch to video for the follow-up. The format change itself is a pattern interrupt that drives engagement." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-outreach-sequence", "how-to-send-connection-requests-at-scale-on-linkedin"],
+    "templates": ["linkedin-voice-message-script-templates", "linkedin-connection-request-templates", "linkedin-follow-up-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-recruitment-staffing"]
+  }
+}

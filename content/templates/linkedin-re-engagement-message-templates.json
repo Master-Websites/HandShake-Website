@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-re-engagement-message-templates",
+  "title": "12+ LinkedIn Re-Engagement Message Templates to Revive Cold Connections (2026)",
+  "description": "Copy-paste LinkedIn re-engagement message templates for reconnecting with prospects who went cold. Reignite old conversations and turn dormant connections into pipeline.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Re-Engagement Campaigns Are Your Best Source of Low-Hanging Fruit",
+      "content": "Your LinkedIn network is full of untapped potential. Prospects who said 'not right now' three months ago. Connections you never followed up with. People who engaged with your content but never got a message. Re-engagement is about systematically working these warm-ish contacts.\n\nThe beauty of re-engagement is that these people already know who you are. You don't need to earn attention from scratch — you need to give them a reason to re-engage now. Timing changes, budgets shift, priorities evolve. The prospect who ghosted you in Q1 might be actively looking for a solution in Q3. These templates help you find out."
+    },
+    "templates": [
+      {
+        "name": "The Casual Check-In",
+        "text": "Hey {{firstName}}, it's been a while since we connected! How are things going at {{company}}? I've been heads-down on some new developments at {{yourCompany}} — would love to catch up if you have a few minutes.",
+        "whenToUse": "For connections you haven't spoken to in 3-6 months. Light, no-pressure re-opener.",
+        "expectedPerformance": "15-25% reply rate",
+        "personalizationTips": "Reference something specific that changed — their company news, a role change, or industry shift. Generic 'how are you' gets ignored."
+      },
+      {
+        "name": "The News Hook Re-Engagement",
+        "text": "Hi {{firstName}}, just saw that {{company}} {{companyNews}}. Congrats! When we last spoke, you mentioned {{previousTopic}}. Curious if this changes anything on that front?",
+        "whenToUse": "When the prospect's company has recent news that creates a natural re-engagement trigger.",
+        "expectedPerformance": "20-30% reply rate",
+        "personalizationTips": "Reference your previous conversation specifically. Shows you remember them and aren't just mass-messaging."
+      },
+      {
+        "name": "The Product Update",
+        "text": "Hey {{firstName}}, remember when we chatted about {{topic}} a few months back? We've since launched {{newFeature}} that directly addresses {{painPoint}} you mentioned. Worth a fresh look?",
+        "whenToUse": "When you have a genuine product update that solves a problem the prospect previously mentioned.",
+        "expectedPerformance": "18-28% reply rate",
+        "personalizationTips": "Connect the new feature directly to their specific pain point. Don't just announce features — show relevance."
+      },
+      {
+        "name": "The Timing Check",
+        "text": "Hi {{firstName}}, when we last connected you mentioned {{timing}} would be a better time to revisit {{topic}}. That time is now — is it still on your radar, or have priorities shifted?",
+        "whenToUse": "When a prospect previously gave you a specific timeline ('reach out in Q3', 'after our funding round').",
+        "expectedPerformance": "22-32% reply rate",
+        "personalizationTips": "Quote their exact words if possible. 'You mentioned Q3 would be better' shows you were listening and organized."
+      },
+      {
+        "name": "The Content Re-Engagement",
+        "text": "Hey {{firstName}}, I noticed you liked my recent post on {{topic}}. We actually built a {{resource}} that goes deeper on this — thought you might find it useful given your work at {{company}}. Want me to send it over?",
+        "whenToUse": "When a dormant connection engages with your content (like, comment, share). This is a buying signal.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Strike while the engagement is fresh — within 24 hours of their like or comment."
+      },
+      {
+        "name": "The Industry Shift",
+        "text": "Hi {{firstName}}, the {{industry}} landscape has changed a lot since we last spoke. {{industryTrend}} is reshaping how teams approach {{area}}. Curious how {{company}} is adapting? We've been helping similar teams navigate this shift.",
+        "whenToUse": "When a significant industry change creates a new reason to talk. Positions you as informed and relevant.",
+        "expectedPerformance": "15-25% reply rate",
+        "personalizationTips": "Cite specific data or trends. 'Things have changed' is vague — '67% of teams now use X' is compelling."
+      },
+      {
+        "name": "The Case Study Drop",
+        "text": "Hey {{firstName}}, since we last talked, we helped {{similarCompany}} achieve {{result}}. Their situation was pretty similar to what you described at {{company}}. Would a quick breakdown of how they did it be useful?",
+        "whenToUse": "When you have a new case study from the prospect's industry or a company similar to theirs.",
+        "expectedPerformance": "18-28% reply rate",
+        "personalizationTips": "Use a case study from their exact industry or a competitor they'd recognize. Relevance is everything."
+      },
+      {
+        "name": "The Role Change Re-Engagement",
+        "text": "Hi {{firstName}}, congrats on the move to {{newCompany}}! When we connected before, you were at {{oldCompany}} and dealing with {{challenge}}. Curious if similar challenges exist in your new role — we might be able to help again.",
+        "whenToUse": "When a prospect changes roles or companies. New role = new budget, new priorities, fresh start.",
+        "expectedPerformance": "20-30% reply rate",
+        "personalizationTips": "People in new roles are 3x more likely to buy new solutions. Time your outreach 30-60 days after the role change."
+      },
+      {
+        "name": "The Honest Re-Engage",
+        "text": "{{firstName}}, full transparency — I'm going through my CRM and noticed we had a conversation {{timeframe}} ago that didn't go anywhere. Things change. Is {{valueProp}} something that's more relevant for {{company}} now?",
+        "whenToUse": "When you want to be straightforward about why you're reaching out again. Refreshingly honest.",
+        "expectedPerformance": "12-20% reply rate",
+        "personalizationTips": "Honesty disarms. 'Going through my CRM' is relatable and non-threatening. It acknowledges the gap directly."
+      },
+      {
+        "name": "The Peer Comparison",
+        "text": "Hey {{firstName}}, quick update — {{number}} companies in {{industry}} have started using {{product}} since we last spoke, including {{notableCustomer}}. Thought you'd want to know what your peers are doing. Open to a quick catch-up?",
+        "whenToUse": "When you've gained significant traction in their industry since the last conversation. Social proof drives action.",
+        "expectedPerformance": "15-25% reply rate",
+        "personalizationTips": "Name real companies they'd recognize. Vague numbers ('hundreds of companies') don't have the same impact as specific names."
+      },
+      {
+        "name": "The Seasonal Re-Engagement",
+        "text": "Hi {{firstName}}, with {{quarter/season}} approaching, a lot of {{targetRole}} leaders are revisiting their {{area}} strategy. Is {{company}} doing any planning around {{topic}}? We've got some fresh insights that might help.",
+        "whenToUse": "Timed to natural business cycles — budget planning, quarterly reviews, new year, fiscal year start.",
+        "expectedPerformance": "12-20% reply rate",
+        "personalizationTips": "Align with their fiscal calendar, not yours. Know when their company's budget cycles happen."
+      },
+      {
+        "name": "The Mutual Connection Trigger",
+        "text": "Hey {{firstName}}, I was just catching up with {{mutualConnection}} and your name came up. They mentioned {{company}} is {{context}}. Thought it might be a good time to reconnect — any interest in picking up where we left off?",
+        "whenToUse": "When a mutual connection gives you intel or context about the prospect's current situation.",
+        "expectedPerformance": "22-32% reply rate",
+        "personalizationTips": "Only use this if the mutual connection conversation actually happened. Fabricating referrals destroys trust permanently."
+      }
+    ],
+    "customization": {
+      "title": "Re-Engagement Campaign Best Practices",
+      "content": "Re-engagement is different from cold outreach. Here's how to do it right:\n\n1. **Wait 30-90 days**: Too soon feels pestering. Too long and they've forgotten you. The sweet spot is 1-3 months.\n2. **Have a new angle**: Don't send the same message again. You need a new reason to reach out — news, product update, case study, timing change.\n3. **Reference the past**: Acknowledge your previous conversation. 'When we last spoke...' shows you're organized and attentive.\n4. **Shorter sequences**: Re-engagement sequences should be 2-3 messages, not 5. They already know you; you don't need to build as much context.\n5. **Track engagement signals**: Content engagement (likes, comments) from old connections is a buying signal. Reach out immediately when you see it."
+    },
+    "sendingAtScale": {
+      "title": "Running Re-Engagement Campaigns with Handshake",
+      "content": "Handshake automates re-engagement so no opportunity falls through the cracks:\n\n- **Automated triggers**: Set up rules to re-engage prospects after 30, 60, or 90 days of inactivity.\n- **Signal monitoring**: Handshake detects when dormant connections engage with your content, change roles, or have company news — and auto-enrolls them in re-engagement sequences.\n- **Fresh sequences**: Assign different messaging templates for re-engagement vs. initial outreach, so prospects always get something new.\n- **Performance tracking**: Compare re-engagement reply rates against cold outreach to see the ROI of working your existing network.\n\nYour existing LinkedIn network is a goldmine. Handshake helps you mine it systematically."
+    }
+  },
+  "faqs": [
+    { "question": "How long should I wait before re-engaging a prospect?", "answer": "30-90 days is the sweet spot. Less than 30 days feels pushy. More than 90 days and they may have forgotten you entirely. The exception: if you have a strong trigger (role change, company news), reach out immediately regardless of timing." },
+    { "question": "Should I reference our previous conversation?", "answer": "Always. It shows you're organized and that this isn't a mass message. Even a brief 'when we last connected' or 'you mentioned X' makes the re-engagement feel personal and relevant." },
+    { "question": "What's the best trigger for re-engagement?", "answer": "Role changes and company news are the strongest triggers — they signal new budgets and priorities. Content engagement (likes/comments) is also strong because it shows the prospect is actively thinking about relevant topics." },
+    { "question": "How many messages should a re-engagement sequence have?", "answer": "2-3 messages over 1-2 weeks. Re-engagement sequences should be shorter than initial outreach because the prospect already knows who you are. If they don't respond after 3 touches, wait another 90 days." },
+    { "question": "Can I re-engage prospects who previously said 'not interested'?", "answer": "Proceed with caution. If they said 'not interested,' respect that for at least 6 months. If they said 'not right now' or 'bad timing,' re-engage after the timeline they mentioned. Always have a new angle — don't rehash the same pitch." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-outreach-sequence", "how-to-send-connection-requests-at-scale-on-linkedin"],
+    "templates": ["linkedin-breakup-message-templates", "linkedin-follow-up-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-agencies"]
+  }
+}

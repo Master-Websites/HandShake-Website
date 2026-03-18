@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-content-share-templates",
+  "title": "12+ LinkedIn Content Share Message Templates That Start Conversations (2026)",
+  "description": "Copy-paste LinkedIn templates for sharing content with prospects. Turn blog posts, reports, and resources into conversation starters with these proven messages.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Sharing Content Is the Most Natural Way to Start a Sales Conversation",
+      "content": "Nobody wants to be sold to, but everyone wants to learn something new. Sharing relevant content with prospects is the least salesy way to add value and open a conversation. When you send a prospect a genuinely useful article, report, or resource, you position yourself as a helpful expert — not a pushy salesperson.\n\nThe key is relevance. Sharing your company's latest blog post with everyone in your network isn't content sharing — it's spam. But sending a specific resource to a specific person because it's genuinely relevant to their role, industry, or challenges? That's value-first outreach.\n\nThese templates help you share content in a way that starts conversations, not just forwards links."
+    },
+    "templates": [
+      {
+        "name": "The Relevant Article Share",
+        "text": "Hey {{firstName}}, just came across this article on {{topic}} and immediately thought of your work at {{company}}. Really interesting take on {{specificAngle}}: {{link}}. Curious to hear your perspective — does this match what you're seeing?",
+        "whenToUse": "When you find a third-party article relevant to the prospect's role or industry. Non-promotional and genuinely helpful.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "Share content you didn't create. Third-party content feels less salesy and builds trust faster than your own blog posts."
+      },
+      {
+        "name": "The Industry Report Drop",
+        "text": "Hi {{firstName}}, we just published our {{year}} {{industry}} report — surveyed {{number}} companies and found some surprising trends. Key finding: {{keyInsight}}. Thought it'd be relevant for {{company}} given your focus on {{area}}. Want the full report?",
+        "whenToUse": "When you have original research or data. Gated content that provides real value is a strong conversation opener.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Lead with the most surprising or relevant finding. Don't just say 'we have a report' — give them a reason to want it."
+      },
+      {
+        "name": "The Their-Content Engagement",
+        "text": "Hey {{firstName}}, just read your post on {{topic}} — great stuff. It reminded me of a {{resource}} we put together on {{relatedTopic}} that goes a bit deeper on {{specificArea}}. Thought you might find it useful as a follow-up: {{link}}. Would love to hear what you think.",
+        "whenToUse": "When the prospect recently posted content and you have related material to share. Shows you engage with their content.",
+        "expectedPerformance": "28-38% reply rate",
+        "personalizationTips": "Reference something specific from their post. The connection between their content and yours should be obvious and genuine."
+      },
+      {
+        "name": "The Benchmark Data Share",
+        "text": "Hi {{firstName}}, I thought you'd find this interesting — we benchmarked {{metric}} across {{number}} {{industry}} companies. The average is {{benchmark}}, with top performers hitting {{topBenchmark}}. Curious where {{company}} falls? Happy to share the full data set.",
+        "whenToUse": "When you have benchmark data that lets prospects compare themselves to peers. Everyone wants to know where they stand.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Benchmark data is irresistible — people can't help but want to know their score. Make the metric relevant to their KPIs."
+      },
+      {
+        "name": "The Tool or Template Share",
+        "text": "Hey {{firstName}}, we built a free {{tool/template}} for {{targetRole}} leaders to {{outcome}}. It takes about 5 minutes and gives you a {{deliverable}}. Given your role at {{company}}, thought it might be handy: {{link}}. No strings attached.",
+        "whenToUse": "When you have a free tool, calculator, template, or worksheet relevant to the prospect.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "The tool must deliver real value in under 5 minutes. Interactive tools (calculators, assessments) outperform static templates."
+      },
+      {
+        "name": "The Podcast or Webinar Share",
+        "text": "Hi {{firstName}}, we just dropped a {{podcast/webinar}} episode with {{guestName}} on {{topic}}. They shared some insights on {{specificInsight}} that I think you'd find really relevant given your work in {{area}} at {{company}}. Here's the link if you want to check it out: {{link}}.",
+        "whenToUse": "When you have a podcast episode or webinar with insights relevant to the prospect. Multimedia content stands out.",
+        "expectedPerformance": "18-25% reply rate",
+        "personalizationTips": "Name the guest — if they're recognized in the prospect's industry, it adds credibility. Reference a specific insight, not just the topic."
+      },
+      {
+        "name": "The Competitor Analysis Share",
+        "text": "Hey {{firstName}}, I just finished analyzing how {{number}} {{industry}} companies approach {{area}}. Spotted some interesting patterns — especially around what's working in {{year}}. Thought {{company}} might want to see how you stack up. Want me to send the analysis?",
+        "whenToUse": "When you have competitive or market analysis data. The implied comparison creates curiosity and FOMO.",
+        "expectedPerformance": "25-32% reply rate",
+        "personalizationTips": "Don't name their specific competitors unless you're sure it won't be awkward. 'Companies like yours' is safer than naming rivals directly."
+      },
+      {
+        "name": "The How-To Guide Share",
+        "text": "Hi {{firstName}}, I noticed {{company}} is {{activity}} — we put together a step-by-step guide on {{topic}} that covers the exact playbook {{number}} {{industry}} teams used to {{outcome}}. Thought it might save you some time: {{link}}. Let me know what you think.",
+        "whenToUse": "When you have a tactical guide relevant to something the prospect is actively working on.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "The guide must be relevant to their current activity — check their posts, job postings, or company news for signals."
+      },
+      {
+        "name": "The Event Recap Share",
+        "text": "Hey {{firstName}}, were you at {{event}} last week? I put together a quick recap of the key takeaways — especially around {{topic}}: {{link}}. The session on {{specificSession}} was particularly relevant for {{industry}} teams. Thought you'd find it useful.",
+        "whenToUse": "When you can share recaps or notes from industry events, conferences, or webinars.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "Time-sensitive — share within a week of the event. Reference specific sessions that would be relevant to their role."
+      },
+      {
+        "name": "The Curated List Share",
+        "text": "Hi {{firstName}}, I put together a list of the top {{number}} {{resources}} for {{targetRole}} leaders in {{industry}} for {{year}}. Includes {{examples}}. Thought it'd be useful for your team at {{company}}: {{link}}. Did I miss anything good?",
+        "whenToUse": "When you have a curated list of tools, resources, or best practices relevant to their role.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "The 'did I miss anything?' question invites a reply. Curated lists also get shared, expanding your reach."
+      },
+      {
+        "name": "The Video Content Share",
+        "text": "Hey {{firstName}}, I recorded a quick 3-minute walkthrough on {{topic}} — covers the {{approach}} that's working for {{industry}} teams right now. Thought it might be relevant given your focus on {{area}} at {{company}}: {{link}}. Let me know if you want the longer version.",
+        "whenToUse": "When you have a short video explaining a concept or approach relevant to the prospect.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "Keep the teaser video under 3 minutes. Offering the 'longer version' creates a natural follow-up opportunity."
+      },
+      {
+        "name": "The Trending Topic Share",
+        "text": "Hi {{firstName}}, this has been blowing up in {{industry}} circles — {{topic}} is shifting how teams approach {{area}}. Here's the best breakdown I've seen so far: {{link}}. Given {{company}}'s position in the market, curious how you're thinking about it.",
+        "whenToUse": "When there's a hot topic or trend in their industry. Positions you as someone with a finger on the pulse.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "Timing is everything with trending topics. Share within days of the trend emerging, not weeks later."
+      }
+    ],
+    "customization": {
+      "title": "Content Sharing Best Practices for Outreach",
+      "content": "Sharing content is only effective when done right. Here's how:\n\n1. **Relevance over recency**: Don't share your latest blog post to everyone. Share the right content with the right person.\n2. **Mix owned and third-party**: Sharing others' content builds trust. Sharing only your own feels self-promotional.\n3. **Lead with the insight, not the link**: Tell them why the content matters to them before dropping the URL.\n4. **Ask a question**: End with a question related to the content. 'Does this match what you're seeing?' invites a reply.\n5. **Don't gate everything**: If every piece of content requires their email, trust erodes. Mix gated and ungated generously."
+    },
+    "sendingAtScale": {
+      "title": "Content-Driven Outreach with Handshake",
+      "content": "Handshake helps you turn content into a systematic pipeline generation tool:\n\n- **Content library**: Store your best-performing content assets and map them to audience segments.\n- **Smart matching**: Handshake suggests the right content for each prospect based on their industry, role, and behavior signals.\n- **Sequence integration**: Drop content shares into your outreach sequences as value-add touchpoints between asks.\n- **Engagement tracking**: See who clicked your links, read your content, and came back for more — then prioritize those prospects.\n\nContent sharing is the bridge between marketing and sales. Handshake helps you use it strategically at scale."
+    }
+  },
+  "faqs": [
+    { "question": "Should I share my own company's content or third-party content?", "answer": "Mix both. Third-party content builds trust and feels less salesy. Your own content demonstrates expertise and positions your product. A good ratio is 60% third-party, 40% your own." },
+    { "question": "How do I know which content to share with which prospect?", "answer": "Match content to their role, industry, and current challenges. Check their recent posts, job postings, and company news for signals. A CTO cares about different content than a VP of Sales." },
+    { "question": "Should I share content in the first message or wait?", "answer": "Content works great as a second or third touchpoint. Your first message should be a connection request or brief introduction. Content sharing is most effective when they already have some context on who you are." },
+    { "question": "How often should I share content with the same prospect?", "answer": "No more than once every 1-2 weeks. Each piece should be genuinely relevant — not just filling a sequence step. Quality and relevance beat frequency." },
+    { "question": "What's the best type of content for sales outreach?", "answer": "Industry benchmarks and data, how-to guides specific to their role, case studies from their industry, and curated resource lists perform best. Avoid press releases, company announcements, and generic thought leadership." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-outreach-sequence", "how-to-send-connection-requests-at-scale-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-follow-up-message-templates", "linkedin-case-study-share-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-agencies"]
+  }
+}

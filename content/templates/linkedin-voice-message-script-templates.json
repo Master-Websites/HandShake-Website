@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-voice-message-script-templates",
+  "title": "12+ LinkedIn Voice Message Script Templates That Get Replies (2026)",
+  "description": "Copy-paste LinkedIn voice message scripts that stand out in crowded inboxes. Voice messages get 3x higher reply rates than text — here are the scripts to use.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why LinkedIn Voice Messages Are the Ultimate Outreach Differentiator",
+      "content": "Less than 5% of LinkedIn users send voice messages — which means yours will instantly stand out. Voice messages get opened at nearly 100% (curiosity alone drives this), and they convey warmth, personality, and authenticity that text simply can't match.\n\nThe data backs it up: voice messages consistently generate 2-3x higher reply rates than text messages. Why? They feel personal. It's harder to ignore a real human voice than a block of text. Plus, they signal effort — the prospect knows you recorded this specifically for them.\n\nThe scripts below are designed to sound natural and conversational, not rehearsed. Read them a few times, then record in your own words. The goal is a framework, not a word-for-word script."
+    },
+    "templates": [
+      {
+        "name": "The Warm Introduction",
+        "text": "Hey {{firstName}}, it's {{yourName}} from {{yourCompany}}. I wanted to send you a quick voice note instead of another text message — figured it'd be more personal. I saw your work at {{company}} and I'm really impressed with what you're building in {{area}}. I work with {{targetAudience}} on {{valueProp}}, and I think there might be a cool overlap. Would love to chat for a few minutes if you're open to it. Either way, keep up the great work!",
+        "whenToUse": "First touchpoint with a new connection. The voice format makes a strong first impression.",
+        "expectedPerformance": "30-40% reply rate",
+        "personalizationTips": "Mention something specific about their work — a product, a post, a company milestone. Generic compliments don't land, even in voice."
+      },
+      {
+        "name": "The Follow-Up Nudge",
+        "text": "Hey {{firstName}}, {{yourName}} here. I sent you a message a few days ago about {{topic}} — just wanted to follow up with a quick voice note. I know inboxes get crazy, so thought this might be easier. Long story short, we've been helping {{industry}} teams with {{valueProp}} and I genuinely think it's relevant for {{company}}. Got 10 minutes this week to chat?",
+        "whenToUse": "When a text follow-up went unanswered. Voice message as a channel switch increases reply probability.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Keep it under 45 seconds. Reference the previous message briefly — don't repeat the entire pitch."
+      },
+      {
+        "name": "The Congrats Voice Note",
+        "text": "{{firstName}}, hey — it's {{yourName}}. Just saw the news about {{achievement}} at {{company}}. Had to send a quick congrats! That's seriously impressive. I'd love to connect and hear more about what's next for you. Also, if {{area}} is on your roadmap, I've got some insights from working with similar teams that might be useful. No pressure — just thought I'd say congrats the old-fashioned way!",
+        "whenToUse": "When congratulating on a role change, funding round, or company milestone. Voice makes it feel genuinely warm.",
+        "expectedPerformance": "30-40% reply rate",
+        "personalizationTips": "Smile while you record — it changes your tone. Congrats messages should sound genuinely happy, not sales-y."
+      },
+      {
+        "name": "The Mutual Connection Reference",
+        "text": "Hey {{firstName}}, {{yourName}} from {{yourCompany}}. I actually know {{mutualConnection}} and they speak really highly of you. I thought I'd send a voice note instead of a cold text — seemed more fitting. I'd love to pick your brain on {{topic}} if you've got a few minutes. Either way, {{mutualConnection}} was right — your work at {{company}} is really interesting.",
+        "whenToUse": "When you have a mutual connection to reference. Voice amplifies the warmth of the mutual connection.",
+        "expectedPerformance": "35-45% reply rate",
+        "personalizationTips": "Get permission from the mutual connection first. Name-dropping in a voice message is high-impact but also high-risk if it's not genuine."
+      },
+      {
+        "name": "The Quick Question",
+        "text": "Hey {{firstName}}, quick question for you — {{yourName}} here. I'm doing some research on how {{industry}} leaders are handling {{challenge}} right now. Given your experience at {{company}}, I figured you'd have a great perspective. Would you be open to a 10-minute call to swap notes? I'll share what I'm hearing from other teams too.",
+        "whenToUse": "When you want to open a consultative conversation. The question format invites a reply.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Ask a question they'd actually want to answer. It should be interesting to them, not just useful for you."
+      },
+      {
+        "name": "The Content Reference",
+        "text": "{{firstName}}, hey — {{yourName}}. I just read your post on {{topic}} and had to send a voice note. Really strong take, especially the part about {{specificPoint}}. I've been thinking about the same thing from the {{yourAngle}} side. Would be great to compare perspectives — are you free for a quick chat?",
+        "whenToUse": "When the prospect recently posted content you can genuinely engage with. Shows authentic interest.",
+        "expectedPerformance": "30-40% reply rate",
+        "personalizationTips": "Quote or reference a specific point from their post. 'Your content is great' is weak — 'Your point about X made me rethink Y' is strong."
+      },
+      {
+        "name": "The Event Pre-Meeting",
+        "text": "Hey {{firstName}}, {{yourName}} from {{yourCompany}}. I saw we're both going to {{event}} next month. Sending a quick voice note to see if you'd be open to grabbing coffee there — I'd love to talk about {{topic}} in person. I've heard your team at {{company}} is doing some interesting things in {{area}}. Let me know if you're up for it!",
+        "whenToUse": "When you'll be at the same event or conference. Voice messages make pre-event outreach stand out.",
+        "expectedPerformance": "30-40% reply rate",
+        "personalizationTips": "Suggest a specific time ('Day 2 morning coffee?'). Vague 'let's meet up' messages don't convert to actual meetings."
+      },
+      {
+        "name": "The Breakup Voice Note",
+        "text": "Hey {{firstName}}, {{yourName}} one last time. I've sent a few messages and I know you're slammed, so this will be my last one. Just wanted to say — if {{valueProp}} ever becomes a priority at {{company}}, I'm here. Your inbox is safe from me going forward. All the best!",
+        "whenToUse": "Final touchpoint in a sequence. A voice breakup message is harder to ignore than a text one.",
+        "expectedPerformance": "15-25% reply rate",
+        "personalizationTips": "Keep the tone upbeat, not defeated. You're closing a loop, not guilt-tripping. Smile while recording."
+      },
+      {
+        "name": "The Re-Engagement Voice Note",
+        "text": "{{firstName}}, hey — it's {{yourName}}. It's been a few months since we chatted and I wanted to check in. A lot has changed on our end — we've {{newDevelopment}}. I thought it might be worth reconnecting to see if the timing is better now. How's everything going at {{company}}?",
+        "whenToUse": "When re-engaging a prospect who went cold 3+ months ago. Voice adds a personal touch to the re-approach.",
+        "expectedPerformance": "22-32% reply rate",
+        "personalizationTips": "Lead with what's new on your end — it gives them a reason to re-engage. Don't just say 'checking in.'"
+      },
+      {
+        "name": "The Thank You Voice Note",
+        "text": "Hey {{firstName}}, quick voice note to say thanks for {{action}} — really appreciate it. If there's ever anything I can do for you on the {{area}} side, don't hesitate to reach out. Looking forward to staying in touch!",
+        "whenToUse": "After someone engages with your content, makes an intro, or helps you in any way. Builds relationship capital.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Be specific about what you're thanking them for. A voice thank-you feels 10x more genuine than a text one."
+      },
+      {
+        "name": "The Problem-Solution Teaser",
+        "text": "Hey {{firstName}}, {{yourName}} here. I was talking with another {{targetRole}} leader last week and they mentioned {{challenge}} is a huge headache for {{industry}} teams right now. Got me thinking about {{company}} — are you guys dealing with the same thing? We found a pretty interesting way to solve it. Happy to share if it's relevant.",
+        "whenToUse": "When you know a specific pain point common in their role/industry. Third-party reference adds credibility.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "The 'I was talking with another leader' framing is powerful — it implies you're trusted by their peers."
+      },
+      {
+        "name": "The Partnership Pitch",
+        "text": "{{firstName}}, hey — {{yourName}} from {{yourCompany}}. I've been looking at what {{company}} is doing in {{area}} and I think there's a really natural partnership opportunity here. Our customers keep asking about {{overlap}} and your product seems like a perfect fit. Would love to explore this over a quick call. What do you think?",
+        "whenToUse": "When reaching out about a potential partnership or integration, not a sale.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Be specific about the partnership opportunity. 'Synergies' is vague — 'our customers keep asking about X' is concrete."
+      }
+    ],
+    "customization": {
+      "title": "LinkedIn Voice Message Best Practices",
+      "content": "Voice messages are powerful but easy to get wrong. Follow these rules:\n\n1. **Keep it under 60 seconds**: Ideally 30-45 seconds. Longer messages don't get listened to fully.\n2. **Sound natural, not scripted**: Read the template a few times, then record in your own words. Authenticity beats perfection.\n3. **Smile while recording**: It changes your vocal tone and makes you sound warmer and more approachable.\n4. **Record in a quiet environment**: Background noise is unprofessional and distracting.\n5. **Start with their name**: 'Hey Sarah' immediately signals this is personal, not a mass message.\n6. **End with a clear ask**: What do you want them to do? Reply? Book a call? Be specific.\n7. **Don't read a script**: Use bullet points as a guide, not a teleprompter. Natural > polished."
+    },
+    "sendingAtScale": {
+      "title": "Voice Messages in Handshake Sequences",
+      "content": "Handshake supports voice messages as steps in your outreach sequences:\n\n- **Mixed-format sequences**: Combine text messages, voice notes, and InMails in a single sequence for maximum engagement.\n- **Voice note reminders**: Handshake prompts you to record and send voice messages at the right point in the sequence.\n- **Performance tracking**: Compare reply rates across text, voice, and InMail touchpoints to see which format resonates with your audience.\n- **Best practices**: Handshake suggests optimal sequence positions for voice messages (typically touchpoint 2 or 3, after initial text).\n\nVoice messages are the secret weapon of top-performing sequences. Use Handshake to integrate them seamlessly."
+    }
+  },
+  "faqs": [
+    { "question": "How long should a LinkedIn voice message be?", "answer": "30-60 seconds. Under 30 seconds feels rushed; over 60 seconds loses attention. The sweet spot is 40-45 seconds — enough to make your point and sound personal without rambling." },
+    { "question": "Do LinkedIn voice messages really outperform text?", "answer": "Yes, consistently. Voice messages get 2-3x higher reply rates than text because they feel personal, convey warmth, and stand out in a sea of text-only messages. Less than 5% of users send them, so they're a major differentiator." },
+    { "question": "Should I use voice messages for every touchpoint?", "answer": "No. Use them strategically — typically as your 2nd or 3rd touchpoint, or when a text message went unanswered. Too many voice messages can feel intrusive. Mix text, voice, and InMails for the best results." },
+    { "question": "What if I don't like the sound of my own voice?", "answer": "Everyone feels this way at first. Record a few practice messages and listen back. You'll get comfortable quickly. Remember — authenticity matters more than a perfect radio voice. Your natural tone builds trust." },
+    { "question": "Can I send voice messages to people I'm not connected with?", "answer": "No — LinkedIn voice messages can only be sent to 1st-degree connections. You need to be connected before sending a voice note. Use a text-based connection request first, then switch to voice for your follow-up messages." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-build-a-linkedin-outreach-sequence", "how-to-send-connection-requests-at-scale-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-video-message-script-templates", "linkedin-follow-up-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-dripify"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-recruitment-staffing"]
+  }
+}
