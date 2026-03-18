@@ -118,6 +118,21 @@ export default function RootLayout({
             `,
           }}
         />
+        <Script
+          id="plausible-analytics"
+          src="https://analytics.leadcart.io/js/pa-Peaxg0-dLkb9wes_e778k.js"
+          strategy="afterInteractive"
+        />
+        <Script
+          id="plausible-init"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+              plausible.init();
+            `,
+          }}
+        />
       </head>
       <body
         className={`${jakarta.variable} ${geist.variable} antialiased min-h-screen flex flex-col overflow-x-hidden selection:bg-black selection:text-blue-100`}
