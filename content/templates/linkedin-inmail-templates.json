@@ -1,0 +1,119 @@
+{
+  "slug": "linkedin-inmail-templates",
+  "title": "12 LinkedIn InMail Templates That Get Responses (2026)",
+  "description": "High-performing LinkedIn InMail templates for B2B sales, recruiting, and partnerships. Copy-paste templates with subject lines, personalization tips, and performance benchmarks.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why InMail Is Different From Regular LinkedIn Messages",
+      "content": "LinkedIn InMail lets you message anyone on the platform — even people you're not connected with. That's powerful. But it also means prospects receive InMails from strangers constantly, and most of those messages are terrible.\n\nThe average InMail open rate is around 50-60%, but the reply rate drops to just 10-18% for cold outreach. The gap between 'opened' and 'replied' is where most InMails die — usually because they're too long, too salesy, or completely irrelevant.\n\nInMails are a premium resource. With Sales Navigator, you get 50 InMail credits per month (and credits are refunded for replies received within 90 days). On basic LinkedIn Premium, it's even fewer. Every InMail needs to count.\n\nThe templates below are designed specifically for the InMail format. They include subject lines (which InMails support, unlike regular messages), optimal length guidelines, and the specific structures that drive replies. Each has been tested in real B2B outreach campaigns."
+    },
+    "templates": [
+      {
+        "name": "The Relevant Problem InMail",
+        "text": "Subject: {{painPoint}} at {{company}}?\n\nHi {{firstName}},\n\nI work with {{industry}} companies that are dealing with {{painPoint}} — it's the #1 challenge I'm hearing from {{jobTitle}}s right now.\n\nWe helped {{caseStudyCompany}} reduce this by {{metric}} in {{timeframe}}. I'd love to share how.\n\nWorth a 15-minute conversation?\n\n{{yourName}}\n{{yourTitle}}, {{yourCompany}}",
+        "whenToUse": "Prospecting InMail to decision-makers when you know their industry's pain points. Works best for mid-market and enterprise outreach.",
+        "expectedPerformance": "12-18% reply rate",
+        "personalizationTips": "The subject line should name their specific challenge — not your product. Use their job title to show you understand who you're reaching. The case study company should be recognizable in their industry."
+      },
+      {
+        "name": "The Mutual Connection InMail",
+        "text": "Subject: {{mutualConnection}} suggested I reach out\n\nHi {{firstName}},\n\n{{mutualConnection}} mentioned you're the right person to talk to about {{topic}} at {{company}}.\n\nI lead {{yourRole}} at {{yourCompany}} — we help {{industry}} teams {{valueProp}}. Would love to explore if there's a fit.\n\nOpen to a brief call this week?\n\n{{yourName}}",
+        "whenToUse": "When you share a mutual connection. InMails with a warm reference get significantly higher response rates. Best when the mutual connection actually suggested the outreach.",
+        "expectedPerformance": "20-30% reply rate",
+        "personalizationTips": "Get permission from your mutual connection before using their name. If the prospect follows up, the referral needs to be genuine. A false name-drop destroys trust permanently."
+      },
+      {
+        "name": "The Trigger Event InMail",
+        "text": "Subject: Congrats on {{triggerEvent}}\n\nHi {{firstName}},\n\nJust saw the news about {{company}} {{triggerEvent}} — exciting time.\n\nCompanies at this stage often need to {{relevantNeed}}. We've helped {{number}} {{industry}} teams navigate this transition — most recently {{caseStudyCompany}}.\n\nWould love to share what we've learned. 15 minutes this week?\n\n{{yourName}}\n{{yourTitle}}, {{yourCompany}}",
+        "whenToUse": "When the prospect's company has a recent trigger event: funding round, IPO, acquisition, new product launch, or geographic expansion.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "Timing is everything with trigger events. Send within 48 hours of the news. The {{relevantNeed}} must logically connect to the event — not a forced pivot to your product."
+      },
+      {
+        "name": "The Content Reference InMail",
+        "text": "Subject: Your take on {{topic}}\n\nHi {{firstName}},\n\nYour recent post about {{specificTopic}} caught my attention — particularly the point about {{specificInsight}}. We're seeing the same pattern across our {{industry}} customers.\n\nI'd love to exchange perspectives. We've collected some data on this that I think you'd find interesting.\n\nOpen to a quick conversation?\n\n{{yourName}}\n{{yourTitle}}, {{yourCompany}}",
+        "whenToUse": "When the prospect is a content creator who regularly posts on LinkedIn. Referencing specific content shows genuine interest and creates an intellectual connection.",
+        "expectedPerformance": "15-25% reply rate",
+        "personalizationTips": "Be specific — cite the exact post and the exact point that resonated. Thought leaders can spot generic flattery instantly. Only use this if you genuinely engaged with their content."
+      },
+      {
+        "name": "The Insight-Led InMail",
+        "text": "Subject: {{industry}} trend you should know about\n\nHi {{firstName}},\n\nWe've been tracking {{trend}} across {{number}} {{industry}} companies, and the data is surprising: {{keyFinding}}.\n\nGiven {{company}}'s position in the market, this could impact {{relevantArea}}. I put together a brief analysis — happy to share.\n\nWorth a quick chat?\n\n{{yourName}}\n{{yourTitle}}, {{yourCompany}}",
+        "whenToUse": "When you have genuine industry data or insights to share. Positions you as a thought leader rather than a salesperson. Works especially well for analyst-type prospects.",
+        "expectedPerformance": "14-20% reply rate",
+        "personalizationTips": "The insight must be real and valuable — not a setup for a sales pitch. If you promise data, have it ready to share. Generic 'industry insights' that are really product demos will kill your credibility."
+      },
+      {
+        "name": "The Recruiter InMail",
+        "text": "Subject: {{jobTitle}} role — thought of you\n\nHi {{firstName}},\n\nI came across your profile and your background in {{skill/experience}} is exactly what we're looking for.\n\nWe're building out the {{team}} team at {{company}} — it's a {{keyDetail}} role with {{benefit}}. The team is led by {{hiringManager}} and is doing some exciting work on {{project}}.\n\nWould you be open to a conversation, even if just to explore?\n\n{{yourName}}\n{{yourTitle}}, {{yourCompany}}",
+        "whenToUse": "Recruiting outreach to passive candidates. Works for internal recruiters and agencies. Best when you can reference specific skills from their profile.",
+        "expectedPerformance": "18-28% reply rate",
+        "personalizationTips": "Reference specific skills, projects, or experience from their profile. Mention the hiring manager by name and a specific project to make the role feel real, not generic. Including comp range (if permitted) significantly increases replies."
+      },
+      {
+        "name": "The C-Suite Short InMail",
+        "text": "Subject: Quick question about {{company}}\n\nHi {{firstName}},\n\n{{company}} is on my radar because {{reason}}. We've been working with {{industry}} companies on {{challenge}} — thought it might be relevant.\n\nWorth a brief conversation?\n\n{{yourName}}\n{{yourTitle}}, {{yourCompany}}",
+        "whenToUse": "For C-suite executives (CEO, CTO, CFO, CMO) who get overwhelmed with long messages. Maximum brevity. Under 50 words in the body.",
+        "expectedPerformance": "10-15% reply rate (lower volume but highest-value conversations)",
+        "personalizationTips": "C-level executives read InMails on mobile. Keep the body under 50 words. The {{reason}} should be specific — 'your Series B' or 'your expansion into APAC' — not generic."
+      },
+      {
+        "name": "The Partnership InMail",
+        "text": "Subject: Partnership idea for {{company}}\n\nHi {{firstName}},\n\nI lead {{yourRole}} at {{yourCompany}} — we work with {{targetAudience}} and I think there's a natural overlap with what {{company}} is doing in {{area}}.\n\nA few partnership ideas come to mind: {{idea1}} and {{idea2}}. Would love to explore if there's mutual interest.\n\nOpen to a call next week?\n\n{{yourName}}",
+        "whenToUse": "Business development and partnership outreach. Works for co-marketing, integration partnerships, referral agreements, and channel partnerships.",
+        "expectedPerformance": "12-20% reply rate",
+        "personalizationTips": "Include specific partnership ideas — don't just say 'let's partner.' Show you've thought about what mutual value looks like. Research their existing partnerships to make sure you're not duplicating what they already have."
+      },
+      {
+        "name": "The Conference Pre-Event InMail",
+        "text": "Subject: See you at {{event}}?\n\nHi {{firstName}},\n\nI noticed you're attending {{event}} next week. I'll be there too — we're presenting on {{topic}} at {{session/booth}}.\n\nWould love to connect in person. Interested in grabbing coffee between sessions on {{day}}?\n\n{{yourName}}\n{{yourTitle}}, {{yourCompany}}",
+        "whenToUse": "Before an industry conference or event that both you and the prospect are attending. Transforms a cold InMail into a warm meeting request.",
+        "expectedPerformance": "20-30% reply rate",
+        "personalizationTips": "Send 5-7 days before the event. Reference specific sessions or activities. If possible, mention that you're speaking or exhibiting — it adds credibility."
+      },
+      {
+        "name": "The Competitor Customer InMail",
+        "text": "Subject: Switching from {{competitor}}?\n\nHi {{firstName}},\n\nI noticed {{company}} is using {{competitor}} for {{function}}. We've been hearing from a lot of {{industry}} teams who are looking for alternatives because of {{competitorWeakness}}.\n\nWe built {{yourCompany}} to solve exactly that. Would it be worth a quick comparison call?\n\n{{yourName}}\n{{yourTitle}}, {{yourCompany}}",
+        "whenToUse": "When you know the prospect uses a competitor's product. Works for competitive displacement campaigns and users of tools with known limitations.",
+        "expectedPerformance": "12-18% reply rate",
+        "personalizationTips": "Only reference competitor usage if you have real evidence (job postings, integrations listed on their site, G2 reviews). The {{competitorWeakness}} should be a known, legitimate frustration — not FUD."
+      },
+      {
+        "name": "The Investor/Board InMail",
+        "text": "Subject: Portfolio company opportunity\n\nHi {{firstName}},\n\nI noticed you're on the board of {{portfolioCompany}} / invested in {{portfolioCompany}}. We work with companies in their portfolio stage on {{challenge}} and have helped similar-stage companies achieve {{result}}.\n\nWould love to share some thoughts. Open to a brief introduction?\n\n{{yourName}}\n{{yourTitle}}, {{yourCompany}}",
+        "whenToUse": "Reaching VCs, board members, or investors to get warm introductions to their portfolio companies. An indirect path that can unlock multiple accounts.",
+        "expectedPerformance": "8-14% reply rate",
+        "personalizationTips": "Research their portfolio on Crunchbase. Reference specific portfolio companies by name. Investors respond to concrete results and data, not fluffy pitches."
+      },
+      {
+        "name": "The Follow-Up InMail",
+        "text": "Subject: Re: {{originalSubject}}\n\nHi {{firstName}},\n\nFollowing up on my previous message. I know {{month/quarter}} is a busy time for {{industry}} teams.\n\nHere's a quick thought that might make this more relevant: {{newInsight}}.\n\nStill happy to share how we've helped companies like {{company}} — just say the word.\n\n{{yourName}}",
+        "whenToUse": "Follow-up after an unreplied InMail. Wait 7-10 days before following up. InMail follow-ups are limited, so make each one count.",
+        "expectedPerformance": "8-12% reply rate",
+        "personalizationTips": "Add new value — a fresh insight, recent data point, or new case study. Don't just resend the original message. Reference the time of year or quarter to show awareness of their business cycle."
+      }
+    ],
+    "customization": {
+      "title": "InMail Best Practices That Actually Matter",
+      "content": "InMails have unique characteristics that make them different from regular LinkedIn messages:\n\n1. **Subject lines make or break your InMail**: You have about 5 words to earn the open. Use the prospect's company name, a specific challenge, or an intriguing question. Avoid ALL CAPS, excessive punctuation, or clickbait.\n2. **Keep it under 150 words**: InMails with under 400 characters have the highest response rates according to LinkedIn's own data. Every sentence must earn its place.\n3. **Include your signature**: Unlike regular messages, InMails should have your name, title, and company at the bottom. Prospects want to know who's reaching out before they reply.\n4. **Send Tuesday-Thursday**: InMails sent Tuesday through Thursday between 8-10 AM in the prospect's timezone get the highest open and reply rates.\n5. **Earn back credits**: LinkedIn refunds InMail credits when you get a reply within 90 days. Well-targeted InMails essentially become free.\n6. **Don't waste credits on connections**: If you can send a connection request instead, do that. Save InMail credits for prospects who are truly out of reach."
+    },
+    "sendingAtScale": {
+      "title": "Maximizing InMail Performance with Handshake",
+      "content": "Handshake helps you get the most out of your InMail credits:\n\n- **Multi-sender InMail distribution**: Spread InMail campaigns across multiple sender accounts to maximize total credits available per month.\n- **A/B test subject lines**: Run multiple subject line variants per campaign to identify what drives the highest open rates.\n- **Smart targeting**: Use Handshake's campaign filters to ensure InMails only go to high-value prospects who can't be reached via connection requests.\n- **Sequence integration**: Combine InMails with connection requests and regular messages in multi-step sequences — reach prospects through the best available channel.\n- **Reply tracking**: Monitor which InMail templates earn credit refunds (by getting replies) to optimize your template library over time."
+    }
+  },
+  "faqs": [
+    { "question": "How many InMail credits do I get per month?", "answer": "With LinkedIn Sales Navigator, you get 50 InMail credits per month. LinkedIn Premium Business gives you 15. Credits are refunded if the recipient replies within 90 days, so well-targeted InMails effectively give you unlimited credits." },
+    { "question": "What's the character limit for LinkedIn InMails?", "answer": "InMail subject lines can be up to 200 characters, and the body can be up to 1,900 characters. However, shorter InMails (under 400 characters in the body) consistently outperform longer ones." },
+    { "question": "Do InMails have higher reply rates than connection requests?", "answer": "Generally no. Connection request messages with personalized notes have higher acceptance/reply rates (35-50%) than cold InMails (10-18%). But InMails reach prospects you're not connected with — they serve a different purpose." },
+    { "question": "Can I send InMails without Sales Navigator?", "answer": "You need a LinkedIn Premium subscription (Premium Business, Sales Navigator, or Recruiter) to send InMails. The number of monthly credits varies by plan. Sales Navigator provides the most credits for sales outreach." },
+    { "question": "What subject lines work best for InMails?", "answer": "Short, specific subject lines outperform generic ones. Include the prospect's company name or a specific challenge. Avoid salesy language like 'Amazing opportunity' or 'Limited time offer.' Questions and personalized references perform best." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-use-linkedin-sales-navigator-for-lead-generation-on-linkedin", "how-to-personalize-linkedin-outreach-messages-on-linkedin", "how-to-send-connection-requests-at-scale-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-cold-outreach-message-templates", "linkedin-follow-up-message-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-skylead"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-fintech"]
+  }
+}

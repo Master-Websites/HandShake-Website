@@ -1,0 +1,140 @@
+{
+  "slug": "linkedin-cold-outreach-message-templates",
+  "title": "15 LinkedIn Cold Outreach Message Templates That Book Meetings (2026)",
+  "description": "Copy-paste LinkedIn cold outreach message templates for B2B prospecting. First messages, follow-ups, and InMail templates tested across thousands of campaigns.",
+  "lastUpdated": "2026-03-18",
+  "sections": {
+    "intro": {
+      "title": "Why Your LinkedIn Cold Outreach Messages Aren't Working",
+      "content": "Most LinkedIn cold outreach messages fail because they sound like cold outreach. The prospect can smell a template from the first line — 'Hope you're doing well!' followed by a wall of text about your product.\n\nThe best cold messages on LinkedIn don't feel cold at all. They feel like a relevant professional reaching out with something specific and useful. The difference between a 5% reply rate and a 25% reply rate often comes down to three things: relevance (why them, why now), brevity (under 100 words — ideally under 75), and a clear but low-pressure ask.\n\nThe templates below have been tested across thousands of B2B outreach campaigns. They cover first messages after connection, cold InMails, and follow-up sequences. Each includes the template text, when to use it, and personalization tips to make it your own."
+    },
+    "templates": [
+      {
+        "name": "The Problem-Awareness Opener",
+        "text": "Hey {{firstName}},\n\nI've been talking to a lot of {{jobTitle}}s at {{industry}} companies lately, and the same challenge keeps coming up: {{painPoint}}.\n\nWe've helped teams like {{similarCompany}} solve this — would it be worth a quick chat to see if we can do the same for {{company}}?",
+        "whenToUse": "First message after a connection is accepted. Best for prospects in a clearly defined ICP where you know the common pain points for their role.",
+        "expectedPerformance": "18-25% reply rate",
+        "personalizationTips": "The {{painPoint}} must be specific to their role and industry. Generic pain points ('growing revenue') won't work. Research what's actually challenging for their function — hiring SDRs, managing outbound at scale, reducing CAC."
+      },
+      {
+        "name": "The Trigger Event Message",
+        "text": "Hey {{firstName}},\n\nSaw that {{company}} just {{triggerEvent}} — congrats! That usually means {{implication}}.\n\nWe work with companies at this stage to {{valueProp}}. Worth exploring?",
+        "whenToUse": "When a prospect's company has a trigger event: new funding round, product launch, expansion, leadership change, or acquisition.",
+        "expectedPerformance": "20-30% reply rate",
+        "personalizationTips": "Trigger events create urgency. Check Crunchbase for funding, LinkedIn for leadership changes, company news pages for launches. The {{implication}} should connect the event to your solution naturally."
+      },
+      {
+        "name": "The Social Proof Lead",
+        "text": "Hey {{firstName}},\n\nWe recently helped {{caseStudyCompany}} (similar to {{company}} in {{industry}}) increase their {{metric}} by {{result}} in {{timeframe}}.\n\nHappy to share how — would a 15-min call make sense this week?",
+        "whenToUse": "When you have a relevant case study from a company similar to the prospect's. Works best when the case study company is recognizable in their industry.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "The case study company should be in the same industry or of similar size. If possible, mention a specific metric (pipeline increase, time saved, conversion improvement) rather than vague results."
+      },
+      {
+        "name": "The Mutual Connection Warm-Up",
+        "text": "Hey {{firstName}},\n\n{{mutualConnection}} mentioned your name when we were discussing {{topic}}. Sounds like you're doing interesting work at {{company}} on this front.\n\nWould love to compare notes — open to a quick chat?",
+        "whenToUse": "When you share a mutual connection who can vouch for you. Even better if the mutual connection actually recommended you reach out.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Only use if the mutual connection reference is genuine. Fake referrals destroy trust and can get reported. If you don't have a direct referral, use the content-based template instead."
+      },
+      {
+        "name": "The Content-Based Hook",
+        "text": "Hey {{firstName}},\n\nYour post about {{topic}} really resonated — especially the point about {{specificInsight}}. We've been seeing the same thing across our customer base.\n\nI'd love to share some data we've collected on this. Interested?",
+        "whenToUse": "When the prospect has recently published content (post, article, comment) on LinkedIn that relates to what you sell.",
+        "expectedPerformance": "22-30% reply rate",
+        "personalizationTips": "Reference a specific post and a specific insight from it — not just 'loved your content.' This template only works when the content reference is genuine and your offer relates to the topic they wrote about."
+      },
+      {
+        "name": "The Direct Ask",
+        "text": "Hey {{firstName}},\n\nI'll keep this short. We help {{industry}} companies {{valueProp}}. {{company}} fits the profile of teams we've helped.\n\nWorth a 15-min chat to see if there's a fit?",
+        "whenToUse": "For senior executives and C-suite prospects who value directness over storytelling. No fluff, no setup — just the ask.",
+        "expectedPerformance": "12-18% reply rate (lower volume, higher quality leads)",
+        "personalizationTips": "This works for decision-makers who get 20+ outreach messages/day. Being concise is the personalization. Make sure the {{valueProp}} is razor-sharp and relevant."
+      },
+      {
+        "name": "The Question Hook",
+        "text": "Hey {{firstName}},\n\nQuick question — how is {{company}} currently handling {{process}}? We've been hearing a lot of {{industry}} teams are struggling with this since {{recentChange}}.\n\nCurious how you're approaching it.",
+        "whenToUse": "When you want to start a conversation rather than pitch directly. Great for discovery-oriented outreach where you're mapping a market.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "The question must be genuinely interesting and relevant. Reference a recent industry change (new regulation, market shift, technology change) to create timeliness."
+      },
+      {
+        "name": "The Competitor Insight",
+        "text": "Hey {{firstName}},\n\nI noticed {{company}} competes with {{competitorName}} — they've been investing heavily in {{area}} lately.\n\nWe help teams in {{industry}} stay ahead on this front. Worth a chat to see if we can help {{company}} do the same?",
+        "whenToUse": "When you know the prospect's competitive landscape and can reference a specific competitor's move. Creates urgency through competitive pressure.",
+        "expectedPerformance": "15-22% reply rate",
+        "personalizationTips": "Only reference competitor moves that are publicly known (press releases, product launches, job postings). Don't share confidential information about their competitors — that's a red flag."
+      },
+      {
+        "name": "The Helpful Resource",
+        "text": "Hey {{firstName}},\n\nPut together a quick guide on {{topic}} for {{industry}} teams — covers {{keyTakeaway1}} and {{keyTakeaway2}}.\n\nThought it might be useful for what you're building at {{company}}. Want me to send it over?",
+        "whenToUse": "When you have a content asset (guide, report, benchmark data, checklist) that's genuinely valuable to the prospect. Lead with value, follow with a conversation.",
+        "expectedPerformance": "20-28% reply rate",
+        "personalizationTips": "The resource must be real, specific, and valuable — not a thinly disguised sales deck. Guides, benchmark reports, and industry data work best. Mention specific takeaways to build interest."
+      },
+      {
+        "name": "The Role-Specific Angle",
+        "text": "Hey {{firstName}},\n\nAs {{jobTitle}} at {{company}}, you're probably thinking about {{roleSpecificChallenge}} heading into {{quarter/year}}.\n\nWe've helped {{number}} {{industry}} teams solve exactly this — happy to share what's working. Open to a quick call?",
+        "whenToUse": "When you can speak directly to the challenges of the prospect's specific role (VP Sales, Head of Growth, CTO). Shows deep understanding of their priorities.",
+        "expectedPerformance": "18-25% reply rate",
+        "personalizationTips": "Research the common priorities for their role level and industry. VP of Sales cares about pipeline and quota. Head of Marketing cares about lead quality and CAC. Make the {{roleSpecificChallenge}} reflect their actual world."
+      },
+      {
+        "name": "The Follow-Up: Gentle Nudge",
+        "text": "Hey {{firstName}},\n\nJust floating this back up — didn't want it to get buried. Would a quick chat about {{topic}} be useful for {{company}}?\n\nNo worries if the timing's off — happy to reconnect later.",
+        "whenToUse": "First follow-up, 3-5 days after initial message with no reply. Low pressure, acknowledges they're busy.",
+        "expectedPerformance": "8-14% reply rate (on previously unresponsive prospects)",
+        "personalizationTips": "Keep it shorter than your first message. Don't repeat your entire pitch — just reference the core topic. The 'no worries' line reduces pressure and often triggers a response."
+      },
+      {
+        "name": "The Follow-Up: New Value",
+        "text": "Hey {{firstName}},\n\nFollowing up with something I thought you'd find interesting — {{newInsight}}. We just published data on this that's relevant to {{industry}} teams.\n\nWant me to send it your way?",
+        "whenToUse": "Second follow-up, 5-7 days after the first follow-up. Introduces new value instead of repeating the original ask.",
+        "expectedPerformance": "10-16% reply rate",
+        "personalizationTips": "Each follow-up should add new value — a different insight, resource, or angle. Never just say 'checking in' or 'following up on my last message.' Give them a new reason to respond."
+      },
+      {
+        "name": "The Follow-Up: Breakup Message",
+        "text": "Hey {{firstName}},\n\nI've reached out a couple times about {{topic}} and I'm guessing the timing isn't right. Totally understand.\n\nI'll leave it here — if {{challenge}} becomes a priority at {{company}}, feel free to reach out anytime.",
+        "whenToUse": "Final follow-up after 2-3 previous attempts. Creates a psychological trigger — people often respond to 'breakup' messages because the pressure is officially off.",
+        "expectedPerformance": "8-12% reply rate (often generates delayed responses weeks later)",
+        "personalizationTips": "Keep it genuinely respectful — not passive-aggressive. The goal is to leave a positive impression so they remember you when the need arises."
+      },
+      {
+        "name": "The Warm InMail",
+        "text": "{{firstName}}, quick thought on {{topic}}.\n\nI've been working with {{industry}} teams on {{challenge}} and noticed {{company}} might be dealing with something similar.\n\nWould love 15 minutes to share what's working — open to a quick call this week?\n\n{{yourName}}\n{{yourTitle}}, {{yourCompany}}",
+        "whenToUse": "LinkedIn InMail to prospects you're not connected with. InMails allow longer messages but the same rules apply: be relevant and concise.",
+        "expectedPerformance": "10-18% reply rate (InMails generally have lower reply rates but reach non-connections)",
+        "personalizationTips": "InMail subject lines matter — keep them under 5 words and curiosity-driven. The body should be shorter than a regular email. Include your title and company at the end for credibility."
+      },
+      {
+        "name": "The Post-Event Follow-Up",
+        "text": "Hey {{firstName}},\n\nGreat connecting at {{event}}! Enjoyed the discussion on {{topic}}.\n\nAs I mentioned, we're helping {{industry}} teams with {{valueProp}}. Would love to continue our conversation — how's {{day}} for a quick call?",
+        "whenToUse": "After meeting someone at a conference, webinar, or networking event. Combines the warmth of an in-person connection with a clear next step.",
+        "expectedPerformance": "25-35% reply rate",
+        "personalizationTips": "Reference something specific from your conversation. Suggest a specific day rather than 'sometime next week' — it's easier to say yes to a concrete option."
+      }
+    ],
+    "customization": {
+      "title": "How to Turn These Templates Into Meetings",
+      "content": "Templates are starting points, not scripts. Here's how to maximize their effectiveness:\n\n1. **Personalize the first line**: The opening sentence determines whether they read the rest. Generic openings ('Hope you're doing well') get skipped. Reference something specific about them or their company.\n2. **Keep it under 100 words**: LinkedIn messages that are 50-100 words get the highest reply rates. Anything over 150 words sees a sharp drop-off.\n3. **One CTA only**: Don't ask them to check out your website AND book a call AND read your case study. One clear ask.\n4. **Match their communication style**: Browse their LinkedIn posts and comments. If they write casually, be casual. If they're formal, match it.\n5. **Send at the right time**: Tuesday through Thursday, 8-11 AM in the prospect's timezone, consistently outperforms other windows.\n6. **Plan your sequence**: Don't send one message and give up. A 3-5 message sequence over 2-3 weeks is standard. Each follow-up should add new value, not just repeat the ask."
+    },
+    "sendingAtScale": {
+      "title": "Sending Cold Outreach at Scale with Handshake",
+      "content": "Handshake turns these templates into a scalable outreach machine:\n\n- **Dynamic variables**: Use `{{firstName}}`, `{{company}}`, `{{jobTitle}}`, `{{industry}}`, and custom fields to personalize every message automatically across hundreds of prospects.\n- **Multi-sender rotation**: Your messages are distributed across multiple LinkedIn sender accounts, so no single account sends the same template repeatedly — reducing spam flags and improving deliverability.\n- **Sequence builder**: Build multi-step sequences with timed delays between each message. Set your follow-ups to fire 3, 7, and 14 days after the initial message.\n- **A/B testing**: Run 3-4 message variants per step and let Handshake identify the highest-performing version automatically.\n- **Unified inbox**: Every reply from every sender account lands in one place. Respond instantly without switching between LinkedIn profiles.\n- **Campaign analytics**: Track reply rates, acceptance rates, and meeting conversion rates per template variant to continuously improve your outreach."
+    }
+  },
+  "faqs": [
+    { "question": "What's the ideal length for a LinkedIn cold outreach message?", "answer": "50-100 words. Messages in this range consistently get the highest reply rates. Anything over 150 words sees a significant drop in engagement. Be concise, be specific, and make your ask clear." },
+    { "question": "How many follow-up messages should I send?", "answer": "3-5 follow-ups over 2-3 weeks is the standard for B2B outreach. Most meetings are booked after the 2nd or 3rd follow-up, not the initial message. Each follow-up should add new value — not just say 'checking in.'" },
+    { "question": "Should I send a connection request note before sending a cold message?", "answer": "Yes — always pair a personalized connection note with your outreach strategy. Once they accept, follow up with your cold message within 24-48 hours while your name is still fresh." },
+    { "question": "What reply rate should I expect from LinkedIn cold outreach?", "answer": "15-25% is the benchmark for well-targeted, personalized B2B outreach on LinkedIn. Below 10% means your targeting or messaging needs work. Above 25% means you're doing exceptionally well." },
+    { "question": "Can I use the same message for every prospect?", "answer": "No — both for effectiveness and safety. Identical messages sent to many people get flagged by LinkedIn's spam detection and produce lower reply rates. Use dynamic variables and A/B test multiple variants." }
+  ],
+  "relatedPages": {
+    "guides": ["how-to-personalize-linkedin-outreach-messages-on-linkedin", "how-to-send-connection-requests-at-scale-on-linkedin", "how-to-avoid-getting-banned-on-linkedin"],
+    "templates": ["linkedin-connection-request-templates", "linkedin-follow-up-message-templates", "linkedin-inmail-templates"],
+    "comparisons": ["handshake-vs-expandi", "handshake-vs-skylead"],
+    "useCases": ["linkedin-automation-for-saas", "linkedin-automation-for-marketing-agencies"]
+  }
+}
