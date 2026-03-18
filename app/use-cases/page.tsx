@@ -15,6 +15,7 @@ export const metadata: Metadata = {
     canonical: 'https://byhandshake.com/use-cases',
   },
   openGraph: {
+    images: [{ url: "/og-image.jpg", width: 1200, height: 630 }],
     url: 'https://byhandshake.com/use-cases',
     title: 'LinkedIn Automation by Industry | Handshake',
     description:
