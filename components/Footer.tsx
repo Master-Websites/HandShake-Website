@@ -8,8 +8,8 @@ export function Footer() {
   return (
     <footer className="bg-[#02040a] border-t border-white/5 py-8 sm:py-12 text-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 sm:gap-8 mb-8 sm:mb-12">
-          <div className="col-span-2 lg:col-span-2">
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-6 sm:gap-8 mb-8 sm:mb-12">
+          <div className="col-span-2">
             <Link href="/" className="flex items-center cursor-pointer transition-transform hover:scale-105 relative">
               <Image 
                 src="/logos/handshake-logo.svg" 
@@ -49,7 +49,37 @@ export function Footer() {
               </li>
             </ul>
           </div>
-          
+
+          <div>
+            <h4 className="font-semibold text-white mb-3 sm:mb-4 font-geist text-xs sm:text-sm">Resources</h4>
+            <ul className="space-y-1.5 sm:space-y-2 text-gray-500 text-xs sm:text-sm">
+              <li>
+                <Link href="/blog" className="hover:text-blue-400 transition-colors font-geist">
+                  Blog
+                </Link>
+              </li>
+              <li>
+                <Link href="/guides" className="hover:text-blue-400 transition-colors font-geist">
+                  Guides
+                </Link>
+              </li>
+              <li>
+                <Link href="/templates" className="hover:text-blue-400 transition-colors font-geist">
+                  Templates
+                </Link>
+              </li>
+              <li>
+                <Link href="/compare" className="hover:text-blue-400 transition-colors font-geist">
+                  Compare
+                </Link>
+              </li>
+              <li>
+                <Link href="/use-cases" className="hover:text-blue-400 transition-colors font-geist">
+                  Use Cases
+                </Link>
+              </li>
+            </ul>
+          </div>
           
           <div>
             <h4 className="font-semibold text-white mb-3 sm:mb-4 font-geist text-xs sm:text-sm">Legal</h4>
