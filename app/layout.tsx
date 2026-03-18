@@ -62,8 +62,11 @@ export const metadata: Metadata = {
     images: ['/og-image.jpg'],
   },
   icons: {
-    icon: '/logos/handshake-icon.svg',
-    apple: '/logos/handshake-icon.svg',
+    icon: [
+      { url: '/favicon.png', sizes: '32x32', type: 'image/png' },
+      { url: '/logos/handshake-icon.svg', type: 'image/svg+xml' },
+    ],
+    apple: '/apple-touch-icon.png',
   },
   alternates: {
     canonical: 'https://byhandshake.com',
