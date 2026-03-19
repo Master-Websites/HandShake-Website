@@ -7,16 +7,16 @@ import { Footer } from '@/components/Footer'
 import { JsonLd } from '@/components/JsonLd'
 
 export const metadata: Metadata = {
-  title: 'Free LinkedIn Tools — Outreach Calculator, Profile Score & More',
+  title: 'Free LinkedIn Tools — Generators, Calculators & More',
   description:
-    'Free LinkedIn tools to optimize your outreach. Generate connection requests, calculate outreach ROI, and score your LinkedIn profile — all free, no signup required.',
+    'Free LinkedIn tools to optimize your outreach. Generate posts, headlines, summaries, connection requests, build boolean searches, count characters, calculate ROI, and score your profile — all free, no signup required.',
   alternates: {
     canonical: 'https://byhandshake.com/tools',
   },
   openGraph: {
-    title: 'Free LinkedIn Tools — Outreach Calculator, Profile Score & More',
+    title: 'Free LinkedIn Tools — Generators, Calculators & More',
     description:
-      'Free LinkedIn tools to optimize your outreach. Generate connection requests, calculate outreach ROI, and score your LinkedIn profile.',
+      'Free LinkedIn tools to optimize your outreach. Generate posts, headlines, summaries, connection requests, build boolean searches, and more.',
     url: 'https://byhandshake.com/tools',
     type: 'website',
   },
@@ -47,6 +47,46 @@ const tools = [
     icon: 'solar:chart-bold-duotone',
     color: 'from-green-500 to-emerald-500',
   },
+  {
+    title: 'LinkedIn Post Generator',
+    description:
+      'Generate 3 high-performing LinkedIn post variations from your topic and key points. Choose your tone and CTA style.',
+    href: '/tools/linkedin-post-generator',
+    icon: 'solar:pen-new-round-bold-duotone',
+    color: 'from-orange-500 to-amber-500',
+  },
+  {
+    title: 'LinkedIn Headline Generator',
+    description:
+      'Generate 10 compelling headline variations in different styles — results-focused, authority, curiosity, and social proof.',
+    href: '/tools/linkedin-headline-generator',
+    icon: 'solar:text-bold-duotone',
+    color: 'from-rose-500 to-pink-500',
+  },
+  {
+    title: 'LinkedIn Boolean Search Builder',
+    description:
+      'Build advanced LinkedIn boolean search strings instantly. Combine job titles, industries, locations, and keywords with AND/OR/NOT.',
+    href: '/tools/linkedin-boolean-search-builder',
+    icon: 'solar:magnifer-bold-duotone',
+    color: 'from-teal-500 to-cyan-500',
+  },
+  {
+    title: 'LinkedIn Summary Generator',
+    description:
+      'Generate 3 compelling About section variations — storyteller, results-driven, and authority styles. Under 2,600 characters.',
+    href: '/tools/linkedin-summary-generator',
+    icon: 'solar:document-text-bold-duotone',
+    color: 'from-indigo-500 to-violet-500',
+  },
+  {
+    title: 'LinkedIn Character Counter',
+    description:
+      'Real-time character counter for LinkedIn posts, headlines, summaries, connection requests, and InMails with color-coded warnings.',
+    href: '/tools/linkedin-character-counter',
+    icon: 'solar:ruler-bold-duotone',
+    color: 'from-yellow-500 to-orange-500',
+  },
 ]
 
 const collectionSchema = {
@@ -54,7 +94,7 @@ const collectionSchema = {
   '@type': 'CollectionPage',
   name: 'Free LinkedIn Tools',
   description:
-    'Free LinkedIn tools to optimize your outreach strategy — connection request generator, ROI calculator, and profile scorer.',
+    'Free LinkedIn tools to optimize your outreach strategy — post generator, headline generator, boolean search builder, summary generator, character counter, connection request generator, ROI calculator, and profile scorer.',
   url: 'https://byhandshake.com/tools',
   mainEntity: tools.map((tool) => ({
     '@type': 'WebApplication',
