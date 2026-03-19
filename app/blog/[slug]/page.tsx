@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { Icon } from '@iconify/react'
 import { MDXRemote } from 'next-mdx-remote/rsc'
+import remarkGfm from 'remark-gfm'
 import { Navbar } from '@/components/Navbar'
 import { Footer } from '@/components/Footer'
 import { BackgroundEffect } from '@/components/BackgroundEffect'
@@ -218,7 +219,7 @@ export default async function BlogPostPage({ params }: PageProps) {
         {/* Article body */}
         <article className="py-10 sm:py-14 relative">
           <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-            <MDXRemote source={post.content} components={mdxComponents} />
+            <MDXRemote source={post.content} components={mdxComponents} options={{ mdxOptions: { remarkPlugins: [remarkGfm] } }} />
           </div>
         </article>
 
