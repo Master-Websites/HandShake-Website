@@ -31,6 +31,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/tools/linkedin-connection-request-generator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${baseUrl}/tools/linkedin-outreach-roi-calculator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${baseUrl}/tools/linkedin-profile-score`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-post-generator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-headline-generator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-boolean-search-builder`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-summary-generator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-character-counter`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-carousel-creator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-inmail-generator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-hashtag-generator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-followup-generator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-post-planner`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-cta-generator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/tools/linkedin-ssi-estimator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
   ]
 
   // Blog posts
