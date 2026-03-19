@@ -9,6 +9,7 @@ const resourcesLinks = [
   { label: 'Blog', href: '/blog' },
   { label: 'Guides', href: '/guides' },
   { label: 'Templates', href: '/templates' },
+  { label: 'Tools', href: '/tools' },
   { label: 'Compare', href: '/compare' },
   { label: 'Use Cases', href: '/use-cases' },
 ]

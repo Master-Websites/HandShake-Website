@@ -78,6 +78,11 @@ export function Footer() {
                   Use Cases
                 </Link>
               </li>
+              <li>
+                <Link href="/tools" className="hover:text-blue-400 transition-colors font-geist">
+                  Tools
+                </Link>
+              </li>
             </ul>
           </div>
           
