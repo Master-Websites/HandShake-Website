@@ -7,46 +7,22 @@ import { Footer } from '@/components/Footer'
 import { JsonLd } from '@/components/JsonLd'
 
 export const metadata: Metadata = {
-  title: 'Free LinkedIn Tools — Generators, Calculators & More',
+  title: 'Free LinkedIn Tools — 15 Generators, Calculators & Planners',
   description:
-    'Free LinkedIn tools to optimize your outreach. Generate posts, headlines, summaries, connection requests, build boolean searches, count characters, calculate ROI, and score your profile — all free, no signup required.',
+    'Free LinkedIn tools to optimize your outreach. Generate posts, headlines, summaries, connection requests, InMails, CTAs, hashtags, carousels, follow-ups, build boolean searches, plan content calendars, count characters, calculate ROI, score your profile, and estimate your SSI — all free, no signup required.',
   alternates: {
     canonical: 'https://byhandshake.com/tools',
   },
   openGraph: {
-    title: 'Free LinkedIn Tools — Generators, Calculators & More',
+    title: 'Free LinkedIn Tools — 15 Generators, Calculators & Planners',
     description:
-      'Free LinkedIn tools to optimize your outreach. Generate posts, headlines, summaries, connection requests, build boolean searches, and more.',
+      'Free LinkedIn tools to optimize your outreach. 15 tools for posts, headlines, InMails, hashtags, carousels, CTAs, follow-ups, and more.',
     url: 'https://byhandshake.com/tools',
     type: 'website',
   },
 }
 
 const tools = [
-  {
-    title: 'LinkedIn Connection Request Generator',
-    description:
-      'Generate 5 personalized connection request templates under 300 characters. Just fill in your details and get copy-ready messages instantly.',
-    href: '/tools/linkedin-connection-request-generator',
-    icon: 'solar:chat-round-dots-bold-duotone',
-    color: 'from-blue-500 to-cyan-500',
-  },
-  {
-    title: 'LinkedIn Outreach ROI Calculator',
-    description:
-      'Calculate your projected pipeline value, meetings booked, and revenue from LinkedIn outreach based on your current metrics.',
-    href: '/tools/linkedin-outreach-roi-calculator',
-    icon: 'solar:calculator-bold-duotone',
-    color: 'from-purple-500 to-pink-500',
-  },
-  {
-    title: 'LinkedIn Profile Optimization Score',
-    description:
-      'Score your LinkedIn profile out of 100 with our checklist-based scorer. Get personalized recommendations to improve your profile.',
-    href: '/tools/linkedin-profile-score',
-    icon: 'solar:chart-bold-duotone',
-    color: 'from-green-500 to-emerald-500',
-  },
   {
     title: 'LinkedIn Post Generator',
     description:
@@ -64,12 +40,20 @@ const tools = [
     color: 'from-rose-500 to-pink-500',
   },
   {
-    title: 'LinkedIn Boolean Search Builder',
+    title: 'LinkedIn Connection Request Generator',
     description:
-      'Build advanced LinkedIn boolean search strings instantly. Combine job titles, industries, locations, and keywords with AND/OR/NOT.',
-    href: '/tools/linkedin-boolean-search-builder',
-    icon: 'solar:magnifer-bold-duotone',
-    color: 'from-teal-500 to-cyan-500',
+      'Generate 5 personalized connection request templates under 300 characters. Just fill in your details and get copy-ready messages instantly.',
+    href: '/tools/linkedin-connection-request-generator',
+    icon: 'solar:chat-round-dots-bold-duotone',
+    color: 'from-blue-500 to-cyan-500',
+  },
+  {
+    title: 'LinkedIn InMail Template Generator',
+    description:
+      'Generate 3 personalized InMail templates with subject lines. Recruit, sell, partner, or network — with character counts.',
+    href: '/tools/linkedin-inmail-generator',
+    icon: 'solar:letter-bold-duotone',
+    color: 'from-violet-500 to-purple-500',
   },
   {
     title: 'LinkedIn Summary Generator',
@@ -78,6 +62,78 @@ const tools = [
     href: '/tools/linkedin-summary-generator',
     icon: 'solar:document-text-bold-duotone',
     color: 'from-indigo-500 to-violet-500',
+  },
+  {
+    title: 'LinkedIn Carousel Creator',
+    description:
+      'Plan and outline LinkedIn carousel posts slide by slide. Preview your slides, get best practices, and copy the full outline.',
+    href: '/tools/linkedin-carousel-creator',
+    icon: 'solar:slider-vertical-bold-duotone',
+    color: 'from-pink-500 to-rose-500',
+  },
+  {
+    title: 'LinkedIn CTA Generator',
+    description:
+      'Generate 10 compelling call-to-action variations for any goal — get comments, drive traffic, book calls, or grow followers.',
+    href: '/tools/linkedin-cta-generator',
+    icon: 'solar:target-bold-duotone',
+    color: 'from-amber-500 to-yellow-500',
+  },
+  {
+    title: 'LinkedIn Hashtag Generator',
+    description:
+      'Generate 15–20 relevant hashtags sorted by reach. Smart mix of broad, medium, and niche hashtags for maximum discoverability.',
+    href: '/tools/linkedin-hashtag-generator',
+    icon: 'solar:hashtag-bold-duotone',
+    color: 'from-teal-500 to-emerald-500',
+  },
+  {
+    title: 'LinkedIn Follow-Up Message Generator',
+    description:
+      'Generate 3 follow-up message variations for any situation — after connecting, a meeting, no reply, or an event.',
+    href: '/tools/linkedin-followup-generator',
+    icon: 'solar:reply-bold-duotone',
+    color: 'from-cyan-500 to-blue-500',
+  },
+  {
+    title: 'LinkedIn Post Scheduler Planner',
+    description:
+      'Plan your weekly LinkedIn content calendar with optimal posting days, times, content type distribution, and suggestions.',
+    href: '/tools/linkedin-post-planner',
+    icon: 'solar:calendar-bold-duotone',
+    color: 'from-emerald-500 to-green-500',
+  },
+  {
+    title: 'LinkedIn Boolean Search Builder',
+    description:
+      'Build advanced LinkedIn boolean search strings instantly. Combine job titles, industries, locations, and keywords with AND/OR/NOT.',
+    href: '/tools/linkedin-boolean-search-builder',
+    icon: 'solar:magnifer-bold-duotone',
+    color: 'from-teal-500 to-cyan-500',
+  },
+  {
+    title: 'LinkedIn Profile Optimization Score',
+    description:
+      'Score your LinkedIn profile out of 100 with our checklist-based scorer. Get personalized recommendations to improve your profile.',
+    href: '/tools/linkedin-profile-score',
+    icon: 'solar:chart-bold-duotone',
+    color: 'from-green-500 to-emerald-500',
+  },
+  {
+    title: 'LinkedIn SSI Score Estimator',
+    description:
+      'Estimate your Social Selling Index with a 20-question checklist. Category breakdowns, score out of 100, and personalized tips.',
+    href: '/tools/linkedin-ssi-estimator',
+    icon: 'solar:graph-up-bold-duotone',
+    color: 'from-blue-500 to-indigo-500',
+  },
+  {
+    title: 'LinkedIn Outreach ROI Calculator',
+    description:
+      'Calculate your projected pipeline value, meetings booked, and revenue from LinkedIn outreach based on your current metrics.',
+    href: '/tools/linkedin-outreach-roi-calculator',
+    icon: 'solar:calculator-bold-duotone',
+    color: 'from-purple-500 to-pink-500',
   },
   {
     title: 'LinkedIn Character Counter',
@@ -94,7 +150,7 @@ const collectionSchema = {
   '@type': 'CollectionPage',
   name: 'Free LinkedIn Tools',
   description:
-    'Free LinkedIn tools to optimize your outreach strategy — post generator, headline generator, boolean search builder, summary generator, character counter, connection request generator, ROI calculator, and profile scorer.',
+    'Free LinkedIn tools to optimize your outreach strategy — 15 generators, calculators, and planners for posts, headlines, InMails, hashtags, carousels, CTAs, follow-ups, boolean search, summaries, content calendars, character counting, ROI calculation, profile scoring, and SSI estimation.',
   url: 'https://byhandshake.com/tools',
   mainEntity: tools.map((tool) => ({
     '@type': 'WebApplication',
@@ -113,11 +169,11 @@ export default function ToolsHub() {
       <BackgroundEffect />
       <Navbar />
       <main className="min-h-screen pt-28 sm:pt-32 pb-16 sm:pb-24">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6">
           <div className="text-center mb-12 sm:mb-16 [animation:fadeSlideIn_0.8s_ease-out_0.1s_both]">
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-400 text-xs font-medium font-geist mb-6">
               <Icon icon="solar:tools-bold-duotone" className="w-3.5 h-3.5" />
-              Free Tools
+              15 Free Tools
             </div>
             <h1 className="text-3xl sm:text-4xl md:text-5xl font-jakarta font-bold text-white tracking-tight mb-4">
               Free LinkedIn Outreach Tools
