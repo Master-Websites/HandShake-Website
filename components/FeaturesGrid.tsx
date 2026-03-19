@@ -19,7 +19,7 @@ export function FeaturesGrid() {
             </p>
           </div>
           <div className="flex items-center gap-3 shrink-0">
-            <a href="https://app.byhandshake.com/signup" className="group inline-flex w-full sm:w-auto text-sm font-semibold rounded-full px-6 py-3 items-center justify-center transition-all duration-300 text-white font-geist bg-blue-950 border border-blue-600 shadow-lg shadow-blue-500/20 hover:bg-blue-700 hover:border-blue-300 hover:shadow-[0_0_40px_rgba(0,123,255,0.8)] focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 focus:ring-offset-blue-950 gap-2">
+            <a href="https://app.byhandshake.com/signup" className="btn-shimmer group inline-flex w-full sm:w-auto text-sm font-semibold rounded-full px-6 py-3 items-center justify-center transition-all duration-300 text-white font-geist bg-blue-950 border border-blue-600 shadow-lg shadow-blue-500/20 hover:bg-blue-700 hover:border-blue-300 hover:shadow-[0_0_40px_rgba(0,123,255,0.8)] focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 focus:ring-offset-blue-950 gap-2">
               <span className="font-geist">Start Scaling</span>
               <Icon icon="mdi:arrow-right" className="transition-transform group-hover:translate-x-0.5" />
             </a>

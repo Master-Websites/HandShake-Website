@@ -1,3 +1,4 @@
+export { AnimatedCounter } from './AnimatedCounter'
 export { BackgroundEffect } from './BackgroundEffect'
 export { Navbar } from './Navbar'
 export { Hero } from './Hero'

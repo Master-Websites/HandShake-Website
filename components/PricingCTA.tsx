@@ -1,6 +1,7 @@
 'use client'
 
 import { Icon } from '@iconify/react'
+import { AnimatedCounter } from './AnimatedCounter'
 
 export function PricingCTA() {
   return (
@@ -17,7 +18,7 @@ export function PricingCTA() {
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
-            <a href="https://app.byhandshake.com/signup" className="inline-flex w-full sm:w-auto text-sm font-semibold rounded-full px-8 py-4 items-center justify-center gap-2 transition-all duration-300 text-white font-geist bg-gradient-to-tr from-blue-400 via-blue-600 to-blue-800 shadow-[0_4px_15px_rgba(0,123,255,0.4)] hover:shadow-[0_8px_25px_rgba(0,123,255,0.8)] hover:scale-[1.02] uppercase tracking-wide group">
+            <a href="https://app.byhandshake.com/signup" className="btn-shimmer inline-flex w-full sm:w-auto text-sm font-semibold rounded-full px-8 py-4 items-center justify-center gap-2 transition-all duration-300 text-white font-geist bg-gradient-to-tr from-blue-400 via-blue-600 to-blue-800 shadow-[0_4px_15px_rgba(0,123,255,0.4)] hover:shadow-[0_8px_25px_rgba(0,123,255,0.8)] hover:scale-[1.02] uppercase tracking-wide group">
               Start Scaling
               <Icon icon="mdi:arrow-right" className="transition-transform group-hover:translate-x-1" />
             </a>
@@ -42,22 +43,22 @@ export function PricingCTA() {
           </div>
         </div>
 
-        {/* Trust Indicators */}
+        {/* Trust Indicators - Animated Counters */}
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 [animation:fadeSlideIn_0.8s_ease-out_0.2s_both] animate-on-scroll">
           <div className="text-center">
-            <div className="text-3xl font-bold text-white font-jakarta mb-2">10K+</div>
+            <AnimatedCounter target="10K+" className="text-3xl font-bold text-white font-jakarta mb-2" />
             <div className="text-sm text-gray-500 font-geist">Active Users</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-white font-jakarta mb-2">500K+</div>
+            <AnimatedCounter target="500K+" className="text-3xl font-bold text-white font-jakarta mb-2" />
             <div className="text-sm text-gray-500 font-geist">Messages Sent</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-white font-jakarta mb-2">98%</div>
+            <AnimatedCounter target="98%" className="text-3xl font-bold text-white font-jakarta mb-2" />
             <div className="text-sm text-gray-500 font-geist">Satisfaction Rate</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-white font-jakarta mb-2">24/7</div>
+            <AnimatedCounter target="24/7" className="text-3xl font-bold text-white font-jakarta mb-2" />
             <div className="text-sm text-gray-500 font-geist">Support Available</div>
           </div>
         </div>
