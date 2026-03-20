@@ -16,6 +16,8 @@ const resourcesLinks = [
 
 export function Navbar() {
   const [resourcesOpen, setResourcesOpen] = useState(false)
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+  const [mobileResourcesOpen, setMobileResourcesOpen] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
   const timeoutRef = useRef<NodeJS.Timeout | null>(null)
 
@@ -29,6 +31,21 @@ export function Navbar() {
     document.addEventListener('mousedown', handleClickOutside)
     return () => document.removeEventListener('mousedown', handleClickOutside)
   }, [])
+
+  // Lock body scroll when mobile menu is open
+  useEffect(() => {
+    if (mobileMenuOpen) {
+      document.body.style.overflow = 'hidden'
+    } else {
+      document.body.style.overflow = ''
+    }
+    return () => { document.body.style.overflow = '' }
+  }, [mobileMenuOpen])
+
+  const closeMobileMenu = () => {
+    setMobileMenuOpen(false)
+    setMobileResourcesOpen(false)
+  }
 
   const handleMouseEnter = () => {
     if (timeoutRef.current) clearTimeout(timeoutRef.current)
@@ -124,6 +141,20 @@ export function Navbar() {
         </div>
 
         <div className="relative flex items-center gap-2 shrink-0">
+          {/* Hamburger button — mobile/tablet only */}
+          <button
+            onClick={() => setMobileMenuOpen((prev) => !prev)}
+            className="lg:hidden relative w-8 h-8 flex items-center justify-center text-gray-300 hover:text-white transition-colors duration-300"
+            aria-label={mobileMenuOpen ? 'Close menu' : 'Open menu'}
+            aria-expanded={mobileMenuOpen}
+          >
+            <div className="w-5 h-4 relative flex flex-col justify-between">
+              <span className={`block h-[2px] w-full bg-current rounded-full transition-all duration-300 origin-center ${mobileMenuOpen ? 'rotate-45 translate-y-[7px]' : ''}`} />
+              <span className={`block h-[2px] w-full bg-current rounded-full transition-all duration-300 ${mobileMenuOpen ? 'opacity-0 scale-x-0' : ''}`} />
+              <span className={`block h-[2px] w-full bg-current rounded-full transition-all duration-300 origin-center ${mobileMenuOpen ? '-rotate-45 -translate-y-[7px]' : ''}`} />
+            </div>
+          </button>
+
           <a href="https://app.byhandshake.com/login" className="hidden sm:inline-flex items-center justify-center px-4 md:px-6 py-2 sm:py-2.5 md:py-3 text-[11px] sm:text-xs md:text-sm font-semibold text-gray-300 hover:text-white transition-colors duration-300 font-geist">
             Login
           </a>
@@ -132,6 +163,117 @@ export function Navbar() {
             <span className="relative z-10 font-geist md:hidden">Start</span>
             <Icon icon="solar:arrow-right-up-bold-duotone" className="relative z-10 group-hover:translate-x-0.5 transition-transform duration-300 w-3.5 h-3.5 sm:w-4 sm:h-4" />
           </a>
+        </div>
+      </div>
+
+      {/* Mobile menu overlay + panel */}
+      <div
+        className={`lg:hidden fixed inset-0 top-0 z-40 transition-opacity duration-300 ${
+          mobileMenuOpen ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
+        }`}
+      >
+        {/* Backdrop */}
+        <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" onClick={closeMobileMenu} />
+
+        {/* Panel */}
+        <div
+          className={`absolute top-14 sm:top-16 left-2 right-2 sm:left-4 sm:right-4 max-w-6xl mx-auto rounded-2xl border border-gray-700/50 bg-[#0a0a0a]/95 backdrop-blur-xl shadow-2xl shadow-black/50 overflow-hidden transition-all duration-300 ease-out ${
+            mobileMenuOpen ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-4'
+          }`}
+        >
+          <div className="max-h-[calc(100vh-5rem)] overflow-y-auto py-3">
+            <Link
+              href="/features"
+              onClick={closeMobileMenu}
+              className="block px-5 py-3 text-[15px] font-geist font-medium text-gray-300 hover:text-white hover:bg-white/5 transition-colors duration-200"
+            >
+              Features
+            </Link>
+            <Link
+              href="/pricing"
+              onClick={closeMobileMenu}
+              className="block px-5 py-3 text-[15px] font-geist font-medium text-gray-300 hover:text-white hover:bg-white/5 transition-colors duration-200"
+            >
+              Pricing
+            </Link>
+            <Link
+              href="/templates"
+              onClick={closeMobileMenu}
+              className="block px-5 py-3 text-[15px] font-geist font-medium text-gray-300 hover:text-white hover:bg-white/5 transition-colors duration-200"
+            >
+              Templates
+            </Link>
+            <Link
+              href="/affiliate"
+              onClick={closeMobileMenu}
+              className="block px-5 py-3 text-[15px] font-geist font-medium text-gray-300 hover:text-white hover:bg-white/5 transition-colors duration-200"
+            >
+              <span className="inline-flex items-center gap-2">
+                Affiliate
+                <span className="inline-flex items-center justify-center px-1.5 py-0.5 rounded-full text-[9px] font-semibold bg-orange-500/20 text-orange-300 border border-orange-500/30">Hot</span>
+              </span>
+            </Link>
+
+            {/* Resources expandable section */}
+            <div className="border-t border-gray-800/50">
+              <button
+                onClick={() => setMobileResourcesOpen((prev) => !prev)}
+                className="flex items-center justify-between w-full px-5 py-3 text-[15px] font-geist font-medium text-gray-300 hover:text-white hover:bg-white/5 transition-colors duration-200"
+              >
+                Resources
+                <Icon
+                  icon="solar:alt-arrow-down-linear"
+                  className={`w-4 h-4 transition-transform duration-200 ${mobileResourcesOpen ? 'rotate-180' : ''}`}
+                />
+              </button>
+              <div
+                className={`overflow-hidden transition-all duration-300 ease-out ${
+                  mobileResourcesOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'
+                }`}
+              >
+                {resourcesLinks.map((item) => (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    onClick={closeMobileMenu}
+                    className="block pl-9 pr-5 py-2.5 text-sm font-geist text-gray-400 hover:text-white hover:bg-white/5 transition-colors duration-200"
+                  >
+                    {item.label}
+                  </Link>
+                ))}
+              </div>
+            </div>
+
+            <div className="border-t border-gray-800/50">
+              <a
+                href="https://outbound.community/"
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={closeMobileMenu}
+                className="block px-5 py-3 text-[15px] font-geist font-medium text-gray-300 hover:text-white hover:bg-white/5 transition-colors duration-200"
+              >
+                Community
+              </a>
+            </div>
+
+            {/* CTA section */}
+            <div className="border-t border-gray-800/50 px-5 py-4 flex flex-col gap-3">
+              <a
+                href="https://app.byhandshake.com/login"
+                onClick={closeMobileMenu}
+                className="block text-center py-2.5 text-sm font-semibold font-geist text-gray-300 hover:text-white transition-colors duration-200 rounded-lg border border-gray-700/50 hover:border-gray-600/50"
+              >
+                Login
+              </a>
+              <a
+                href="https://app.byhandshake.com/signup"
+                onClick={closeMobileMenu}
+                className="block text-center py-2.5 text-sm font-semibold font-geist text-white rounded-lg bg-gradient-to-r from-blue-400 via-blue-600 to-blue-800 hover:from-blue-300 hover:via-blue-500 hover:to-blue-700 shadow-[0_4px_15px_rgba(0,123,255,0.4)] transition-all duration-300"
+              >
+                Start Scaling →
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </nav>
